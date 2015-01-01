@@ -2,9 +2,10 @@
   "name": "alara",
   "version": "0.0.0",
   "description": "Alara World Setting Wiki",
-  "main": "index.js",
+  "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tiddlywiki wiki/ --server",
+    "postinstall": "npm install -g tiddlywiki"
   },
   "author": "",
   "license": "ISC",
