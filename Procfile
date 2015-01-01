@@ -1,1 +1,1 @@
-web: tiddlywiki wiki/ --server 80
+web: sudo tiddlywiki wiki/ --server 80
