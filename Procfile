@@ -1,1 +1,1 @@
-web: sudo tiddlywiki wiki/ --server 80
+web: tiddlywiki . --server $PORT $:/core/save/all text/plain text/html "" "" 0.0.0.0
