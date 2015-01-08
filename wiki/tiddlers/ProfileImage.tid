@@ -1,0 +1,9 @@
+created: 20150107201454378
+modified: 20150107201502190
+tags: 
+title: ProfileImage
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[ProfileImage]tag<currentTiddler>]">
+<figure><$transclude/></figure>
+</$list>

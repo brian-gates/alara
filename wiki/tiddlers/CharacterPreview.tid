@@ -1,0 +1,19 @@
+created: 20141231190806001
+creator: Brian
+modified: 20150107201144000
+modifier: Brian
+tags: 
+title: CharacterPreview
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[ProfileImage]tag<currentTiddler>]">
+<figure><$transclude/></figure>
+</$list>
+{{!!ethic}} {{!!moral}} {{!!class}} {{!!background}}
+
+{{!!description}}
+
+| !Bond | {{!!bond}} |
+| !Flaw | {{!!flaw}} |
+| !Ideal | {{!!ideal}} |
+| !Trait | {{!!trait}} |

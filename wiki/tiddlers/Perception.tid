@@ -1,0 +1,17 @@
+created: 20141231220724659
+creator: Brian
+modified: 20141231221553626
+modifier: Brian
+tags: 
+title: Perception
+type: text/vnd.tiddlywiki
+
+Members: 
+
+<ul>
+<$list filter="[tag[PC]]+[sort[passive_perception]]">
+<li>
+{{!!passive_perception}} <$link to={{!!title}}>{{!!title}}</$link>
+</li>
+</$list>
+</ul>

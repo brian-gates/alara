@@ -1,0 +1,21 @@
+created: 20141231000717306
+creator: Brian
+ethic: Lawful
+modified: 20150108191310673
+modifier: Brian
+moral: Evil
+tags: House Qeynos
+title: House Blackwood
+type: text/vnd.tiddlywiki
+
+Human House - Special Operations & Mercenary force - Hires adventurers as well
+
+Members: 
+
+<ul>
+<$list filter="[tag[House Blackwood]]">
+<li>
+<$view field="rank"/> <$link to={{!!title}}><$view field="title"/></$link>
+</li>
+</$list>
+</ul>
