@@ -1,21 +1,18 @@
 created: 20150107193442374
-modified: 20150108203821547
+modified: 20150108212145385
 tags: [[Table of Contents]]
 title: Image Gallery
 type: text/vnd.tiddlywiki
 
 <style>
-.my-gallery svg {
-width: 6em;
-height: 6em;
-margin: 1em;
-}
 </style>
 <div class="my-gallery">
 <$list filter="[tag[Image]]">
 <figure>
-<$transclude/>
-<figcaption>{{!!title}}</figcaption>
+<$link to={{!!title}}>
+  <$transclude/>
+  <figcaption><$view field="title"/></figcaption>
+</$link>
 </figure>
 </$list>
 </div>
