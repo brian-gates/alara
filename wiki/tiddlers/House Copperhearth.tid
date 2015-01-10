@@ -1,11 +1,13 @@
 created: 20150102062910216
+description: Human merchant house in [[Qeynos]] dealing primarily in cloths and spices.  Not as much a family as much as a conglomerate of extremely wealthy and powerful merchants.
 ethic: Neutral
-modified: 20150102160454046
+known_for: Trading, primarily in cloths and spices.
+modified: 20150110202146029
 moral: Neutral
 tags: Qeynos House
 title: House Copperhearth
 type: text/vnd.tiddlywiki
 
-Human merchant house in [[Qeynos]] dealing primarily in cloths and spices.  Not as much a family as much as a conglomerate of extremely wealthy and powerful merchants.
+{{||HouseOverview}}
 
 Head is [[Nagid Zohar]].

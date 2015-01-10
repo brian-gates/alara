@@ -1,9 +1,11 @@
 created: 20150102063203665
+description: Very old human house.
 ethic: Chaotic
-modified: 20150108202349664
+known_for: Mines (Ore & Gems)
+modified: 20150110201441141
 moral: Evil
 tags: Qeynos House
 title: House Stonehands
 type: text/vnd.tiddlywiki
 
-Human House - {{!!ethic}} {{!!moral}} - OLD House - Mines (Ore & Gems)
+{{||HouseOverview}}

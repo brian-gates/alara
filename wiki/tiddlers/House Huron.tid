@@ -1,9 +1,11 @@
 created: 20150108203311434
+description: Very old human house.
 ethic: Lawful
-modified: 20150108203417391
+known_for: Agriculture & Clergy of Erathis
+modified: 20150110201536874
 moral: Good
 tags: House Qeynos
 title: House Huron
 type: text/vnd.tiddlywiki
 
-Human House - {{!!ethic}} {{!!moral}} - OLD House - Agriculture & Clergy of Erathis
+{{||HouseOverview}}

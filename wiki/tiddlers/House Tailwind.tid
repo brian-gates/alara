@@ -1,11 +1,11 @@
 created: 20150104230538942
 ethic: Chaotic
-modified: 20150108204254947
+icon: Swirls representing wind
+known_for: Seafaring house.  Serves as [[Qeynos]] navy.
+modified: 20150110200756068
 moral: Neutral
 tags: House Qeynos
 title: House Tailwind
 type: text/vnd.tiddlywiki
 
-Seafaring house.  Serves as [[Qeynos]] navy.
-
-Icon is swirls representing wind.
+{{||HouseOverview}}

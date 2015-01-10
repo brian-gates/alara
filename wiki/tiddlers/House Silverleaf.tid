@@ -1,14 +1,11 @@
 created: 20150106213321380
+description: Elvish House
 ethic: Neutral
-modified: 20150108185829463
+known_for: Mithral & Precious Ores (Gold, Silver, Copper)
+modified: 20150110204056689
 moral: Good
 tags: House Kelethin
 title: House Silverleaf
 type: text/vnd.tiddlywiki
 
-Elvish House - Neutral Good - Mithral & Precious Ores (Gold, Silver, Copper)
-
-Noble House of Kelethin
-
-Members:
-<<toc-selective-expandable "House Silverleaf">>
+{{||HouseOverview}}

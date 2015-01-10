@@ -1,9 +1,11 @@
 created: 20150108175813049
+description: Dwarven House
 ethic: Lawful
-modified: 20150108175920764
+known_for: Guard/Militia
+modified: 20150110204958133
 moral: Neutral
 tags: House Kaladim
 title: House Rockhammer
 type: text/vnd.tiddlywiki
 
-Dwarven House - Lawful Neutral - Guard/Militia
+{{||HouseOverview}}

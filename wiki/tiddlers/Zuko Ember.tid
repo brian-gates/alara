@@ -9,7 +9,7 @@ diety: Bahamut
 ethic: Lawful
 flaw: I too often hear veiled insults and threates in every word address to me, and I'm quick to anger
 ideal: It is my duty to protect and care for the people beneath me. (Good)
-modified: 20141231232115007
+modified: 20150110200645647
 modifier: Brian
 moral: Good
 passive_perception: 12
@@ -20,4 +20,4 @@ title: Zuko Ember
 trait: Despite my noble birth, I do not place myself above other folk. We all have the same blood.
 type: text/vnd.tiddlywiki
 
-{{||CharacterPreview}}
+{{||CharacterOverview}}

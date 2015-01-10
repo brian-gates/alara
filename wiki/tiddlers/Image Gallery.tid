@@ -1,5 +1,5 @@
 created: 20150107193442374
-modified: 20150108212145385
+modified: 20150108212357181
 tags: [[Table of Contents]]
 title: Image Gallery
 type: text/vnd.tiddlywiki
@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
 <figure>
 <$link to={{!!title}}>
   <$transclude/>
-  <figcaption><$view field="title"/></figcaption>
+  <figcaption><$view field="label"/>{{!!title}}</figcaption>
 </$link>
 </figure>
 </$list>

@@ -1,9 +1,11 @@
 created: 20150108202025338
+description: Very old human house
 ethic: Neutral
-modified: 20150108203251511
+known_for: Taverns & Information
+modified: 20150110201920953
 moral: Evil
 tags: House Qeynos
 title: House Secarte
 type: text/vnd.tiddlywiki
 
-Human House - {{!!ethic}} {{!!moral}} - OLD House - Taverns & Information
+{{||HouseOverview}}

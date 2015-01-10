@@ -1,9 +1,11 @@
 created: 20150108185251937
+description: Dwarven house
 ethic: Lawful
-modified: 20150108185345749
+known_for: Lorekeepers, Historians, Clergy of Moradin
+modified: 20150110205245541
 moral: Good
 tags: House Kaladim
 title: House Urza
 type: text/vnd.tiddlywiki
 
-Dwarven House - Lawful Good - Lorekeepers, Historians, Clergy of Moradin
+{{||HouseOverview}}

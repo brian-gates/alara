@@ -1,9 +1,11 @@
 created: 20150108203116411
+description: Human house.
 ethic: Chaotic
-modified: 20150108203229525
+known_for: Scouts & Rangers
+modified: 20150110201353655
 moral: Good
 tags: House Qeynos
 title: House Lurellas
 type: text/vnd.tiddlywiki
 
-Human House - {{!!ethic}} {{!!moral}} - Scouts & Rangers
+{{||HouseOverview}}

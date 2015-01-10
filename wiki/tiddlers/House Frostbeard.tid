@@ -1,13 +1,10 @@
 created: 20150106060148444
+description: Dwarven house
 ethic: Neutral
-modified: 20150108175320652
+modified: 20150110204810900
 moral: Good
 tags: Kaladim House
 title: House Frostbeard
 type: text/vnd.tiddlywiki
 
-Dwarven House - Neutral Good - Scouts & Rangers
-
-Members:
-
-[[Rurik Frostbeard]]
+{{||HouseOverview}}

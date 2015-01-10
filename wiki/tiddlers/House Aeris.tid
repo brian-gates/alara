@@ -1,11 +1,13 @@
 created: 20150108202657747
+description: Very old human house.
 ethic: Lawful
-modified: 20150108203059501
+known_for: Politics
+modified: 20150110201805477
 moral: Neutral
 tags: House Qeynos
 title: House Aeris
 type: text/vnd.tiddlywiki
 
-Human House - {{!!ethic}} {{!!moral}} - OLD House - Politics
+{{||HouseOverview}}
 
 It is rumored that the members of House Aeris are the bloodline decendants of the last king of Alara. Unconfirmed rumor currently.

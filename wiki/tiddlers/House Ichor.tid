@@ -1,11 +1,14 @@
 created: 20150108203423080
 ethic: Chaotic
-modified: 20150108203630842
+known_for: Alchemy/Herbalism
+modified: 20150110200907258
 moral: Evil
 tags: House Qeynos
 title: House Ichor
 type: text/vnd.tiddlywiki
 
-Human House - {{!!ethic}} {{!!moral}} - Alchemy/Herbalism
+{{||HouseOverview}}
+
+Human House - {{!!ethic}} {{!!moral}} - 
 
 House Ichor are scientifically minded, always willing to test anything on anyone or anything to create a better anything.

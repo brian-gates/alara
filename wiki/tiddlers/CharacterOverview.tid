@@ -1,9 +1,9 @@
 created: 20141231190806001
 creator: Brian
-modified: 20150107201144000
+modified: 20150110200705678
 modifier: Brian
 tags: 
-title: CharacterPreview
+title: CharacterOverview
 type: text/vnd.tiddlywiki
 
 <$list filter="[tag[ProfileImage]tag<currentTiddler>]">
@@ -12,6 +12,8 @@ type: text/vnd.tiddlywiki
 {{!!ethic}} {{!!moral}} {{!!class}} {{!!background}}
 
 {{!!description}}
+
+Worships: {{!!deity}}
 
 | !Bond | {{!!bond}} |
 | !Flaw | {{!!flaw}} |

@@ -1,9 +1,11 @@
 created: 20150108202554591
+description: Human house.
 ethic: Lawful
-modified: 20150108202640378
+known_for: Guards and soldiers.
+modified: 20150110201842483
 moral: Good
 tags: House Qeynos
 title: House Baeldan
 type: text/vnd.tiddlywiki
 
-Human House - {{!!ethic}} {{!!moral}} - Guards/Soldiers
+{{||HouseOverview}}

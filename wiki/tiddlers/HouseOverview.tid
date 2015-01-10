@@ -1,9 +1,23 @@
 created: 20150107033621399
-modified: 20150108204311125
+modified: 20150110201710504
 tags: 
 title: HouseOverview
 type: text/vnd.tiddlywiki
 
-{{!ethic}} {{!moral}}
+{{!!ethic}} {{!!moral}} 
 
-Known for: {{!known_for}}
+Known for: {{!!known_for}}
+
+Icon: {{!!icon}}
+
+{{!!description}}
+
+Related: 
+
+<ul>
+<$list filter="[tag<currentTiddler>]">
+<li>
+<$view field="rank"/> <$link to={{!!title}}><$view field="title"/></$link>
+</li>
+</$list>
+</ul>

@@ -1,8 +1,10 @@
 created: 20150102164350238
-modified: 20150108203627960
+modified: 20150110201250593
 tags: [[Table of Contents]]
-title: House Alignments
+title: House Overview
 type: text/vnd.tiddlywiki
+
+This is an overview of all the houses of Alara.
 
 <$list filter="[tag[Place]]">
 {{!!title}}
@@ -11,7 +13,9 @@ type: text/vnd.tiddlywiki
   <tr>
   <th>Ethic</th>
   <th>Moral</th>
-  <th>House</th>
+  <th>Name</th>
+  <th>Known For</th>
+  <th>Icon</th>
   </tr>
   </thead>
   <tbody>
@@ -20,6 +24,8 @@ type: text/vnd.tiddlywiki
   <td>{{!!ethic}}</td>
   <td>{{!!moral}}</td>
   <td><$link to={{!!title}}> {{!!title}}</$link></td>
+  <td>{{!!known_for}}</td>
+  <td>{{!!icon}}</td>
   </tr>
   </$list>
   </tbody>
