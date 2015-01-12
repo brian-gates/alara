@@ -3,14 +3,15 @@ bond: The common folk must see me as a hero of the people.
 class: Paladin
 created: 20141230234353755
 creator: Brian
+deity: Lathander
 ethic: Lawful
 flaw: Once someone questions my courage, I never back down no matter how dangerous the situation
 ideal: Noble Obligation: It is my duty to protect and care for the people beneath me. (Good)
-modified: 20150110200504515
+modified: 20150112203721130
 modifier: Brian
 moral: Good
 passive_perception: 12
-race: Paladin
+race: Human
 rank: Prince
 tags: PC [[House Blackwood]]
 title: Ander Blackwood

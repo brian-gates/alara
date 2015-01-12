@@ -1,5 +1,5 @@
 created: 20150107193442374
-modified: 20150108212357181
+modified: 20150112204637210
 tags: [[Table of Contents]]
 title: Image Gallery
 type: text/vnd.tiddlywiki
@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 <style>
 </style>
 <div class="my-gallery">
-<$list filter="[tag[Image]]">
+<$list filter="[tag[Image]] [tag[ProfileImage]] +[!sort[modified]]">
 <figure>
 <$link to={{!!title}}>
   <$transclude/>
