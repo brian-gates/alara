@@ -2,7 +2,7 @@ class: Ranger
 created: 20141231184518476
 creator: Brian
 ethic: Neutral
-modified: 20150110205905760
+modified: 20150112232757007
 modifier: Brian
 moral: Good
 passive_perception: 10
@@ -11,4 +11,3 @@ tags: PC
 title: Masha
 type: text/vnd.tiddlywiki
 
-{{||CharacterOverview}}

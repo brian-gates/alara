@@ -1,8 +1,10 @@
 created: 20150102161308408
-modified: 20150107201515114
-tags: 
+modified: 20150112235558424
+tags: $:/tags/ViewTemplate
 title: NPCOverview
 type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[NPC]]">
 
 {{||ProfileImage}}
 
@@ -11,3 +13,5 @@ type: text/vnd.tiddlywiki
 <<<
 {{!!description}}
 <<<
+
+</$list>

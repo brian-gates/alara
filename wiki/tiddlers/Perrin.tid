@@ -8,13 +8,13 @@ description:
 ethic: Chaotic
 flaw: When I see something valuable, I can’t think about anything but how to steal it.
 ideal: I’m loyal to my friends, not to any ideals, and everyone else can take a trip down the Styx for all I care
-modified: 20150112203222567
+modified: 20150112232918789
 moral: Good
 passive_perception: 11
 race: Halfling
 tags: PC
+test: 
 title: Perrin
 trait: The first thing I do in a new place is note the locations of everything valuable - or where such things could be hidden.
 type: text/vnd.tiddlywiki
 
-{{||CharacterOverview}}

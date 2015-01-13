@@ -1,9 +1,11 @@
+class: Cleric
 created: 20150112081928335
-modified: 20150112082110924
+deity: Tymora
+ethic: Chaotic
+modified: 20150112232852261
+moral: Good
+race: Halfling
 tags: PC
 title: Osborn Tosscobble
 type: text/vnd.tiddlywiki
 
-{{||CharacterOverview}}
-
-Halfling Cleric of Tymora - Chaotic Good
