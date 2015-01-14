@@ -1,0 +1,25 @@
+created: 20150113052746982
+modified: 20150113071338053
+tags: $:/tags/ViewTemplate
+title: SpoilerDisplay
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag<currentTiddler>tag[Spoiler]limit[1]]">
+
+  <$reveal type="match" state="$:/state/ShowSpoilers" text="show">
+    
+    <$button set="$:/state/ShowSpoilers" setTo="hide">Hide spoilers</$button>
+
+    !Spoilers below this point
+
+  </$reveal>
+
+  <$reveal type="nomatch" state="$:/state/ShowSpoilers" text="show">
+    <$button set="$:/state/ShowSpoilers" setTo="show">Show spoilers</$button>
+  </$reveal>
+
+</$list>
+
+<$reveal type="match" state="$:/state/ShowSpoilers" text="show">
+  <<list-links filter:"[tag<currentTiddler>tag[Spoiler]]">>
+</$reveal>

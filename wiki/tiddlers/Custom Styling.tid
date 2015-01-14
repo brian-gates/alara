@@ -1,0 +1,30 @@
+created: 20150113182259499
+modified: 20150114020320769
+tags: $:/tags/Stylesheet
+title: Custom Styling
+type: text/vnd.tiddlywiki
+
+body.tc-body {
+  background: url('http://i.imgur.com/1lPSehu.jpg') fixed;
+}
+
+.tc-sidebar-header {
+  text-shadow: 1px 1px 1px black;
+}
+
+.tc-story-river {
+  min-width: 576px;
+  width: 60%;
+}
+
+.tc-tiddler-frame {
+  width: 100%;
+}
+
+.tc-sidebar-scrollable {
+  left: 60%;
+}
+
+.tc-site-title a, h1, h2, h3, h4, h5 {
+  color: #d6ad77;
+}

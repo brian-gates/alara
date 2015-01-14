@@ -1,6 +1,6 @@
 created: 20141231221850933
 creator: Brian
-modified: 20150110221737845
+modified: 20150114015513189
 modifier: Brian
 tags: [[Table of Contents]]
 title: House
@@ -13,21 +13,27 @@ This is an overview of all the houses of Alara.
   <table>
   <thead>
   <tr>
+  <th>Emblem</th>
   <th>Ethic</th>
   <th>Moral</th>
   <th>Name</th>
   <th>Known For</th>
-  <th>Icon</th>
   </tr>
   </thead>
   <tbody>
   <$list filter="[tag[House]tag<currentTiddler>]+[sort[moral]]+[sort[ethic]]">
   <tr>
+  <td>
+    <$list filter="[tag[Emblem]tag<currentTiddler>]" emptyMessage={{!!icon}}>
+      <$link to={{!!title}}>
+      <$image source={{!!title}} width="100" />
+      </$link>
+    </$list>
+  </td>
   <td>{{!!ethic}}</td>
   <td>{{!!moral}}</td>
   <td><$link to={{!!title}}> {{!!title}}</$link></td>
   <td>{{!!known_for}}</td>
-  <td>{{!!icon}}</td>
   </tr>
   </$list>
   </tbody>
