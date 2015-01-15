@@ -1,15 +1,11 @@
 created: 20150108203423080
+description: House Ichor are scientifically minded, always willing to test anything on anyone or anything to create a better anything.
 ethic: Chaotic
 icon: Snake coiled around a Healer's Rod
 known_for: Alchemy/Herbalism
-modified: 20150110222556170
+modified: 20150115010819733
 moral: Evil
 tags: House Qeynos
 title: House Ichor
 type: text/vnd.tiddlywiki
 
-{{||HouseOverview}}
-
-Human House - {{!!ethic}} {{!!moral}} - 
-
-House Ichor are scientifically minded, always willing to test anything on anyone or anything to create a better anything.

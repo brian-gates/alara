@@ -1,8 +1,10 @@
 created: 20150107033621399
-modified: 20150110201710504
-tags: 
+modified: 20150115010509051
+tags: $:/tags/ViewTemplate
 title: HouseOverview
 type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[House]]">
 
 {{!!ethic}} {{!!moral}} 
 
@@ -21,3 +23,5 @@ Related:
 </li>
 </$list>
 </ul>
+
+</$list>

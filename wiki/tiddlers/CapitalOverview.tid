@@ -1,0 +1,43 @@
+created: 20150107203114452
+modified: 20150115011317074
+tags: $:/tags/ViewTemplate
+title: CapitalOverview
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[Capital]]">
+
+{{||ProfileImage}}
+
+{{!!description}}
+
+!Houses
+<table>
+  <thead>
+  <tr>
+  <th>Emblem</th>
+  <th>Ethic</th>
+  <th>Moral</th>
+  <th>Name</th>
+  <th>Known For</th>
+  </tr>
+  </thead>
+  <tbody>
+  <$list filter="[tag[House]tag<currentTiddler>]+[sort[moral]]+[sort[ethic]]">
+  <tr>
+  <td>
+    <$list filter="[tag[Emblem]tag<currentTiddler>]" emptyMessage={{!!icon}}>
+      <$link to={{!!title}}>
+      <$image source={{!!title}} width="100" />
+      </$link>
+    </$list>
+  </td>
+  <td>{{!!ethic}}</td>
+  <td>{{!!moral}}</td>
+  <td><$link to={{!!title}}> {{!!title}}</$link></td>
+  <td>{{!!known_for}}</td>
+  </tr>
+  </$list>
+  </tbody>
+</table>
+
+</$list>

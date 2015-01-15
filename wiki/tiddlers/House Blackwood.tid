@@ -4,11 +4,10 @@ description: Human house.  Hires adventurers.
 ethic: Lawful
 icon: Black Wooden Shield
 known_for: Special Operations & Mercenary force
-modified: 20150110222328200
+modified: 20150115010603935
 modifier: Brian
 moral: Evil
 tags: House Qeynos
 title: House Blackwood
 type: text/vnd.tiddlywiki
 
-{{||HouseOverview}}
