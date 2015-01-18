@@ -1,7 +1,14 @@
 created: 20150106205021059
-modified: 20150115062808735
+modified: 20150115205052283
 tags: Map [[Table of Contents]]
 title: Map of Alara
 type: text/vnd.tiddlywiki
 
-[[Map of Alara| http://i.imgur.com/Hl8qoqb.jpg]]
+<figure>
+<a href="http://i.imgur.com/Hl8qoqb.jpg" target="alaramap">
+[img[http://i.imgur.com/Hl8qoqb.jpg]]
+<figcaption>
+Click to view fullscreen
+</figcaption>
+</a>
+</figure>

@@ -1,6 +1,16 @@
+bond: Drawn To A Place Special To Him
 created: 20150115184851285
-modified: 20150115191601275
-tags: [[House Aeris]]
+description: Distinctive ring.  Charismatic but not very smart.
+ethic: Lawful
+flaw: Has A Forbidden Love Or Is Susceptible To Romance
+high_attribute: Charisma
+ideal: Moderation
+interaction: Argumentative
+low_attribute: Intelligence
+modified: 20150117074234201
+moral: Neutral
+tags: [[House Aeris]] NPC Duke
+talent: Has perfect memory
 title: Vaelis Aeris
 type: text/vnd.tiddlywiki
 

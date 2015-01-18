@@ -2,13 +2,13 @@ cha: 16
 class: Ranger
 con: 12
 created: 20150114214638715
-description: Older half-elf with an ever-present pipe.  Missing his right middle finger. 
+description: Older half-elf with an ever-present pipe.  Missing his right middle finger.
 dex: 16
 int: 10
-modified: 20150114220622942
+modified: 20150117081209422
 race: Half-Elf
 str: 11
-tags: [[House Lurellas]] NPC
+tags: [[House Lurellas]] NPC Duke
 title: Elkas Lurellas
 type: text/vnd.tiddlywiki
 wis: 16

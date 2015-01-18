@@ -1,6 +1,19 @@
+bond: Protective of close family members [[House Ironfell]]
 created: 20150114204704208
-modified: 20150115010239250
-tags: [[House Ironfell]] NPC
+description: Bald with bushy black beard. Has tattoos on head and arms.
+ethic: Lawful
+flaw: (Secret) Forbidden love with a Druegar woman (Skula Drekhenn)
+high_attribute: Charisma - Forceful
+ideal: Retribution - seek revenge against [[House Goldenforge]]
+interaction: Ponderous
+low_attribute: Wisdom - Oblivious to lower classes of society
+mannerism: Tugs beard
+modified: 20150118013626742
+moral: Evil
+occupation_history: Owner of Industrial Ore mines
+race: Hill Dwarf
+tags: [[House Ironfell]] NPC Duke
+talent: Expert Juggler 
 title: Durzek Ironfell
 type: text/vnd.tiddlywiki
 

@@ -1,11 +1,22 @@
+bond: Protective of Family Heirlooms
 created: 20141231231323986
 creator: Brian
+description: Large rounded nose. X-shaped scar on right cheek.
 ethic: Lawful
-modified: 20150114210709514
+flaw: Foolhardy bravery
+high_attribute: Charisma - Born Leader
+ideal: Charity
+interaction: Honest
+low_attribute: Dexterity - Clumsy
+mannerism: Takes long pauses when speaking
+modified: 20150117223838953
 modifier: Brian
 moral: Good
-rank: Lord
-tags: [[House Goldenforge]] NPC
+occupation_history: Owner of Precious Ore mines
+race: Mountain Dwarf
+rank: Duke
+tags: [[House Goldenforge]] NPC Duke
+talent: Great with Children
 title: Gandolak Goldenforge
 type: text/vnd.tiddlywiki
 

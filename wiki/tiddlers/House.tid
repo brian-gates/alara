@@ -1,6 +1,6 @@
 created: 20141231221850933
 creator: Brian
-modified: 20150114015513189
+modified: 20150115234310719
 modifier: Brian
 tags: [[Table of Contents]]
 title: House
@@ -8,31 +8,48 @@ type: text/vnd.tiddlywiki
 
 This is an overview of all the houses of Alara.
 
-<$list filter="[tag[Place]]">
+<style>
+.house_table {
+  width: 100%;
+}
+table .emblem {
+  width: 100px;
+}
+</style>
+
+<$list filter="[tag[Capital]]">
 {{!!title}}
-  <table>
+  <table class="house_table">
   <thead>
   <tr>
   <th>Emblem</th>
   <th>Ethic</th>
   <th>Moral</th>
   <th>Name</th>
+  <th>Duke</th>
   <th>Known For</th>
   </tr>
   </thead>
   <tbody>
   <$list filter="[tag[House]tag<currentTiddler>]+[sort[moral]]+[sort[ethic]]">
   <tr>
-  <td>
+  <td class="emblem">
     <$list filter="[tag[Emblem]tag<currentTiddler>]" emptyMessage={{!!icon}}>
       <$link to={{!!title}}>
-      <$image source={{!!title}} width="100" />
+      <$transclude />
       </$link>
     </$list>
   </td>
   <td>{{!!ethic}}</td>
   <td>{{!!moral}}</td>
   <td><$link to={{!!title}}> {{!!title}}</$link></td>
+  <td>
+  <$list filter="[tag[Duke]tag<currentTiddler>][tag[Duchess]tag<currentTiddler>]">
+    <$link to={{!!title}}>
+      {{!!title}}
+    </$link>
+  </$list>
+  </td>
   <td>{{!!known_for}}</td>
   </tr>
   </$list>

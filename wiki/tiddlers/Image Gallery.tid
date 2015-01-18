@@ -1,19 +1,39 @@
 created: 20150107193442374
-modified: 20150115004932386
+modified: 20150115204241453
 tags: [[Table of Contents]]
 title: Image Gallery
 type: text/vnd.tiddlywiki
 
 <style>
+.my-gallery {
+  overflow: auto;
+}
+.my-gallery figure {
+  border: 1px outset #d6ad77;
+  padding: 10px;
+  margin: 20px;
+  width: 250px;
+  float: left;
+  text-align: center;
+}
+
+.my-gallery figure figcaption {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.my-gallery figure img {
+  height: 200px;
+}
 </style>
 <div class="my-gallery">
-<$list filter="[is[image]] +[!sort[modified]]">
+<$list filter="[is[image]] [tag[ProfileImage]] [tag[Emblem]] +[!sort[modified]]">
 <figure>
 <$link to={{!!title}}>
   <$transclude/>
   <figcaption>{{!!title}}</figcaption>
 </$link>
-<<list-links filter:"[title{!!title}tags[]] +[!sort[title]]">>
 </figure>
 </$list>
 </div>

@@ -1,7 +1,30 @@
 created: 20150114184701932
-modified: 20150114185327394
+modified: 20150115235953227
 tags: Spoiler Event
 title: Council Meeting
 type: text/vnd.tiddlywiki
 
-Artemis meets with the Qeynos council and speaks of the mission regarding the 
+Artemis meets with the Qeynos council and speaks to them regarding [[Investigate Blackrock Mines]].  Artemis prompts the council to consider raising the nation's defense budget so that he can allocate more resources to protect the borders.
+
+Attendants:
+
+<table>
+<thead><tr>
+<th>Name</th>
+<th>Description</th>
+</tr></thead>
+<tbody>
+<$list filter="[tag[House]tag[Qeynos]]">
+  <$list filter="[tag[Duke]tag<currentTiddler>][tag[Duchess]tag<currentTiddler>]">
+<tr>
+<td>
+<$link to={{!!title}}>
+{{!!title}}
+</$link>
+</td>
+<td>{{!!description}}</td>
+</tr>
+</$list>
+</$list>
+</tbody>
+</table>

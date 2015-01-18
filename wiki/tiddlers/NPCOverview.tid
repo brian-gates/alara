@@ -1,5 +1,5 @@
 created: 20150102161308408
-modified: 20150112235558424
+modified: 20150117215546235
 tags: $:/tags/ViewTemplate
 title: NPCOverview
 type: text/vnd.tiddlywiki
@@ -8,10 +8,18 @@ type: text/vnd.tiddlywiki
 
 {{||ProfileImage}}
 
-{{||Alignment}}
-
-<<<
-{{!!description}}
-<<<
+| !Ethic|{{!!ethic}} |
+| !Moral|{{!!moral}} |
+| !Description|{{!!description}} |
+| !Race|{{!!race}} |
+| !Bond|{{!!bond}} |
+| !Talent|{{!!talent}} |
+| !Flaw|{{!!flaw}} |
+| !Ideal|{{!!ideal}} |
+| !Mannerism|{{!!mannerism}} |
+| !Interaction|{{!!interaction}} |
+| !High attribute|{{!!high_attribute}} |
+| !Low attribute|{{!!low_attribute}} |
+| !Occupation/History|{{!!occupation_history}} |
 
 </$list>
