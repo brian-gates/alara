@@ -1,0 +1,52 @@
+created: 20150119070625146
+modified: 20150119182935486
+tags: $:/tags/EditTemplate
+title: PCEdit
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[PC]]">
+
+<style>
+.pc-edit table {
+  width: 100%;
+}
+
+.pc-edit th {
+ width: 1px;
+}
+
+.pc-edit td input,
+.pc-edit th {
+  padding: 10px;
+}
+.pc-edit td {
+  padding: 0;
+}
+.pc-edit td input {
+  width: 100%;
+  border: 0;
+}
+</style>
+
+<div class="pc-edit">
+
+<$list filter="[tag[ProfileImage]tag<currentTiddler>]">
+<figure><$transclude/></figure>
+</$list>
+
+| !Ethic|<$edit-text field="ethic"/> |
+| !Moral|<$edit-text field="moral"/> |
+| !Race|<$edit-text field="race"/> |
+| !Class|<$edit-text field="class"/> |
+| !Description|<$edit-text field="description"/> |
+| !Worships|<$edit-text field="worships"/> |
+| !Background|<$edit-text field="background"/> |
+| !Bond|<$edit-text field="bond"/> |
+| !Flaw|<$edit-text field="flaw"/> |
+| !Ideal|<$edit-text field="ideal"/> |
+| !Traits|<$edit-text field="traits"/> |
+| !Passive Perception|<$edit-text field="passive_perception"/> |
+
+</div>
+
+</$list>

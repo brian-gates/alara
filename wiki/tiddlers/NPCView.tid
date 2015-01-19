@@ -1,0 +1,50 @@
+created: 20150102161308408
+modified: 20150119182635522
+tags: $:/tags/ViewTemplate
+title: NPCView
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[NPC]]">
+
+<style>
+.npc_overview .details table {
+  width: 100%;
+}
+.npc_overview .details table th {
+  width: 1px;
+}
+
+</style>
+
+<div class="npc_overview">
+
+{{||ProfileImage}}
+
+<div class="details">
+
+| !Ethic|{{!!ethic}} |
+| !Moral|{{!!moral}} |
+| !Description|{{!!description}} |
+| !Race|{{!!race}} |
+| !Bond|{{!!bond}} |
+| !Talent|{{!!talent}} |
+| !Flaw|{{!!flaw}} |
+| !Ideal|{{!!ideal}} |
+| !Mannerism|{{!!mannerism}} |
+| !Interaction|{{!!interaction}} |
+| !High Attribute|{{!!high_attribute}} |
+| !Low Attribute|{{!!low_attribute}} |
+| !Occupation/History|{{!!occupation_history}} |
+
+</div>
+
+<!--
+  <$button>
+  <$action-setfield $ethic={{!!ethic}} moral={{!!moral}} description={{!!description}} race={{!!race}} bond={{!!bond}} talent={{!!talent}} flaw={{!!flaw}} ideal={{!!ideal}} mannerism={{!!mannerism}} interaction={{!!interaction}} high_attribute={{!!high_attribute}} low_attribute={{!!low_attribute}} occupation_history={{!!occupation_history}} />
+  Migrate fields
+  </$button>
+-->
+
+</div>
+
+</$list>

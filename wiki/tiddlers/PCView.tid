@@ -1,9 +1,9 @@
 created: 20141231190806001
 creator: Brian
-modified: 20150113012030960
+modified: 20150119184242425
 modifier: Brian
 tags: $:/tags/ViewTemplate
-title: PCOverview
+title: PCView
 type: text/vnd.tiddlywiki
 
 <$list filter="[is[current]tag[PC]]">
@@ -13,9 +13,13 @@ type: text/vnd.tiddlywiki
   width: 100%;
 }
 
-.character-overview td,
 .character-overview th {
-padding: 10px;
+ width: 1px;
+}
+
+.character-overview td ,
+.character-overview th {
+  padding: 10px;
 }
 </style>
 
@@ -25,20 +29,16 @@ padding: 10px;
 <figure><$transclude/></figure>
 </$list>
 
+{{!!ethic}} {{!!moral}} {{!!race}} {{!!class}} {{!!background}}
 
-| !Ethic|{{!!ethic}} |
-| !Moral|{{!!moral}} |
-| !Race|{{!!race}} |
-| !Class|{{!!class}} |
 | !Description|{{!!description}} |
-| !Worships|{{!!deity}} |
-| !Background|{{!!background}} |
+| !Worships|{{!!worships}} |
 | !Bond|{{!!bond}} |
 | !Flaw|{{!!flaw}} |
 | !Ideal|{{!!ideal}} |
-| !Traits|{{!!trait}} |
+| !Traits|{{!!traits}} |
 | !Passive Perception|{{!!passive_perception}} |
-
+  
 </div>
 
 </$list>

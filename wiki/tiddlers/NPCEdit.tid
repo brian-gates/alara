@@ -1,0 +1,49 @@
+created: 20150119071206165
+modified: 20150119183019766
+tags: $:/tags/EditTemplate
+title: NPCEdit
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[NPC]]">
+
+<style>
+.npc-edit table {
+  width: 100%;
+}
+
+.npc-edit th {
+ width: 1px;
+}
+
+.npc-edit td input,
+.npc-edit th {
+  padding: 10px;
+}
+.npc-edit td {
+  padding: 0;
+}
+.npc-edit td input {
+  width: 100%;
+  border: 0;
+}
+</style>
+
+<div class="npc-edit">
+
+| !Ethic|<$edit-text field="ethic"/> |
+| !Moral|<$edit-text field="moral"/> |
+| !Description|<$edit-text field="description"/> |
+| !Race|<$edit-text field="race"/> |
+| !Bond|<$edit-text field="bond"/> |
+| !Talent|<$edit-text field="talent"/> |
+| !Flaw|<$edit-text field="flaw"/> |
+| !Ideal|<$edit-text field="ideal"/> |
+| !Mannerism|<$edit-text field="mannerism"/> |
+| !Interaction|<$edit-text field="interaction"/> |
+| !High Attribute|<$edit-text field="high_attribute"/> |
+| !Low Attribute|<$edit-text field="low_attribute"/> |
+| !Occupation/History|<$edit-text field="occupation_history"/> |
+
+</div>
+
+</$list>

@@ -1,6 +1,19 @@
+bond: Captivated by a romantic interest - Delma Stonehammer, a common dwarven maiden who is his secretary (she does not reciprocate his interest)
 created: 20150114211346687
-modified: 20150115224628753
+description: Exceptionally ugly. Always wears his formal banker attire.
+ethic: Lawful
+flaw: Possession of Forbidden Lore - Tome that describes an ancient device that could be used to control the minds of Dwarf-kin
+high_attribute: Charisma - Persuasive
+ideal: Responsibility
+interaction: Honest
+low_attribute: Strength - Scrawny
+mannerism: Frequently uses the wrong word
+modified: 20150118223609248
+moral: Neutral
+occupation_history: Head Banker of the Unified Bank of Kaladim
+race: Hill Dwarf
 tags: [[House Bronzefist]] Duke NPC
+talent: Drinks everyone under the table
 title: Thurok Bronzefist
 type: text/vnd.tiddlywiki
 
