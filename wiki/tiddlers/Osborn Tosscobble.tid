@@ -1,11 +1,18 @@
-class: Cleric
+background: Charlatan
+bond: I swindled and ruined a person who didn't deserve it. I seek to atone for my misdeeds but might never be able to forgive myself.
+class: Cleric (3) / Rogue (1)
 created: 20150112081928335
-deity: Tymora
+description: Young Halfling - Short (3'5") with curly black hair and brown skin. Wears ragged, dirty clothes.
 ethic: Chaotic
-modified: 20150112232852261
+flaw: I'm too greedy for my own good. I can't resist taking a risk if there is money involved.
+ideal: Charity - I distribute the money I acquire to the people who really need it (Good).
+modified: 20150122082422813
 moral: Good
-race: Halfling
+passive_perception: 15
+race: Stout Halfling
 tags: PC
 title: Osborn Tosscobble
+traits: I'm a born gambler who can't reisist taking a risk for a potential payoff. Flattery is my preferred trick for getting what I want.
 type: text/vnd.tiddlywiki
+worships: [[Tymora|http://forgottenrealms.wikia.com/wiki/Tymora]]
 

@@ -1,5 +1,5 @@
 created: 20150102161308408
-modified: 20150119182635522
+modified: 20150119224359661
 tags: $:/tags/ViewTemplate
 title: NPCView
 type: text/vnd.tiddlywiki
@@ -22,10 +22,10 @@ type: text/vnd.tiddlywiki
 
 <div class="details">
 
-| !Ethic|{{!!ethic}} |
-| !Moral|{{!!moral}} |
+{{!!ethic}} {{!!moral}} {{!!race}} {{!!class}}
+
+
 | !Description|{{!!description}} |
-| !Race|{{!!race}} |
 | !Bond|{{!!bond}} |
 | !Talent|{{!!talent}} |
 | !Flaw|{{!!flaw}} |

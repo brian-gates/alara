@@ -1,30 +1,111 @@
 created: 20150114184701932
-modified: 20150115235953227
+modified: 20150120175742598
 tags: Spoiler Event
 title: Council Meeting
 type: text/vnd.tiddlywiki
 
-Artemis meets with the Qeynos council and speaks to them regarding [[Investigate Blackrock Mines]].  Artemis prompts the council to consider raising the nation's defense budget so that he can allocate more resources to protect the borders.
+; Overview
+: Artemis meets with the Qeynos council and speaks to them regarding [[Investigate Blackrock Mines]].  Artemis prompts the council to consider a counterattack.
 
-Attendants:
+A crackling fire warms this grand room.  The smell of liquor and smoke fills the air.  Banners of the major Qeynos houses dominate the walls and priceless rugs lay on immaculately polished marble floors.  An ornately decorated round table dominates the center of the room, around which twelve evenly spaced chairs sit.
 
-<table>
-<thead><tr>
-<th>Name</th>
-<th>Description</th>
-</tr></thead>
-<tbody>
-<$list filter="[tag[House]tag[Qeynos]]">
-  <$list filter="[tag[Duke]tag<currentTiddler>][tag[Duchess]tag<currentTiddler>]">
-<tr>
-<td>
-<$link to={{!!title}}>
-{{!!title}}
-</$link>
-</td>
-<td>{{!!description}}</td>
-</tr>
-</$list>
-</$list>
-</tbody>
-</table>
+
+<$tiddler tiddler="Artemis Blackwood">
+
+; <$link to=<<currentTiddler>>>{{!!title}}</$link>
+> {{!!description}}
+> {{!!interaction}}
+> {{!!mannerism}}
+: "Dukes of Qeynos, our border has been broken.  An entity who calls himself 'The Shadow' has slaughtered the innocent people of Blackrock and attempted to lay claim to our lands.  This is an act of war.  I propose we rally a force and launch a swift counter attack."
+
+</$tiddler>
+
+<$tiddler tiddler="Baelic Stonehands">
+
+; <$link to=<<currentTiddler>>>{{!!title}}</$link>
+> {{!!description}}
+> {{!!interaction}}
+> {{!!mannerism}}
+: "For every person who died at Blacrock, I demand the heads of TEN orcs and goblins!!"
+
+</$tiddler>
+
+<$tiddler tiddler="Donovan Baeldan">
+
+; <$link to=<<currentTiddler>>>{{!!title}}</$link>
+> {{!!description}}
+> {{!!interaction}}
+> {{!!mannerism}}
+: *drunken rant about goblins and orcs and excited spilling of his drink* "If war is what they want, war is what they'll get!"
+
+</$tiddler>
+
+<$tiddler tiddler="Hugo Huron">
+
+; <$link to=<<currentTiddler>>>{{!!title}}</$link>
+> {{!!description}}
+> {{!!interaction}}
+> {{!!mannerism}}
+: *southern accent* "My pappy always taught me to turn the other cheek.  I feel like we're going to bring the wrath of the nine hells upon ourselves by doing this..."
+
+</$tiddler>
+
+<$tiddler tiddler="Vaelis Aeris">
+
+; <$link to=<<currentTiddler>>>{{!!title}}</$link>
+> {{!!description}}
+> {{!!interaction}}
+> {{!!mannerism}}
+: "The sky is always falling with you, Hugo.  There is much to be gained by claiming Fort Skullhammer."
+
+</$tiddler>
+
+<$tiddler tiddler="Welton Ichor">
+
+; <$link to=<<currentTiddler>>>{{!!title}}</$link>
+> {{!!description}}
+> {{!!interaction}}
+> {{!!mannerism}}
+: "This talk of war bores me. "
+
+</$tiddler>
+
+<$tiddler tiddler="Elkas Lurellas">
+
+; <$link to=<<currentTiddler>>>{{!!title}}</$link>
+> {{!!description}}
+> {{!!interaction}}
+> {{!!mannerism}}
+: "I am always for ridding this world of a few orcs."
+
+</$tiddler>
+
+<$tiddler tiddler="Emile Secarte">
+
+; <$link to=<<currentTiddler>>>{{!!title}}</$link>
+> {{!!description}}
+> {{!!interaction}}
+> {{!!mannerism}}
+: Mostly ignoring what's going on, seemingly bored.
+
+</$tiddler>
+
+<$tiddler tiddler="Marco Solas">
+
+; <$link to=<<currentTiddler>>>{{!!title}}</$link>
+> {{!!description}}
+> {{!!interaction}}
+> {{!!mannerism}}
+: *tapping steepled fingers* "I'm not sure.  We have suffered a tragic loss, but I'm not sure vengeance is going to solve anything here."
+
+</$tiddler>
+
+<$tiddler tiddler="Nagid Zohar">
+
+; <$link to=<<currentTiddler>>>{{!!title}}</$link>
+> {{!!description}}
+> {{!!interaction}}
+> {{!!mannerism}}
+: *stops chewing on a ring* "Controlling this land would give us access to great new natural resources as well as opening up new trade routes.  I believe it would benefit our nation greatly.  Additionally, we cannot stand idly by while our people are killed in our own villages.  War is upon us, gentlemen."
+
+</$tiddler>

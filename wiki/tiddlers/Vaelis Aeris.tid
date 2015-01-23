@@ -1,14 +1,16 @@
 bond: Drawn To A Place Special To Him
 created: 20150115184851285
-description: Distinctive ring.  Charismatic but not very smart.
+description: Finest clothing, strong jaw, pure white hair, clean shaven, and an ever-present grin.  Exceedingly large ruby ring.
 ethic: Lawful
 flaw: Has A Forbidden Love Or Is Susceptible To Romance
 high_attribute: Charisma
 ideal: Moderation
-interaction: Argumentative
+interaction: Argumentative.  Arrogant.
 low_attribute: Intelligence
-modified: 20150117074234201
+mannerism: Squints
+modified: 20150120052837053
 moral: Neutral
+race: Human
 tags: [[House Aeris]] NPC Duke
 talent: Has perfect memory
 title: Vaelis Aeris

@@ -3,8 +3,11 @@ con: 12
 created: 20150114202732746
 description: Face is disfigured, as if burned in a chemical fire.  His speech is impaired due to damaged nerves and flesh.
 dex: 14
+ethic: Chaotic
 int: 16
-modified: 20150115221334804
+modified: 20150120173231863
+moral: Evil
+race: Human
 str: 16
 tags: NPC [[House Ichor]] Duke
 title: Welton Ichor

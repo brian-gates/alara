@@ -1,6 +1,7 @@
 appearance: Distinctive Jewelry (bangle)
 bond: Protective Of A Sentimental Keepsake
 created: 20150115215727416
+description: Leather armor, constantly fiddling with daggers, tom-boyish, doesn't sit upright in chairs.
 ethic: Neutral
 flaw: Is Prone To Fits Of Rage
 high_attribute: Intelligence
@@ -8,8 +9,9 @@ ideal: Retribution
 interaction: Curious
 low_attribute: Wisdom
 mannerism: Speak Loudly
-modified: 20150117075111884
+modified: 20150119234655066
 moral: Evil
+race: Human
 tags: [[House Secarte]] NPC Duchess
 talent: Is Unbelievably Lucky
 title: Emile Secarte

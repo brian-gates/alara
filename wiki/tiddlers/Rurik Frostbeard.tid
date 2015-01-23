@@ -1,8 +1,20 @@
+background: Hermit
+bond: I was forced into seclusion. Now I must hide from the ones who might still be hunting me. I must someday confront them.
+class: 4 Ranger
 created: 20150112081125560
-modified: 20150119182431001
+description: Middle-Aged Dwarf with Platinum Blond hair and beard. Grey eye color - almost the color of snow. Average build. 
+ethic: Neutral
+flaw: I'd risk too much to uncover a lost bit of knowledge or information that could give me an advantage over my enemies.
+ideal: Vengeance. I must become strong enough to deliver justice to those who have wronged me and my House.
+modified: 20150121071817015
+moral: Good
+passive_perception: 13
+race: Mountain Dwarf
 tags: [[House Frostbeard]] PC Duke
 title: Rurik Frostbeard
+traits: I often get lost in my own thoughts becoming oblivious to my surroundings. I place no stock in wealthy or well-mannered folk. Money and manners won't save you from a hungry owlbear.
 type: text/vnd.tiddlywiki
+worships: Moradin
 
 Head of [[House Frostbeard]]
 

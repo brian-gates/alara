@@ -1,5 +1,5 @@
 created: 20150119071206165
-modified: 20150119183019766
+modified: 20150119232605012
 tags: $:/tags/EditTemplate
 title: NPCEdit
 type: text/vnd.tiddlywiki
@@ -29,6 +29,8 @@ type: text/vnd.tiddlywiki
 </style>
 
 <div class="npc-edit">
+
+[[NPC Generator|http://www.enworld.org/forum/dnd_view_block.php?id=1615]]
 
 | !Ethic|<$edit-text field="ethic"/> |
 | !Moral|<$edit-text field="moral"/> |

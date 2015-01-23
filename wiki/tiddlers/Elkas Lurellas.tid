@@ -1,14 +1,24 @@
+bond: Dedicated To Fulfilling A Personal Life Goal
 cha: 16
 class: Ranger
 con: 12
 created: 20150114214638715
 description: Older half-elf with an ever-present pipe.  Missing his right middle finger.
 dex: 16
-int: 10
-modified: 20150117081209422
+ethic: Chaotic
+flaw: Has A Powerful Enemy (a drow?)
+high_attribute: Wisdom
+ideal: The Greater Good
+int: 11
+interaction: Quiet
+low_attribute: Strength
+mannerism: Speaks with odd meter (Christopher Walken)
+modified: 20150119234244480
+moral: Good
 race: Half-Elf
-str: 11
+str: 10
 tags: [[House Lurellas]] NPC Duke
+talent: Expert Cook
 title: Elkas Lurellas
 type: text/vnd.tiddlywiki
 wis: 16

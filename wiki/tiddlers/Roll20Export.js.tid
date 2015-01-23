@@ -1,0 +1,14 @@
+created: 20150122233123383
+modified: 20150122233141130
+tags: 
+title: Roll20Export.js
+type: application/javascript
+
+var out = {};
+$('.attributes .attrib').each(function( index ) {
+  var attrname = $(this).find('.attrname').text();
+  var value = $(this).find('.current input').val();
+  out[attrname] = value;
+});
+
+console.log(JSON.stringify(out));

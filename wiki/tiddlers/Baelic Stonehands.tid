@@ -1,30 +1,21 @@
 bond: Dedicated to fulfilling a personal life goal (proving he's capable of filling head of house role)
 created: 20150115000523933
-description: Wild colored hair, and rebellious stylings.  Insightful.  Dull.
+description: Wild colored hair, and rebellious stylings.  Has a lute strapped to his back.  Wears simple, functional clothing.
+ethic: Chaotic
 flaw: Arrogance
 high_ability: wis
+high_attribute: Con
 ideal: Retribution
-interaction_trait: Blustering
+interaction: Blustering
 low_ability: con
+low_attribute: Charisma
 mannerism: Enunciates overly clearly
-modified: 20150117212613716
+modified: 20150120053102942
+moral: Evil
+occupation_history: Miner
+race: Human
 tags: NPC [[House Stonehands]] Duke
 talent: Plays instrument
 title: Baelic Stonehands
 type: text/vnd.tiddlywiki
 
-high ability: wis - insightful
-
-low ability: int
-
-talent: plays instrument
-
-mannerism: enunciates overly clearly
-
-interaction trait: blustering
-
-ideal: Retribution
-
-bond: Dedicated to fulfilling a personal life goal (proving he's capable of filling head of house role)
-
-flaw: Arrogance

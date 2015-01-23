@@ -1,9 +1,19 @@
+bond: Protective Of A Valuable Possession (Necromantic tome of great power and value)
 created: 20150102160508502
 description: Massive (300lb), exotic looking man with bald head and nose chain amongst other jewelry.
 ethic: Neutral
-modified: 20150115221459026
+flaw: Possesses Forbidden Lore (Necromantic tome of great power and value)
+high_attribute: Wisdom
+ideal: Wealth is power
+interaction: Ponderous
+low_attribute: Strength
+mannerism: Often chews on his jewelry
+modified: 20150120050046855
 moral: Neutral
+occupation_history: Owns many large and prosperous companies.
+race: Human
 tags: [[House Copperhearth]] NPC [[Head of House]] Duke Archduke
+talent: Skilled Actor And Master Of Disguise
 title: Nagid Zohar
 type: text/vnd.tiddlywiki
 

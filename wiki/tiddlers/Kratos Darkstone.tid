@@ -1,7 +1,19 @@
+bond: Dedicated to fulfilling a personal life goal - Founding an Underdark city where he is the Kingpin
 created: 20150114211750076
+description: Pale and Bald. Wears Flamboyant clothes to flaunt his wealth and station.
 ethic: Neutral
-modified: 20150119182510149
+flaw: Heliophobia
+high_attribute: Intellect - Cunning
+ideal: Greed
+interaction: Hot Tempered
+low_attribute: Constitution - Pale due to never seeing the sun
+mannerism: Taps Fingers
+modified: 20150121071045246
+moral: Evil
+occupation_history: Owner of the KCA (Kaladim Caravan Association)
+race: Mountain Dwarf
 tags: [[House Darkstone]] Duke NPC
+talent: Expert Cook
 title: Kratos Darkstone
 type: text/vnd.tiddlywiki
 
