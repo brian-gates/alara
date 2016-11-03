@@ -1,0 +1,44 @@
+ac: 13
+background: Sage
+bond: It is my duty to protect my flock.
+cha: 10
+class: Abjuration Wizard (6)
+con: 13
+created: 20160427035251389
+description: Dark feathers, raven-looking face, fine robes, ornate staff
+dex: 17
+ethic: Neutral
+flaw: Most people scream and run when they see a demon. I stop and take notes on its anatomy.
+ideal: Beauty. What is beautiful points us beyond itself toward what is true. (Good)
+int: 18
+modified: 20161102224451620
+moral: Good
+passive_perception: 11
+race: Aarakocra
+spell_save_dc: 16
+str: 10
+tags: PC
+title: Aur
+traits: I’m willing to listen to every side of an argument before I make my own judgment.
+type: text/vnd.tiddlywiki
+wis: 12
+
+Leader of [[Clouddancers]].
+
+Home is [[Cloudspire]].
+
+Chief is [[Chief Salleek Zeed]]
+
+Nemesis is [[Parah Kheet]]
+
+Family: Wife is Aial, Son is Kleeck
+
+Quests:
+
+* Learn about [[Terran Threat to Plane of Air]]
+* [[Parah Kheet's Betrayal]]
+* Periodic
+** Read spellbook
+** Read about dragons
+** Check with home (chief, family)
+** Check with archivists on research into [[Beyond the Iron Gates]]

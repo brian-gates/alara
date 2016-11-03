@@ -1,0 +1,14 @@
+cast-time: 1 bonus action
+class: Paladin
+components: V
+created: 20150517055506263
+description: Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
+duration: Instantaneous
+level: 2
+name: Misty Step
+range: Self
+school: Conjuration
+tags: Spell 2 [[Misty Step]] Conjuration [[1 bonus action]] Self [[Paladin (Ancients)]]
+title: Paladin (Ancients) - Misty Step
+type: text/vnd.tiddlywiki
+

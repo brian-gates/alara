@@ -1,0 +1,41 @@
+created: 20160113065747720
+modified: 20160113071316743
+tags: [[Ander Blackwood]]
+title: Ander's Available Spells
+type: text/vnd.tiddlywiki
+
+<$list filter="0 1" variable="level">
+  Level <<level>>
+  <table class="$class$">
+    <thead>
+      <tr>
+        <th>Favorite</th>
+        <th>Name</th>
+        <th>Cast time</th>
+        <th>Class</th>
+        <th>Components</th>
+        <th>Duration</th>
+        <th>Level</th>
+        <th>Range</th>
+        <th>School</th>
+      </tr>
+    </thead>
+    <tbody>
+      <$list filter="[search[Paladin]tag[Spell]level<level>]" variable="spell">
+        <tr>
+          <td>
+            <$checkbox tiddler=<<spell>> tag="Ander's Favorite Spells"></$checkbox>        
+          </td>
+          <td><$link to=<<spell>>><$view tiddler=<<spell>> field=name/></$link></td>
+          <td><$view tiddler=<<spell>> field=cast-time/></td>
+          <td><$view tiddler=<<spell>> field=class/></td>
+          <td><$view tiddler=<<spell>> field=components/></td>
+          <td><$view tiddler=<<spell>> field=duration/></td>
+          <td><$view tiddler=<<spell>> field=level/></td>
+          <td><$view tiddler=<<spell>> field=range/></td>
+          <td><$view tiddler=<<spell>> field=school/></td>
+        </tr>
+      </$list>
+    </tbody>
+  </table>
+</$list>

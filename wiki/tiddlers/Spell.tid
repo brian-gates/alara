@@ -1,0 +1,74 @@
+class: Warlock
+class_filter: Wizard
+created: 20150515002922604
+modified: 20161002231709181
+school_filter: Conjuration
+sort_by: level
+tags: [[Table of Contents]]
+title: Spell
+type: text/vnd.tiddlywiki
+
+Search: <$edit-text tiddler="AppSettings" field="spell-search" />
+
+<div class='input'>
+  <label>Class</label>
+  <$select field='class_filter'>
+    <option value='Spell'>All</option>
+    <$list filter='[tag[Class]]'>
+      <option value=<<currentTiddler>>><$view field='title'/></option>
+    </$list>
+  </$select>
+</div>
+
+<div class='input'>
+  <label>School</label>
+  <$select field='school_filter'>
+    <option value='Spell'>All</option>
+    <$list filter='[tag[Spell School]]'>
+      <option value=<<currentTiddler>>><$view field='title'/></option>
+    </$list>
+  </$select>
+</div>
+
+<div class='input'>
+  <label>Sort by</label>
+  <$select field='sort_by' default='name'>
+    <option value="name">Name</option>
+    <option value="level">Level</option>
+    <option value="school">School</option>
+    <option value="class">Class</option>
+    <option value="cast-time">Cast time</option>
+    <option value="components">Components</option>
+  </$select>
+</div>
+
+<$count filter="[tag[Spell]tag{!!class_filter}tag{!!school_filter}search{AppSettings!!spell-search}limit[50]]" /> of <$count filter="[tag[Spell]tag{!!class_filter}tag{!!school_filter}search{AppSettings!!spell-search}]" />  shown.
+
+<table>
+  <thead>
+  <tr>
+  <th>Name</th>
+  <th>Cast time</th>
+  <th>Class</th>
+  <th>Components</th>
+  <th>Duration</th>
+  <th>Level</th>
+  <th>Range</th>
+  <th>School</th>
+  </tr>
+  </thead>
+  <tbody>
+  <$list filter='[tag[Spell]tag{!!class_filter}tag{!!school_filter}search{AppSettings!!spell-search}limit[50]]+[sort{!!sort_by}]'>
+    <tr>
+      <td><$link to={{!!title}}>{{!!name}}</$link></td>
+      <td>{{!!cast-time}}</td>
+      <td>{{!!class}}</td>
+      <td>{{!!components}}</td>
+      <td>{{!!duration}}</td>
+      <td>{{!!level}}</td>
+      <td>{{!!range}}</td>
+      <td>{{!!school}}</td>
+    </tr>
+  </$list>
+  </tbody>
+</table>

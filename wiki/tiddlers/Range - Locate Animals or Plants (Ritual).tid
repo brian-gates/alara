@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Range
+components: V, S, M
+created: 20150517055508161
+description: (a bit of fur from a bloodhound) Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
+duration: Instantaneous
+level: 2
+name: Locate Animals or Plants (Ritual)
+range: Self
+school: Divination
+tags: Spell 2 [[Locate Animals or Plants (Ritual)]] Divination [[1 action]] Self Range
+title: Range - Locate Animals or Plants (Ritual)
+type: text/vnd.tiddlywiki
+

@@ -1,0 +1,12 @@
+bullets: <ul><li>May involve a Strength (Athletics) check if the swim is difficult</li></ul>
+caption: Limited by movement speed
+category: Movement
+created: 20150531182911734
+description: Movement cost: 10ft per 5ft swum
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/at-sea.svg
+reference: PHB, pg. 182.
+subtitle: Cost: 10ft per 5ft
+tags: Swim Movement Reference
+title: Swim
+type: text/vnd.tiddlywiki
+

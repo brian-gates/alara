@@ -1,0 +1,107 @@
+created: 20160624194716408
+modified: 20160625185932178
+tags: $:/tags/Macro
+title: abilities-and-skills macro
+type: text/vnd.tiddlywiki
+
+\define abilities-and-skills()
+
+<style>
+  .abilities-and-skills-macro .abilities {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-between;
+    align-items: stretch;
+    margin: -.5em;
+  }
+  
+  .abilities-and-skills-macro .ability-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 6em;
+  }
+  .abilities-and-skills-macro .ability {
+    border: 1px solid black;
+    border-radius: .5em;
+    display: flex;
+    flex-direction: column;
+    height: 7em;
+    margin: .5em;
+    flex: 0 1 6em;
+  }
+  
+  .abilities-and-skills-macro .ability label {
+    background: black;
+    color: white;
+  }
+  
+  .abilities-and-skills-macro .ability label,
+  .abilities-and-skills-macro .ability .mod,
+  .abilities-and-skills-macro .ability .score {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .abilities-and-skills-macro .ability .mod {
+    flex: 1 1 auto;
+    font-size: 2em;
+  }
+  
+  .abilities-and-skills-macro .ability .score {
+    background: rgba(0,0,0, .1);
+  }
+  .abilities-and-skills-macro .skills,
+  .abilities-and-skills-macro .saving-throw {
+    text-align: left;
+  }
+</style>
+
+<div class="abilities-and-skills-macro">
+  <$set name='character' value=<<currentTiddler>>>
+    <div class="abilities">
+      <$list filter=[list[Abilities]]>
+        <div class="ability-wrapper">
+          <div class="ability">
+            <label>
+              {{!!title}}
+              </label>
+            <div class="mod">
+              <$macrocall $name="charactermod" tiddler=<<character>> field={{!!variable-name}} />
+            </div>
+            <div class="score">
+              <$view tiddler=<<character>> field={{!!variable-name}}/>
+            </div>
+          </div>
+          <$list filter="[list<currentTiddler>] -[list[Skills]]">
+            <div class="saving-throw">
+              <value>
+                <$macrocall $name="skillmod" character=<<character>> skill={{!!title}} />
+              </value>
+              <label>Saving Throw</label>
+            </div>
+          </$list>
+          <div class="skills">
+            <$list filter="[list<currentTiddler>] -[list[Saving Throws]]">
+              <div class="skill">
+                <value>
+                  <$macrocall $name="skillmod" character=<<character>> skill={{!!title}} />
+                </value>
+                <label>{{!!title}}</label>
+              </div>
+            </$list>
+          </div>
+        </div>
+      </$list>
+    </div>
+  </$set>
+</div>
+\end
+
+<$list filter=Yusgef>
+  
+  ! Example
+  
+  <<abilities-and-skills>>
+</$list>

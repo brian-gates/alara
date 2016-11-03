@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Bard
+components: V, S, M
+created: 20150517055449245
+description: (diamond dust worth 100 gp, which the spell consumes) You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target: * One effect that charmed or petrified the target * One curse, including the target's attunement to a cursed magic item * Any reduction to one of the target's ability scores * One effect reducing the target's hit point maximum
+duration: Instantaneous
+level: 5
+name: Greater Restoration
+range: Touch
+school: Abjuration
+tags: Spell 5 [[Greater Restoration]] Abjuration [[1 action]] Touch Bard
+title: Bard - Greater Restoration
+type: text/vnd.tiddlywiki
+

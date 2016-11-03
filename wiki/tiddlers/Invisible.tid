@@ -1,0 +1,11 @@
+bullets: <ul><li>For the purpose of hiding, you are heavily obscured.</li><li>You can still be detected by any noise you make or tracks you leave.</li><li>You have advantage on attack rolls.</li><li>Attack rolls against you have disadvantage.</li></ul>
+category: Condition
+created: 20150531182910673
+description: You can't be seen without the aid of magic or a special sense
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/invisible.svg
+reference: PHB, pg. 291.
+subtitle: You can't be seen
+tags: Invisible Condition Reference
+title: Invisible
+type: text/vnd.tiddlywiki
+

@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Bard
+components: V, S
+created: 20150517055449801
+description: You cause up to ten words to form in a part of the sky you can see. The words appear to be made of cloud and remain in place for the spell’s duration. The words dissipate when the spell ends. A strong wind can disperse the clouds and end the spell early.
+duration: Concentration, up to 1 hour
+level: 2
+name: Skywrite
+range: Sight
+school: Transmutation
+tags: Spell 2 Skywrite Transmutation [[1 action]] Sight [[Bard (TOEE)]]
+title: Bard (TOEE) - Skywrite
+type: text/vnd.tiddlywiki
+

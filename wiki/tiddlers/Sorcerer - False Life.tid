@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Sorcerer
+components: V, S, M
+created: 20150531024543540
+description: (a small amount of alcohol or distilled spirits) Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
+duration: 1 hour
+level: 1
+name: False Life
+range: Self
+school: Necromancy
+tags: Spell 1 [[False Life]] Necromancy [[1 action]] Self Sorcerer
+title: Sorcerer - False Life
+type: text/vnd.tiddlywiki
+

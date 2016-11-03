@@ -1,0 +1,11 @@
+bullets: <ul><li>Your weight increases by a factor of ten, and you cease aging.</li><li>You are incapacitated, can't move or speak, and are unaware of your surroundings.</li><li>Attack rolls against you have advantage.</li><li>You automatically fail Strength and Dexterity saving throws.</li><li>You have resistance to all damage.</li><li>You are immune to poison and disease, though a poison or disease already in your system is only suspended, not neutralized.</li></ul>
+category: Condition
+created: 20150531182910611
+description: You are transformed, along with any nonmagical objects you are wearing or carrying, into a solid inanimate substance (usually stone)
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/stone-pile.svg
+reference: PHB, pg. 291.
+subtitle: You are transformed into stone
+tags: Petrified Condition Reference
+title: Petrified
+type: text/vnd.tiddlywiki
+

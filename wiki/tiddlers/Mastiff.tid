@@ -1,0 +1,25 @@
+ac: 12
+actions: Bite. Melee Weapon Attack:+3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone. Mastiffs are impressive hounds prized by humanoids for their loyalty and keen senses, Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halftings and other Small humanoids ride them as mounts.
+additional-settings: Keen Hearing and Smell. The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+alignment: unaligned
+cha: 7
+con: 12
+cr: 0.25
+created: 20150517044220014
+dex: 14
+hp: 5
+hp-formula: 1d8+1
+int: 3
+languages: -
+modified: 20151210182757343
+monster-type: Medium beast
+senses: passive perception 13
+skills: Perception +3
+speed: 40 ft.
+str: 13
+tags: Monster Mastiff
+title: Mastiff
+type: text/vnd.tiddlywiki
+wis: 12
+xp: 25
+

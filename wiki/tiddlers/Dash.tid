@@ -1,0 +1,12 @@
+bullets: <ul><li>The increase equals your speed, after applying any modifiers.</li></ul>
+caption: 1/turn
+category: Action
+created: 20150531182911284
+description: Gain extra movement for the current turn
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/sprint.svg
+reference: PHB, pg. 192.
+subtitle: Double movement speed
+tags: Dash Action Reference
+title: Dash
+type: text/vnd.tiddlywiki
+

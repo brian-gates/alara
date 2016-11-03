@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Warlock
+components: V
+created: 20150517055512555
+description: You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 hit points or fewer, it is stunned. Otherwise, the spell has no effect. The stunned target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
+duration: Instantaneous
+level: 8
+name: Power Word Stun
+range: 60 feet
+school: Enchantment
+tags: Spell 8 [[Power Word Stun]] Enchantment [[1 action]] [[60 feet]] Warlock
+title: Warlock - Power Word Stun
+type: text/vnd.tiddlywiki
+

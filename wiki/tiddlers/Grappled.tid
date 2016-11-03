@@ -1,0 +1,11 @@
+bullets: <ul><li>Your speed becomes 0, and you can't benefit from any bonus to your speed.</li><li>The condition ends if your grappler is incapacitated.</li><li>The condition also ends if you are removed from the reach of your grappler.</li></ul>
+category: Condition
+created: 20150531182910727
+description: You are grappled
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/grab.svg
+reference: PHB, pg. 290.
+subtitle: You are grappled
+tags: Grappled Condition Reference
+title: Grappled
+type: text/vnd.tiddlywiki
+

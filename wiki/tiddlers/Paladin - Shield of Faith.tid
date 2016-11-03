@@ -1,0 +1,14 @@
+cast-time: 1 bonus action
+class: Paladin
+components: V, S, M
+created: 20150517055504961
+description: (a small parchment with a bit of holy text written on it) A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
+duration: Concentration, up to 10 minutes
+level: 1
+name: Shield of Faith
+range: 60 feet
+school: Abjuration
+tags: Spell 1 [[Shield of Faith]] Abjuration [[1 bonus action]] [[60 feet]] Paladin
+title: Paladin - Shield of Faith
+type: text/vnd.tiddlywiki
+

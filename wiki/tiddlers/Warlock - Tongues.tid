@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Warlock
+components: V, M
+created: 20150517055511023
+description: (a small clay model of a ziggurat) This spell grants the creature you touch the ability to understand any spoken language it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says.
+duration: 1 hour
+level: 3
+name: Tongues
+range: Touch
+school: Divination
+tags: Spell 3 Tongues Divination [[1 action]] Touch Warlock
+title: Warlock - Tongues
+type: text/vnd.tiddlywiki
+

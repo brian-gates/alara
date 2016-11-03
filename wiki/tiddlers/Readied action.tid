@@ -1,0 +1,12 @@
+bullets: <ul><li>Trigger: specified by your <i>Ready</i> action.</li></ul>
+caption: max 1/round
+category: Reaction
+created: 20150531182911450
+description: Execute the reaction specified by your Ready action
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/stopwatch.svg
+reference: PHB, pg. 193.
+subtitle: Part of your Ready action
+tags: [[Readied action]] Reaction Reference
+title: Readied action
+type: text/vnd.tiddlywiki
+

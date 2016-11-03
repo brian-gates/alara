@@ -1,0 +1,8 @@
+created: 20160621063433299
+list: Strength Dexterity Constitution Intelligence Wisdom Charisma
+modified: 20160621064036208
+tags: 
+title: Abilities
+type: text/vnd.tiddlywiki
+
+<<list-links "[list[]]">>

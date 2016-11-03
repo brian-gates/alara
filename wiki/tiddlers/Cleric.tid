@@ -1,0 +1,15 @@
+created: 20150515002424890
+modified: 20150903221603083
+tags: Class
+title: Cleric
+type: text/vnd.tiddlywiki
+
+! Class Features
+
+<$transclude tiddler="Cleric Class Features" mode="block" />
+
+<$transclude tiddler="Cleric Table" mode="block" />
+
+! Spellcasting
+
+<$transclude tiddler="Cleric Spellcasting" mode="block" />

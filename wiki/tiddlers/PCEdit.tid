@@ -1,5 +1,5 @@
 created: 20150119070625146
-modified: 20150119182935486
+modified: 20160626154321854
 tags: $:/tags/EditTemplate
 title: PCEdit
 type: text/vnd.tiddlywiki
@@ -34,6 +34,10 @@ type: text/vnd.tiddlywiki
 <figure><$transclude/></figure>
 </$list>
 
+| !Proficiency Bonus|<$edit-text field="proficiency_bonus"/> |
+| !Max HP|<$edit-text field="max-hp"/> |
+| !Current HP|<$edit-text field="hp"/> |
+| !Speed|<$edit-text field="speed"/> |
 | !Ethic|<$edit-text field="ethic"/> |
 | !Moral|<$edit-text field="moral"/> |
 | !Race|<$edit-text field="race"/> |
@@ -46,7 +50,20 @@ type: text/vnd.tiddlywiki
 | !Ideal|<$edit-text field="ideal"/> |
 | !Traits|<$edit-text field="traits"/> |
 | !Passive Perception|<$edit-text field="passive_perception"/> |
+| !Armor Class|<$edit-text field="ac"/> |
+
+!! Ability Scores
+
+|!|!Value|!Mod|
+|!Str|<$edit-text type="number" field="str" />|<$macrocall $name="abilitymod" abilityScore={{!!str}} />|
+|!Dex|<$edit-text type="number" field="dex" />|<$macrocall $name="abilitymod" abilityScore={{!!dex}} />|
+|!Con|<$edit-text type="number" field="con" />|<$macrocall $name="abilitymod" abilityScore={{!!con}} />|
+|!Int|<$edit-text type="number" field="int" />|<$macrocall $name="abilitymod" abilityScore={{!!int}} />|
+|!Wis|<$edit-text type="number" field="wis" />|<$macrocall $name="abilitymod" abilityScore={{!!wis}} />|
+|!Cha|<$edit-text type="number" field="cha" />|<$macrocall $name="abilitymod" abilityScore={{!!cha}} />|
 
 </div>
+
+<$transclude tiddler="skill edit" />
 
 </$list>

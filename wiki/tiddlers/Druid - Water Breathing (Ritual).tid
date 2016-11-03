@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Druid
+components: V, S, M
+created: 20150517055500693
+description: (a short reed or piece of straw) This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
+duration: 24 hours
+level: 3
+name: Water Breathing (Ritual)
+range: 30 feet
+school: Transmutation
+tags: Spell 3 [[Water Breathing (Ritual)]] Transmutation [[1 action]] [[30 feet]] Druid
+title: Druid - Water Breathing (Ritual)
+type: text/vnd.tiddlywiki
+

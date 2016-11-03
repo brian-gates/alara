@@ -1,0 +1,47 @@
+created: 20150514050914492
+modified: 20150514224735088
+tags: $:/tags/EditTemplate
+title: Spell Edit
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[Spell]]">
+
+<style>
+.spell-edit table {
+  width: 100%;
+}
+
+.spell-edit th {
+ width: 1px;
+}
+
+.spell-edit td input,
+.spell-edit th {
+  padding: 10px;
+}
+.spell-edit td {
+  padding: 0;
+}
+.spell-edit td input {
+  width: 100%;
+  border: 0;
+}
+</style>
+
+<div class="spell-edit">
+
+<$list filter="[tag[ProfileImage]tag<currentTiddler>]">
+<figure><$transclude/></figure>
+</$list>
+
+| !Level and School|<$edit-text field="level-and-school"/> |
+| !Cast Time|<$edit-text field="cast-time"/> |
+| !Range|<$edit-text field="range"/> |
+| !Components|<$edit-text field="components"/> |
+| !Duration|<$edit-text field="duration"/> |
+| !Description|<$edit-text tag="textarea" field="description"/> |
+| !At Higher Levels|<$edit-text field="at-higher-levels"/> |
+
+</div>
+
+</$list>

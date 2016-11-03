@@ -1,0 +1,32 @@
+ac: 17
+ac-type: splint
+actions: Multiattack. Langdedrosa attacks twice,  either with  his greatsword  or spear.<br>Greatsword.  Melee  Weapon Attack:+6 to  hit,  reach  5 ft., one target.  <br>Hit: 11  (2d6 + 4)  slashing damage.<br>Spear.  Melee  or Ranged Weapon Attack:+6 to hit,  reach  5 ft. or ranged  20 ft./60 ft.,  one target.  Hit:  7 (1d6 + 4)  piercing damage.<br>Lightning Breath  (Recharge 5-6 ). Langdedrosa  breathes lightning in  a  30-foot line that is  5 feet wide.  Each  creature in the line must make a  DC  13  Dexterity saving throw, taking <br>22  (4d10)  lightning damage on  a failed  save,  or half as  much damage on  a  successful one.
+additional-settings: Action Surge  (Recharges when Langdedrosa Finishes a Short or Long Rest). On  his turn,  Langdedrosa can take one additional action.<br>Improved Critical. Langdedrosa’s weapon  attacks  score a critical  hit on  a  roll  of 19 or 20.
+alignment: lawful evil
+cha: 12
+con: 16
+conditional-immunities: 
+cr: 4
+created: 20150516222856406
+damage-immunities: 
+damage-resistances: lightning
+description: 
+dex: 13
+hp: 57
+hp-formula: 6d12+18
+int: 10
+languages: Common,  Draconic
+legendary-actions: 
+monster-type: medium Humanoid
+name: Langdedrosa Cyanwrath
+saving-throws: Str +6,  Con +5
+senses: blindsight  10 ft.,  darkvision  60 ft.,  passive  Perception  14
+skills: Athletics +6,  Intimidation +3,  Perception  +4
+speed: 30 ft.
+str: 19
+tags: Monster [[Langdedrosa Cyanwrath]]
+title: Langdedrosa Cyanwrath
+type: text/vnd.tiddlywiki
+wis: 14
+xp: 1100
+

@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Paladin
+components: V
+created: 20150517055505432
+description: Healing energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. You can use a bonus action to cause one creature in the aura (including you) to regain 2d6 hit points.
+duration: Concentration, up to 1 minute
+level: 3
+name: Aura of Vitality
+range: Self (30-foot radius)
+school: Evocation
+tags: Spell 3 [[Aura of Vitality]] Evocation [[1 action]] [[Self (30-foot radius)]] Paladin
+title: Paladin - Aura of Vitality
+type: text/vnd.tiddlywiki
+

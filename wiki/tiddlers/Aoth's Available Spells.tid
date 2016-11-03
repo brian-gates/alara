@@ -1,0 +1,41 @@
+created: 20150924163717423
+modified: 20160107055448803
+tags: [[Aoth Nethendem]]
+title: Aoth's Available Spells
+type: text/vnd.tiddlywiki
+
+<$list filter="0 1 2 3" variable="level">
+  Level <<level>>
+  <table class="$class$">
+    <thead>
+      <tr>
+        <th>Favorite</th>
+        <th>Name</th>
+        <th>Cast time</th>
+        <th>Class</th>
+        <th>Components</th>
+        <th>Duration</th>
+        <th>Level</th>
+        <th>Range</th>
+        <th>School</th>
+      </tr>
+    </thead>
+    <tbody>
+      <$list filter="[tag[Cleric]tag[Spell]level<level>] [tag[Cleric (Knowledge)]tag[Spell]level<level>]" variable="spell">
+        <tr>
+          <td>
+            <$checkbox tiddler=<<spell>> tag="Aoth's Favorite Spells"></$checkbox>        
+          </td>
+          <td><$link to=<<spell>>><$view tiddler=<<spell>> field=name/></$link></td>
+          <td><$view tiddler=<<spell>> field=cast-time/></td>
+          <td><$view tiddler=<<spell>> field=class/></td>
+          <td><$view tiddler=<<spell>> field=components/></td>
+          <td><$view tiddler=<<spell>> field=duration/></td>
+          <td><$view tiddler=<<spell>> field=level/></td>
+          <td><$view tiddler=<<spell>> field=range/></td>
+          <td><$view tiddler=<<spell>> field=school/></td>
+        </tr>
+      </$list>
+    </tbody>
+  </table>
+</$list>

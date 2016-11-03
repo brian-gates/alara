@@ -1,0 +1,9 @@
+created: 20160621064219980
+list: Acrobatics [[Sleight of Hand]] Stealth [[Dexterity Saving Throw]]
+modified: 20160625161714076
+tags: Ability
+title: Dexterity
+type: text/vnd.tiddlywiki
+variable-name: dex
+
+<<list-links [list[]]>>

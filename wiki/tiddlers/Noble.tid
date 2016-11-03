@@ -1,0 +1,32 @@
+ac: 15
+ac-type: breastplate
+actions: Rapier. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. <br>Hit:5 (1d8 + 1) piercing damage.<br><br>Reactions<br>Parry. The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.<br>
+additional-settings: 
+alignment: any alignment
+cha: 16
+con: 11
+conditional-immunities: 
+cr: 0.125
+created: 20150516222856306
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 12
+hp: 9
+hp-formula: 2d8
+int: 12
+languages: any two languages
+legendary-actions: 
+monster-type: Medium humanoid (any race)
+name: Noble
+saving-throws: 
+senses: passive Perception 10
+skills: Deception +5, Insight +4, Persuasion +5
+speed: 30 ft.
+str: 11
+tags: Monster Noble
+title: Noble
+type: text/vnd.tiddlywiki
+wis: 14
+xp: 25
+

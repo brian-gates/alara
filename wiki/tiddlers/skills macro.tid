@@ -1,0 +1,30 @@
+created: 20160621055834481
+modified: 20160621071230546
+tags: $:/tags/Macro
+title: skills macro
+type: text/vnd.tiddlywiki
+
+\define skills()
+<style>
+  .skills {
+    display: flex;
+    flex-direction: column;
+  }
+  .skill_group {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    flex: 1 1 auto;
+    border: 1px solid black;
+    margin: 5px;
+  }
+</style>
+
+
+<div class="skills">
+
+  <$list [[Abilities]]>
+  	<<currentTiddler>>
+  </$list>
+</div>
+\end

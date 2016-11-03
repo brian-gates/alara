@@ -1,0 +1,32 @@
+ac: 15
+ac-type: natural armor
+actions: Multiattack. The gargoyle makes two attacks: one with its bite and one with its claws.<br>Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. <br>Hit:5 (1d6 + 2) piercing damage.<br>Claws. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. <br>Hit:5 (1d6 + 2) slashing damage.<br>
+additional-settings: False Appearance. While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
+alignment: chaotic evil
+cha: 7
+con: 16
+conditional-immunities: exhaustion, petrified, poisoned
+cr: 2
+created: 20150516222854394
+damage-immunities: poison
+damage-resistances: bludgeoning, piercing, and slashing from  nonmagical weapons that aren’t adamantine
+description: 
+dex: 11
+hp: 52
+hp-formula: 7d8+12
+int: 6
+languages: Terran
+legendary-actions: 
+monster-type: Medium elemental
+name: Gargoyle
+saving-throws: 
+senses: darkvision 60 ft., passive Perception 10
+skills: 
+speed: 30 ft., fly 60 ft.
+str: 15
+tags: Monster Gargoyle
+title: Gargoyle
+type: text/vnd.tiddlywiki
+wis: 11
+xp: 450
+

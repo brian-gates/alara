@@ -1,0 +1,49 @@
+created: 20160626151703313
+modified: 20160626152735513
+tags: $:/tags/Macro
+title: skilltemplate macro
+type: text/vnd.tiddlywiki
+
+\define skilltemplate(skill, size:"5")
+<style>
+  .skilltemplate-macro .skilltemplate {
+    width: 2em;
+    height: 2em;
+    font-size: $size$em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border: .1em solid black;
+    border-radius: 2em;
+    position: relative;
+  }
+  .skilltemplate-macro .skilltemplate value {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1 1 auto;
+  }
+  .skilltemplate-macro .skilltemplate label {
+    font-size: .25em;
+    flex: 0 0 auto;
+    position: absolute; 
+    bottom: .6em;
+    text-align: center;
+    width: 100%;
+    color: rgba(0,0,0, .5);
+  }
+</style>
+<div class="skilltemplate-macro">
+  <div class="skilltemplate">
+    <value><$macrocall $name="skillmod" character=<<currentTiddler>> skill='$skill$' />
+</value>
+    <label>$skill$</label>
+  </div>
+</div>
+\end
+
+!Example 
+
+<$list filter=Yusgef>
+  <<skilltemplate "Initiative">>
+</$list>

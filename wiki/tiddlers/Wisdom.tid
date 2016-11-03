@@ -1,0 +1,9 @@
+created: 20160621064259546
+list: [[Animal Handling]] Insight Medicine Perception Survival [[Wisdom Saving Throw]]
+modified: 20160625185641136
+tags: Ability
+title: Wisdom
+type: text/vnd.tiddlywiki
+variable-name: wis
+
+<<list-links "[list[]]">>

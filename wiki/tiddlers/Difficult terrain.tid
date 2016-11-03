@@ -1,0 +1,11 @@
+caption: Limited by movement speed
+category: Movement
+created: 20150531182911558
+description: Moving in difficult terrain costs an additional 5ft per 5ft of movement
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/stone-pile.svg
+reference: PHB, pg. 182.
+subtitle: Cost modifier: +5ft per 5ft
+tags: [[Difficult terrain]] Movement Reference
+title: Difficult terrain
+type: text/vnd.tiddlywiki
+

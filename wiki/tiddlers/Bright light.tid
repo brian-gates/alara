@@ -1,0 +1,11 @@
+bullets: <ul><li>Gloomy days still provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius.</li></ul>
+category: Environment
+created: 20150531182912079
+description: Bright light lets most creatures see normally
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/star-pupil.svg
+reference: PHB, pg. 183.
+subtitle: Normal vision
+tags: [[Bright light]] Environment Reference
+title: Bright light
+type: text/vnd.tiddlywiki
+

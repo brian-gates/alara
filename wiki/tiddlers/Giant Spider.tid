@@ -1,0 +1,32 @@
+ac: 14
+ac-type: natural Armor
+actions: Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. <br>Hit:7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.<br>Web (Recharge 5–6). Ranged Weapon Attack:+5 to hit, range 30/60 ft., one creature.Hit:The target is restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10, hp 5, vulnerability to fire damage, immunity to bludgeoning, poison, and psychic damage).<br>
+additional-settings: Spider Climb. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.<br>Web Sense.While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.<br>Web Walker.The spider ignores movement restrictions caused by webbing.
+alignment: unaligned
+cha: 4
+con: 12
+conditional-immunities: 
+cr: 1
+created: 20150516222854278
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 16
+hp: 26
+hp-formula: 4d10+4
+int: 2
+languages: 
+legendary-actions: 
+monster-type: Large beast
+name: Giant Spider
+saving-throws: 
+senses: blindsight 10 ft., darkvision 60 ft., passive Perception 10
+skills: Stealth +7
+speed: 30 ft., climb 30 ft.
+str: 14
+tags: Monster [[Giant Spider]]
+title: Giant Spider
+type: text/vnd.tiddlywiki
+wis: 11
+xp: 200
+

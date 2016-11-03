@@ -1,0 +1,32 @@
+ac: 10
+ac-type: 
+actions: Bites. Melee Weapon Attack: +2 to hit, reach 0 ft., one target in the swarm’s space. <br>Hit:7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+additional-settings: Keen Smell.The swarm has advantage on Wisdom (Perception) checks that rely on smell.<br>Swarm.The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can’t regain hit points or gain temporary hit points.
+alignment: unaligned
+cha: 3
+con: 9
+conditional-immunities: 
+cr: 0.25
+created: 20150516222855709
+damage-immunities: 
+damage-resistances: bludgeoning, piercing, slashing Condition Immunitiescharmed, frightened, paralyzed,  petrified, prone, restrained, stunned
+description: 
+dex: 11
+hp: 24
+hp-formula: 7d8-7
+int: 2
+languages: 
+legendary-actions: 
+monster-type: Medium swarm of Tiny beasts
+name: Swarm of Rats
+saving-throws: 
+senses: darkvision 30 ft., passive Perception 10
+skills: 
+speed: 30 ft.
+str: 9
+tags: Monster [[Swarm of Rats]]
+title: Swarm of Rats
+type: text/vnd.tiddlywiki
+wis: 10
+xp: 50
+

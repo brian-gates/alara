@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Bard
+components: V, S, M
+created: 20150517055446503
+description: (a pinch of soot and salt) For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface of which the words are written. It takes about 1 minute to read one page of text.  This spell doesn't decode secret messages in a text or glyph, such as an arcane sigil, that isn't part of a written language.
+duration: 1 hour
+level: 1
+name: Comprehend Languages (Ritual)
+range: Self
+school: Divination
+tags: Spell 1 [[Comprehend Languages (Ritual)]] Divination [[1 action]] Self Bard
+title: Bard - Comprehend Languages (Ritual)
+type: text/vnd.tiddlywiki
+

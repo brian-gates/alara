@@ -1,0 +1,33 @@
+ac: 15
+ac-type: natural armor, shield
+actions: Multiattack.The lizardfolk makes two melee attacks, each one with a different weapon.<br>Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. <br>Hit:5 (1d6 + 2) piercing damage.<br>Heavy Club. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. <br>Hit:5 (1d6 + 2) bludgeoning damage.<br>Javelin. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. <br>Hit:5 (1d6 + 2) piercing damage.<br>Spiked Shield. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. <br>Hit:5 (1d6 + 2) piercing damage.<br>
+additional-settings: Hold Breath. The lizardfolk can hold its breath for 15 minutes.
+alignment: neutral
+cha: 7
+con: 13
+conditional-immunities: 
+cr: 0.5
+created: 20150516222856361
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 10
+hp: 22
+hp-formula: 4d8+4
+int: 7
+languages: Draconic
+legendary-actions: 
+modified: 20150531204150700
+monster-type: Medium humanoid (lizardfolk)
+name: Lizardfolk
+saving-throws: 
+senses: passive Perception 13
+skills: Perception +3, Stealth +4, Survival +5
+speed: 30 ft., swim 30ft.
+str: 15
+tags: Monster Lizardfolk
+title: Lizardfolk
+type: text/vnd.tiddlywiki
+wis: 12
+xp: 100
+

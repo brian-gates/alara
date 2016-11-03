@@ -1,0 +1,12 @@
+bullets: <ul><li>Trigger: enemy creature leaves your reach.</li><li>Make one melee attack against the provoking creature.</li><li>The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.</li><li>Creatures don't provoke an opportunity attack when they teleport or when someone or something moves them without using their movement, action, or reaction.</li></ul>
+caption: max 1/round
+category: Reaction
+created: 20150531182911504
+description: You can rarely move heedlessly past your foes without putting yourself in danger
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/crossed-swords.svg
+reference: PHB, pg. 195.
+subtitle: Enemy leaves your reach
+tags: [[Opportunity attack]] Reaction Reference
+title: Opportunity attack
+type: text/vnd.tiddlywiki
+

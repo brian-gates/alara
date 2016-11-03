@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Ranger
+components: V, S, M
+created: 20150517055507999
+description: (either a pinch of dried carrot or an agate) You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.
+duration: 8 hours
+level: 2
+name: Darkvision
+range: Touch
+school: Transmutation
+tags: Spell 2 Darkvision Transmutation [[1 action]] Touch Ranger
+title: Ranger - Darkvision
+type: text/vnd.tiddlywiki
+

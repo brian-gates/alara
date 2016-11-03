@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Cleric
+components: V, S
+created: 20150517055455218
+description: A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+duration: Instantaneous
+level: 1
+name: Cure Wounds
+range: Touch
+school: Evocation
+tags: Spell 1 [[Cure Wounds]] Evocation [[1 action]] Touch [[Cleric (Life)]]
+title: Cleric (Life) - Cure Wounds
+type: text/vnd.tiddlywiki
+

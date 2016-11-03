@@ -1,0 +1,55 @@
+created: 20160404172222224
+modified: 20160404172427710
+tags: Spoiler Quest [[Coming Dawn]]
+title: Skullhammer Siege
+type: text/vnd.tiddlywiki
+
+<pre>
+army budget 1000xp
+  with solos 2425xp
+
+orc 500xp 5*100xp
+orog 450xp
+975
+
+orc 500xp 5*100xp
+orc eye of grumsh 450xp
+orog commander 450xp
+orog 450xp
+ total 1850xp
+
+party budget
+medium 1000xp
+hard 1500xp
+deadly 2000xp
+
+helmed horror 1100xp
+
+orc war chief 1100xp
+
+orc 100xp
+orc eye of grumsh 450xp
+orog 450xp
+
+
+Party Win:
+  Artemis revealed, summons war chief
+  Army win:
+    Party saved, Artemis aprehended
+  Army loss:
+    Party is captured
+Party loss:
+  Artemis not revealed, war chief not summoned
+  Army Win:
+    Party saved, Artemis aprehended
+  Army Loss:
+    Party is captured
+
+28dmg
+
+Brad   21 
+Elly   16 current turn
+Shadow 7  
+Masha  3  35' in room
+Ander  2  1 fail
+</pre>

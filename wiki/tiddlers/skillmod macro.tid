@@ -1,0 +1,37 @@
+created: 20160624201750767
+modified: 20160625182610935
+module-type: macro
+tags: $:/tags/Macro
+title: skillmod macro
+type: application/javascript
+
+var abilitymod = require('abilitymod macro').run;
+
+exports.name = 'skillmod';
+
+exports.params = [{name: 'character'}, { name: 'skill' }];
+
+exports.run = function(character, skill) {
+  var skillmod       = 0;
+  var character      = $tw.wiki.getTiddler(character);
+  var characterTitle = character.fields['title'];
+  var ability        = $tw.wiki.filterTiddlers('[['+skill+']listed[]tag[Ability]]')[0];
+
+  if(ability) {
+    var abilityField = $tw.wiki.getTiddler(ability).fields['variable-name'];
+    var abilityscore = character.fields[abilityField];
+    skillmod         += parseInt(abilitymod(abilityscore));
+  }
+
+  var proficiencyBonus = character.fields['proficiency_bonus'];
+  var proficient       = 1 === $tw.wiki.filterTiddlers('[list['+characterTitle+'!!proficiencies]]').filter(function(x) { return x == skill }).length;
+  var expertise        = 1 === $tw.wiki.filterTiddlers('[list['+characterTitle+'!!expertise]]').filter(function(x) { return x == skill }).length;
+
+  if(proficient && proficiencyBonus) {
+    skillmod += parseInt(proficiencyBonus);
+  }
+  if(expertise && proficiencyBonus) {
+    skillmod += 2*parseInt(proficiencyBonus);
+  }
+  return skillmod;
+}

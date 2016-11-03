@@ -1,0 +1,12 @@
+bullets: <ul><li>If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed.</li><li>You can move through a nonhostile creature's space.</li><li>You can move through a hostile creature's space only if the creature is at least two sizes larger or smaller than you.</li><li>Another creature's space is difficult terrain for you.</li><li>Whether a creature is a friend or an enemy, you can't willingly end your move in its space.</li></ul>
+caption: Limited by movement speed
+category: Movement
+created: 20150531182911815
+description: Movement cost: 5ft per 5ft moved
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/run.svg
+reference: PHB, pg. 190.
+subtitle: Cost: 5ft per 5ft
+tags: Move Movement Reference
+title: Move
+type: text/vnd.tiddlywiki
+

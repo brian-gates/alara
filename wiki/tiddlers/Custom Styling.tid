@@ -1,5 +1,5 @@
 created: 20150113182259499
-modified: 20150114020320769
+modified: 20150531170732857
 tags: $:/tags/Stylesheet
 title: Custom Styling
 type: text/vnd.tiddlywiki
@@ -27,4 +27,12 @@ body.tc-body {
 
 .tc-site-title a, h1, h2, h3, h4, h5 {
   color: #d6ad77;
+}
+
+table {
+  width: 100%;
+}
+
+small {
+  opacity: .6;
 }

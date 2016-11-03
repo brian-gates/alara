@@ -1,0 +1,84 @@
+created: 20160116225239395
+modified: 20160611043341462
+tags: $:/tags/ViewTemplate
+title: PCGroupView
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[PCGroup]]">
+
+<style>
+  .editable-table td {
+    padding: 0;
+  }
+  .editable-table td input {
+    border: 0;
+    padding: 5px;
+    width: 100%;
+  }
+  .pad {
+    padding: 5px;
+  }
+
+  .pc-group-stats td {
+    white-space: nowrap;
+  }
+  .pc-group-overview table, .pc-group-overview td {
+    border: 0;
+  }
+</style>
+
+<h2>Members</h2>
+
+<div class="pc-group-overview">
+  <$list filter="[list[!!members]]" variable="pc">
+    <h3><$link to=<<pc>>><$view tiddler=<<pc>> field=title/></$link></h3>
+    <$view tiddler=<<pc>> field="ethic"/>
+    <$view tiddler=<<pc>> field="moral"/>
+    <$view tiddler=<<pc>> field="race"/>
+    <$view tiddler=<<pc>> field="class"/>
+    <table>
+      <tr><td>Description</td><td><$view tiddler=<<pc>> field="description"/></td></tr>
+      <tr><td>Bond</td><td><$view tiddler=<<pc>> field="bond"/></td></tr>
+      <tr><td>Flaw</td><td><$view tiddler=<<pc>> field="flaw"/></td></tr>
+      <tr><td>Ideal</td><td><$view tiddler=<<pc>> field="ideal"/></td></tr>
+      <tr><td>Traits</td><td><$view tiddler=<<pc>> field="traits"/></td></tr>
+    </table>
+  </$list>
+</div>
+
+<h2>Stats</h2>
+
+<table class="editable-table pc-group-stats">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Passive Perception</th>
+      <th>AC</th>
+      <th>Spell Save DC</th>
+      <th>Str</th>
+      <th>Dex</th>
+      <th>Con</th>
+      <th>Int</th>
+      <th>Wis</th>
+      <th>Cha</th>
+    </tr>
+  </thead>
+  <tbody>
+    <$list filter="[list[!!members]]" variable="pc">
+      <tr>
+        <td><div class="pad"><$link to=<<pc>>><$view tiddler=<<pc>> field=title/></$link></div></td>
+        <td><$edit-text tiddler=<<pc>> field=passive_perception/></td>
+        <td><$edit-text tiddler=<<pc>> field=ac/></td>
+        <td><$edit-text tiddler=<<pc>> field=spell_save_dc/></td>
+        <td><$edit-text tiddler=<<pc>> field=str/></td>
+        <td><$edit-text tiddler=<<pc>> field=dex/></td>
+        <td><$edit-text tiddler=<<pc>> field=con/></td>
+        <td><$edit-text tiddler=<<pc>> field=int/></td>
+        <td><$edit-text tiddler=<<pc>> field=wis/></td>
+        <td><$edit-text tiddler=<<pc>> field=cha/></td>
+      </tr>
+    </$list>
+  </tbody>
+</table>
+
+</$list>

@@ -1,0 +1,12 @@
+bullets: <ul><li>If you move while grappling another creature, your speed is halved, unless the creature is two or more sizes smaller than you.</li><li>See the attack action for how to grapple a creature.</li></ul>
+caption: Limited by movement speed
+category: Movement
+created: 20150531182911532
+description: Drag or carry the grappled creature with you
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/grab.svg
+reference: PHB, pg. 195.
+subtitle: Modifier: speed halved
+tags: [[Grapple move]] Movement Reference
+title: Grapple move
+type: text/vnd.tiddlywiki
+

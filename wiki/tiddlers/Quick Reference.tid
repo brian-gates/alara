@@ -1,0 +1,38 @@
+created: 20150531163938943
+modified: 20150531201352705
+tags: [[Table of Contents]]
+title: Quick Reference
+type: text/vnd.tiddlywiki
+
+<style>
+  .reference-table .icon {
+    width: 50px;
+    height: 50px;
+  }
+  .reference-table .layout, .reference-table .layout td {
+    border: 0;
+  }
+  .reference-table tr:hover td {
+  	background: #eee;
+  }
+  .reference-table tr:nth-child(odd) {
+  	background: #f8f8f8;
+  }
+</style>
+<div class="reference-table">
+  <$list filter="[tag[Reference Category]]">
+    <h2>{{!!title}} <small>{{!!caption}}</small></h2>
+    <table class="layout">
+      <$list filter="[tag[Reference]tag<currentTiddler>]">
+        <tr>
+          <td class="icon">
+            <img class="icon" src={{!!icon}} />
+          </td>
+          <td><$link to={{!!title}}>{{!!title}}</$link></td>
+          <td>{{!!description}}</td>
+          <td><small>{{!!reference}}</small></td>
+        </tr>
+      </$list>
+    </table>
+  </$list>
+</div>

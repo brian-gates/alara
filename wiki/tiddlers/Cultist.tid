@@ -1,0 +1,32 @@
+ac: 12
+ac-type: leather armor
+actions: Scimitar. Melee Weapon Attack:+3 to hit, reach 5 ft., one creature. <br>Hit:4 (1d6 + 1) slashing damage.
+additional-settings: Dark Devotion.The cultist has advantage on saving throws against being charmed or frightened.
+alignment: any non-good alignment
+cha: 10
+con: 10
+conditional-immunities: 
+cr: 0.125
+created: 20150516222854629
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 12
+hp: 9
+hp-formula: 2d8
+int: 10
+languages: any one language (usually Common)
+legendary-actions: 
+monster-type: Medium humanoid (any race)
+name: Cultist
+saving-throws: 
+senses: passive Perception 10
+skills: Deception +2, Religion +2
+speed: 30 ft.
+str: 11
+tags: Monster Cultist
+title: Cultist
+type: text/vnd.tiddlywiki
+wis: 11
+xp: 25
+

@@ -1,0 +1,32 @@
+ac: 17
+ac-type: natural armor
+actions: Multiattack.The giant makes two greatclub attacks.<br>Greatclub. Melee Weapon Attack: +9 to hit, reach 15 ft., one target. <br>Hit:19 (3d8 + 6) bludgeoning damage.<br>Rock. Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. <br>Hit:28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.<br><br>Reaction<br>Rock Catching.If a rock or similar object is hurled at the giant the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
+additional-settings: 
+alignment: neutral
+cha: 9
+con: 20
+conditional-immunities: 
+cr: 7
+created: 20150516222855807
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 15
+hp: 126
+hp-formula: 11d12+55
+int: 10
+languages: Giant
+legendary-actions: 
+monster-type: Huge giant
+name: Stone Giant
+saving-throws: Dex +5, Con +8, Wis +4
+senses: darkvision 60 ft., passive Perception 14
+skills: Athletics +12, Perception +4
+speed: 40 ft.
+str: 23
+tags: Monster [[Stone Giant]]
+title: Stone Giant
+type: text/vnd.tiddlywiki
+wis: 12
+xp: 2900
+

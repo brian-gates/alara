@@ -1,0 +1,32 @@
+ac: 13
+ac-type: hide armor
+actions: Greataxe. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.<br>Hit:9 (1d12 + 3) slashing damage.
+additional-settings: Reckless. At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
+alignment: any chaotic alignment
+cha: 9
+con: 17
+conditional-immunities: 
+cr: 2
+created: 20150516222854803
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 12
+hp: 67
+hp-formula: 9d8+27
+int: 9
+languages: any one Language (usually Common)
+legendary-actions: 
+monster-type: Medium humanoid (any race)
+name: Berserker
+saving-throws: 
+senses: passive Perception 10
+skills: 
+speed: 30 ft.
+str: 16
+tags: Monster Berserker
+title: Berserker
+type: text/vnd.tiddlywiki
+wis: 11
+xp: 450
+

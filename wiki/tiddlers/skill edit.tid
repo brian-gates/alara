@@ -1,0 +1,52 @@
+created: 20160624234430537
+expertise: Arcana Deception
+modified: 20160625162125471
+proficiencies: StrengthSavingThrow
+tags: 
+title: skill edit
+type: text/vnd.tiddlywiki
+
+\define test(skill)
+
+  <$button>
+    <$action-listops $field="proficiencies" $subfilter="-[[$skill$]]" />
+    <$action-listops $field="expertise" $subfilter="-[[$skill$]]" />
+    Not Proficient
+  </$button>
+
+  <$button>
+    <$action-listops $field="proficiencies" $subfilter="[[$skill$]]" />
+    <$action-listops $field="expertise" $subfilter="-[[$skill$]]" />
+    Proficient
+  </$button>
+  
+  <$button>
+    <$action-listops $field="expertise" $subfilter="[[$skill$]]" />
+    <$action-listops $field="proficiencies" $subfilter="-[[$skill$]]" />
+    Expertise
+  </$button>
+  
+  $skill$
+
+
+\end
+
+<$list filter="[list[Saving Throws]]" variable="save">
+  <div class="skill">
+    <$macrocall $name="test" skill=<<save>> />
+  </div>
+</$list>
+
+<$list filter=[list[Skills]] variable="skill">
+  <div class="skill">
+    <$macrocall $name="test" skill=<<skill>> />
+  </div>
+</$list>
+
+Proficiencies:
+
+<<list-links filter:"[list[!!proficiencies]]">>
+
+Expertise:
+
+<<list-links filter:"[list[!!expertise]]">>

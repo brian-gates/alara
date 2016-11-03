@@ -1,0 +1,25 @@
+ac: 16
+ac-type: chain shirt, shield
+actions: Spear. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20f60 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
+alignment: any alignment
+cha: 10
+con: 12
+cr: .125
+created: 20160401051856969
+dex: 12
+hp: 11
+hp-formula: 2d8+2
+int: 10
+languages: any one language (usually Common)
+modified: 20160401054000902
+monster-type: Medium humanoid (any race)
+senses: passive perception 12
+skills: Perception +2
+speed: 30 ft
+str: 13
+tags: Monster
+title: Guard
+type: text/vnd.tiddlywiki
+wis: 11
+xp: 25
+

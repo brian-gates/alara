@@ -1,0 +1,15 @@
+cast-time: 1 action
+class: Cleric
+components: V, S
+created: 20150517055454937
+description: A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also [[Poisoned]] until the end of your next turn. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+duration: Instantaneous
+level: 1
+modified: 20150903172214365
+name: Ray of Sickness
+range: 60 feet
+school: Necromancy
+tags: Spell 1 [[Ray of Sickness]] Necromancy [[1 action]] [[60 feet]] [[Cleric (Death)]]
+title: Cleric (Death) - Ray of Sickness
+type: text/vnd.tiddlywiki
+

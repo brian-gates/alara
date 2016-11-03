@@ -1,0 +1,14 @@
+cast-time: 1 hour
+class: Wizard
+components: V, S, M
+created: 20150517055520200
+description: (either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect) This spell attracts or repels creatures of your choice. You target something within range, either a Huge or smaller object or creature or an area that is no larger than a 200-foot cube. Then specify a kind of intelligent creature, such as red dragons, goblins, or vampires. You invest the target with an aura that either attracts or repels the specified creatures for the duration. Choose antipathy or sympathy as the aura's effect.
+duration: 10 days
+level: 8
+name: Antipathy/Sympathy
+range: 60 feet
+school: Enchantment
+tags: Spell 8 Antipathy/Sympathy Enchantment [[1 hour]] [[60 feet]] Wizard
+title: Wizard - Antipathy/Sympathy
+type: text/vnd.tiddlywiki
+

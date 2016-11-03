@@ -1,0 +1,12 @@
+bullets: <ul><li>Only usable if you take the <i>Attack</i> action and attack with a light melee weapon that you're holding in one hand.</li><li>Perform a single attack with a different light melee weapon that you're holding in the other hand.</li><li>You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.</li><li>If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.</li></ul>
+caption: max 1/turn
+category: Bonus Action
+created: 20150531182910931
+description: Attack with your off hand
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/crossed-swords.svg
+reference: PHB, pgs. 192,194-195.
+subtitle: Use with the Attack action
+tags: [[Offhand Attack]] [[Bonus Action]] Reference
+title: Offhand Attack
+type: text/vnd.tiddlywiki
+

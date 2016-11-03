@@ -1,0 +1,15 @@
+cast-time: 1 action
+class: Cleric
+components: V, S
+created: 20150517055450813
+description: Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw. The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+duration: Instantaneous
+level: 0
+modified: 20150924164014148
+name: Sacred Flame
+range: 60 feet
+school: Evocation
+tags: Spell 0 [[Sacred Flame]] Evocation [[1 action]] [[60 feet]] Cleric [[Aoth's Favorite Spells]] [[Aoth's Prepared Spells]]
+title: Cleric - Sacred Flame
+type: text/vnd.tiddlywiki
+

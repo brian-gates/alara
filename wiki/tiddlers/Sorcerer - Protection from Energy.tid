@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Sorcerer
+components: V, S
+created: 20150531024545002
+description: For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.
+duration: Concentration, up to 1 hour
+level: 3
+name: Protection from Energy
+range: Touch
+school: Abjuration
+tags: Spell 3 [[Protection from Energy]] Abjuration [[1 action]] Touch Sorcerer
+title: Sorcerer - Protection from Energy
+type: text/vnd.tiddlywiki
+

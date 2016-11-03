@@ -1,0 +1,9 @@
+bullets: <ul><li>You are incapacitated and can't move or speak.</li><li>Attack rolls against you have advantage.</li><li>Any attack that hits you is a critical hit if the attacker is within 5 feet of you.</li><li>You automatically fail Strength and Dexterity saving throws.</li></ul>
+created: 20150531182910642
+description: You can't do anything
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/internal-injury.svg
+subtitle: You are paralyzed
+tags: Paralyzed undefined Reference
+title: Paralyzed
+type: text/vnd.tiddlywiki
+

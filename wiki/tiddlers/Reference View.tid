@@ -1,0 +1,35 @@
+created: 20150531163450832
+modified: 20150531184640306
+tags: $:/tags/ViewTemplate
+title: Reference View
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[Reference]]">
+
+  <style>
+    .reference table.layout td.icon {
+      width: 100px;
+      height: 100px;
+      vertical-align: top;
+    }
+    .reference table.layout, .reference table.layout td {
+      border: 0;
+    }
+  </style>
+
+  <div class="reference">
+    <h2>{{!!category}}</h2>
+    <table class="layout">
+      <tr>
+        <td class="icon"><img src={{!!icon}} width=100% /></td>
+        <td>
+          {{!!description}}
+
+          {{!!bullets}}
+        </td>
+      </tr>
+    </table>
+    <small>{{!!reference}}</small>
+  </div>
+
+</$list>

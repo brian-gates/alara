@@ -1,0 +1,32 @@
+ac: 12
+ac-type: 
+actions: Multiattack. The griffon makes two attacks: one with its beak and one with its claws.<br>Beak. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.<br>Hit:8 (1d8 + 4) piercing damage.<br>Claws. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. <br>Hit:11 (2d6 + 4) slashing damage.<br>
+additional-settings: Keen Sight.The griffon has advantage on Wisdom (Perception) checks that rely on sight.
+alignment: unaligned
+cha: 8
+con: 16
+conditional-immunities: 
+cr: 2
+created: 20150516222854212
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 15
+hp: 59
+hp-formula: 7d10+21
+int: 2
+languages: 
+legendary-actions: 
+monster-type: Large monstrosity
+name: Griffon
+saving-throws: 
+senses: darkvision 60 ft., passive Perception 15
+skills: Perception +5
+speed: 30 ft., fly 80 ft.
+str: 18
+tags: Monster Griffon
+title: Griffon
+type: text/vnd.tiddlywiki
+wis: 13
+xp: 450
+

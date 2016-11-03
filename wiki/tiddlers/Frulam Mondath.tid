@@ -1,0 +1,32 @@
+ac: 16
+ac-type: chain mail
+actions: Multiattack. Frulam attacks twice with her halberd.<br>Halberd. Melee Weapon Attack:+5 to hit, reach 10 ft., one target.<br>Hit: 7 (1d10 + 2) bludgeoning damage.
+additional-settings: Spellcasting. Frulam is a 5th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Frulam has the following spells prepared from the cleric spell list:<br>Cantrips (at will): light, sacred fla me, thaumaturgy<br>1st level (4 slots): command, cure wounds, healing word, sanctuary<br>2nd level (3 slots): calm emotions, hold person, spiritual weapon<br>3rd level (2 slots): mass healing word, spirit guardians.
+alignment: lawful evil
+cha: 15
+con: 13
+conditional-immunities: 
+cr: 2
+created: 20150516222854423
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 10
+hp: 44
+hp-formula: 8d8+8
+int: 11
+languages: Common, Draconic, Infernal
+legendary-actions: 
+monster-type: medium Humanoid
+name: Frulam Mondath
+saving-throws: Wis +6, Cha +4
+senses: passive Perception 14
+skills: Deception +4, History +2, Religion +2
+speed: 30 ft.
+str: 14
+tags: Monster [[Frulam Mondath]]
+title: Frulam Mondath
+type: text/vnd.tiddlywiki
+wis: 18
+xp: 450
+

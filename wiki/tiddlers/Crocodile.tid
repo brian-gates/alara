@@ -1,0 +1,32 @@
+ac: 12
+ac-type: natural armor
+actions: Bite. Melee Weapon Attack:+4 to hit, reach 5 ft., one creature. <br>Hit:7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can’t bite another target.<br>
+additional-settings: Hold Breath. The crocodile can hold its breath for 15 minutes.
+alignment: unaligned
+cha: 5
+con: 13
+conditional-immunities: 
+cr: 0.5
+created: 20150516222854656
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 10
+hp: 19
+hp-formula: 3d10+3
+int: 2
+languages: 
+legendary-actions: 
+monster-type: Large beast
+name: Crocodile
+saving-throws: 
+senses: passive Perception 10
+skills: Stealth +2
+speed: 20 ft., swim 30 ft.
+str: 15
+tags: Monster Crocodile
+title: Crocodile
+type: text/vnd.tiddlywiki
+wis: 10
+xp: 100
+

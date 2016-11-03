@@ -1,0 +1,14 @@
+cast-time: 1 bonus action
+class: Wizard
+components: V, S
+created: 20150517055513753
+description: This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.
+duration: Concentration, up to 10 minutes
+level: 1
+name: Expeditious Retreat
+range: Self
+school: Transmutation
+tags: Spell 1 [[Expeditious Retreat]] Transmutation [[1 bonus action]] Self Wizard
+title: Wizard - Expeditious Retreat
+type: text/vnd.tiddlywiki
+

@@ -1,0 +1,32 @@
+ac: 12
+ac-type: 15 with Mage Armor
+actions: Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target.<br>Hit:4 (1d4 + 2) piercing damage.
+additional-settings: Spellcasting.The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:<br>Cantrips (at will): fire bolt, light, mage hand, prestidigitation<br>1st level (4 slots): detect magic, mage armor, magic missile, shield<br>2nd level (3 slots): misty step, suggestion<br>3rd level (3 slots): counterspell, fireball, fly<br>4th level (3 slots): greater invisibility, ice storm<br>5th level (1 slot): cone of cold
+alignment: any alignment
+cha: 11
+con: 11
+conditional-immunities: 
+cr: 6
+created: 20150516222856335
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 14
+hp: 40
+hp-formula: 9d8
+int: 17
+languages: any four languages
+legendary-actions: 
+monster-type: Medium humanoid (any race)
+name: Mage
+saving-throws: Int +6, Wis +4
+senses: passive Perception 11
+skills: Arcana +6, History +6
+speed: 30
+str: 9
+tags: Monster Mage
+title: Mage
+type: text/vnd.tiddlywiki
+wis: 12
+xp: 2300
+

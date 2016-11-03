@@ -1,0 +1,33 @@
+ac: 13
+ac-type: hide armor
+actions: Greataxe. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. <br>Hit:9 (1d12 + 3) slashing damage.<br>Javelin. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. <br>Hit:6 (1d6 + 3) piercing damage.
+additional-settings: Aggressive.As a bonus action, the orc can move up to its speed <br>toward a hostile creature that it can see.
+alignment: chaotic evil
+cha: 10
+con: 16
+conditional-immunities: 
+cr: 0.5
+created: 20150516222856252
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 12
+hp: 15
+hp-formula: 2d8+6
+int: 7
+languages: Common, Orc
+legendary-actions: 
+modified: 20150517045651989
+monster-type: Medium humanoid (orc)
+name: Orc
+saving-throws: 
+senses: darkvision 60 ft., passive Perception 10
+skills: Intimidation +2
+speed: 30 ft.
+str: 16
+tags: Monster Orc
+title: Orc
+type: text/vnd.tiddlywiki
+wis: 11
+xp: 100
+

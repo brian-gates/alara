@@ -1,0 +1,15 @@
+cast-time: 1 action
+class: Cleric
+components: V, S, M
+created: 20150517055452243
+description: (a tiny strip of white cloth) Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target’s hit point maximum and current hit points increase by 5 for the duration. At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.
+duration: 8 hours
+level: 2
+modified: 20150924164024650
+name: Aid
+range: 30 feet
+school: Abjuration
+tags: Spell 2 Aid Abjuration [[1 action]] [[30 feet]] Cleric [[Aoth's Favorite Spells]] [[Aoth's Prepared Spells]]
+title: Cleric - Aid
+type: text/vnd.tiddlywiki
+

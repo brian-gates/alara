@@ -1,0 +1,78 @@
+created: 20160620230429901
+modified: 20160624195957679
+tags: $:/tags/Macro
+title: abilities macro
+type: text/vnd.tiddlywiki
+
+\define abilities()
+
+<style>
+  .abilities-macro .abilities {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-between;
+    align-items: stretch;
+    margin: -.5em;
+  }
+  
+  .abilities-macro .ability {
+    border: 1px solid black;
+    border-radius: .5em;
+    display: flex;
+    flex-direction: column;
+    height: 7em;
+    margin: .5em;
+    flex: 1 1 6em;
+  }
+  
+  .abilities-macro .ability label {
+    background: black;
+    color: white;
+  }
+  
+  .abilities-macro .ability label,
+  .abilities-macro .ability .mod,
+  .abilities-macro .ability .score {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .abilities-macro .ability .mod {
+    flex: 1 1 auto;
+    font-size: 2em;
+  }
+  
+  .abilities-macro .ability .score {
+    background: rgba(0,0,0, .1);
+  }
+</style>
+
+<div class="abilities-macro">
+  <$set name='character' value=<<currentTiddler>>>
+    <div class="abilities">
+      <$list filter=[list[Abilities]]>
+        <div class="ability">
+          <label>
+            {{!!title}}
+            </label>
+          <div class="mod">
+            <$macrocall $name="charactermod" tiddler=<<character>> field={{!!variable-name}} />
+          </div>
+          <div class="score">
+            <$view tiddler=<<character>> field={{!!variable-name}}/>
+          </div>
+        </div>
+      </$list>
+    </div>
+  </$set>
+</div>
+\end
+
+<$list filter=Yusgef>
+
+!! Example
+
+<<abilities>>
+</$list>

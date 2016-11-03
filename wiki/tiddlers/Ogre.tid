@@ -1,0 +1,32 @@
+ac: 11
+ac-type: hide armor
+actions: Greatclub. Melee Weapon Attack:+6 to hit, reach 5 ft., one target. <br>Hit:13 (2d8 + 4) bludgeoning damage.<br>Javelin. Melee or Ranged Weapon Attack:+6 to hit, reach 5 ft. or range 30/120 ft., one target.<br>Hit:11 (2d6 + 4) piercing damage.<br>
+additional-settings: 
+alignment: chaotic evil
+cha: 7
+con: 16
+conditional-immunities: 
+cr: 2
+created: 20150516222856279
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 8
+hp: 59
+hp-formula: 7d10+21
+int: 5
+languages: Common, Giant
+legendary-actions: 
+monster-type: Large giant
+name: Ogre
+saving-throws: 
+senses: darkvision 60 ft., passive Perception 8
+skills: 
+speed: 40 ft.
+str: 19
+tags: Monster Ogre
+title: Ogre
+type: text/vnd.tiddlywiki
+wis: 7
+xp: 450
+

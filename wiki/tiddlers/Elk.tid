@@ -1,0 +1,32 @@
+ac: 10
+ac-type: 
+actions: Ram. Melee Weapon Attack:+5 to hit, reach 5 ft., one target.<br>Hit: 6 (1d6 + 3) bludgeoning damage.<br>Hooves. Melee Weapon Attack:+5 to hit, reach 5 ft., one prone creature. <br>Hit:8 (2d4 + 3) bludgeoning damage.<br>
+additional-settings: Charge.If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+alignment: unaligned
+cha: 6
+con: 12
+conditional-immunities: 
+cr: 0.25
+created: 20150516222854480
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 10
+hp: 13
+hp-formula: 2d10+2
+int: 2
+languages: 
+legendary-actions: 
+monster-type: Large beast
+name: Elk
+saving-throws: 
+senses: passive Perception 10
+skills: 
+speed: 50 ft.
+str: 16
+tags: Monster Elk
+title: Elk
+type: text/vnd.tiddlywiki
+wis: 10
+xp: 50
+

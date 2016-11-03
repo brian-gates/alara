@@ -1,0 +1,32 @@
+ac: 15
+ac-type: studded leather, Shield
+actions: Multiattack. Pharblex attacks twice, once with  his  bite and once with  his  spear.<br>Bite.  Melee  Weapon Attack:+5 to hit,  reach  5 ft.,  one target.<br>Hit:  4 ( 1d4 +  2)  piercing damage.<br>Spear.  Melee or Ranged Weapon  Attack:+5 to hit,  reach  5 ft. or ranged  20 ft./60 ft.,  one target.  <br>Hit: 5  ( 1d6 + 2)  piercing damage.
+additional-settings: Amphibious. Pharblex can  breathe air and water.<br>Poison Strike (3/Day).Once  per turn, when  Pharblex hits with  a melee attack,  he can  expend  a  use of this trait to deal  an  extra 9 (2d8)  poison  damage.<br>Spellcasting. Pharblex is a 6th-level  spellcaster that uses Wisdom  as  his  spellcasting ability  (spell  save  DC  13, +5 to  hit with  spell  attacks).  Pharblex has the following spells  prepared from the druid  spell  list:<br>Cantrips  (at will): druidcraft,  guidance, poison cloud<br>1st level  (4 slots):  cure  wounds,  entangle,  healing word, thunderwave<br>2nd  level  (3  slots):  barkskin,  beast sense,  spike growth<br>3rd  level  (3  slots): plant growth,  water walk <br>Standing Leap.As  part of his  movement and without a running start,  Pharblex can  long jump  up to 20 feet and high jump  up to  10 feet.<br>Swamp Camouflage. Pharblex has advantage on Dexterity  (Stealth)  checks  made to  hide  in  swampy terrain.
+alignment: chaotic evil
+cha: 7
+con: 18
+conditional-immunities: 
+cr: 3
+created: 20150516222856153
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 12
+hp: 59
+hp-formula: 7d8+28
+int: 11
+languages: Common,  Bullywug
+legendary-actions: 
+monster-type: Medium  humanoid  (bullywug)
+name: Pharblex Spattergoo
+saving-throws: Str +4,  Con +6
+senses: passive  Perception  15
+skills: Perception +5,  Religion +2, Stealth +3
+speed: 20ft., swim 40ft.
+str: 15
+tags: Monster [[Pharblex Spattergoo]]
+title: Pharblex Spattergoo
+type: text/vnd.tiddlywiki
+wis: 16
+xp: 700
+

@@ -1,0 +1,32 @@
+ac: 10
+ac-type: 
+actions: Club. Melee Weapon Attack:+2 to hit, reach 5 ft., one target. <br>Hit: 2 (1d4) bludgeoning damage.
+additional-settings: 
+alignment: any alignment
+cha: 10
+con: 10
+conditional-immunities: 
+cr: 0
+created: 20150516222854682
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 10
+hp: 4
+hp-formula: 1d8
+int: 10
+languages: any one Language (usually Common)
+legendary-actions: 
+monster-type: Medium humanoid (any race)
+name: Commoner
+saving-throws: 
+senses: passive Perception 10
+skills: 
+speed: 30 ft.
+str: 10
+tags: Monster Commoner
+title: Commoner
+type: text/vnd.tiddlywiki
+wis: 10
+xp: 10
+

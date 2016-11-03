@@ -1,0 +1,33 @@
+ac: 13
+ac-type: 
+actions: Bite. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. <br>Hit: 2 (1d4) piercing damage.
+additional-settings: 
+alignment: unaligned
+cha: 5
+con: 11
+conditional-immunities: 
+cr: 0
+created: 20150516222854599
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 16
+hp: 4
+hp-formula: 1d8
+int: 2
+languages: 
+legendary-actions: 
+modified: 20161019210221888
+monster-type: Medium beast
+name: Deer
+saving-throws: 
+senses: passive Perception 12
+skills: 
+speed: 50 ft.
+str: 11
+tags: Monster Deer
+title: Deer
+type: text/vnd.tiddlywiki
+wis: 14
+xp: 10
+

@@ -1,0 +1,14 @@
+cast-time: 1 bonus action
+class: Cleric
+components: V, S
+created: 20150517055457097
+description: Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal and extra 1d4 radiant damage on a hit.
+duration: Concentration, up to 1 minute
+level: 1
+name: Divine Favor
+range: Self
+school: Evocation
+tags: Spell 1 [[Divine Favor]] Evocation [[1 bonus action]] Self [[Cleric (War)]]
+title: Cleric (War) - Divine Favor
+type: text/vnd.tiddlywiki
+

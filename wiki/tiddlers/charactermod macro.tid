@@ -1,0 +1,9 @@
+created: 20160624190752420
+modified: 20160624192847515
+tags: $:/tags/Macro
+title: charactermod macro
+type: text/vnd.tiddlywiki
+
+\define charactermod(tiddler,field)
+<$macrocall $name="abilitymod" abilityScore={{$tiddler$!!$field$}}/>
+\end

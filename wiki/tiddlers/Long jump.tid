@@ -1,0 +1,12 @@
+bullets: <ul><li>You cover a number of feet up to your <b>Strength score</b> if you move at least 10 feet on foot immediately before the jump.</li><li>When you make a standing long jump, you can leap only half that distance</li><li>May involve a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump's distance). You hit the obstacle on a failed check.</li><li>May involve a DC 10 Dexterity (Acrobatics) check to land on your feet in difficult terrain. You land prone on a failed check.</li></ul>
+caption: Limited by movement speed
+category: Movement
+created: 20150531182911585
+description: Movement cost: 5ft per 5ft jumped
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/wingfoot.svg
+reference: PHB, pg. 182.
+subtitle: Cost: 5ft per 5ft
+tags: [[Long jump]] Movement Reference
+title: Long jump
+type: text/vnd.tiddlywiki
+

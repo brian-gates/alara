@@ -1,0 +1,32 @@
+ac: 12
+ac-type: leather armor
+actions: Scimitar. Melee Weapon Attack:+3 to hit, reach 5 ft., one target. <br>Hit:4 (1d6 + 1) slashing damage.<br>Light Crossbow. Ranged Weapon Attack:+3 to hit, range 80 ft./320 ft., one target.<br>Hit: 5 (1d8 + 1) piercing damage.<br>
+additional-settings: 
+alignment: any non-lawful alignment
+cha: 10
+con: 12
+conditional-immunities: 
+cr: 0.125
+created: 20150516222854832
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 12
+hp: 11
+hp-formula: 2d8+2
+int: 10
+languages: any one language (usually Common)
+legendary-actions: 
+monster-type: Medium humanoid (any race)
+name: Bandit
+saving-throws: 
+senses: passive Perception 10
+skills: 
+speed: 30 ft.
+str: 11
+tags: Monster Bandit
+title: Bandit
+type: text/vnd.tiddlywiki
+wis: 10
+xp: 25
+

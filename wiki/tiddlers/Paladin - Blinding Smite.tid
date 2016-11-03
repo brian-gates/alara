@@ -1,0 +1,14 @@
+cast-time: 1 bonus action
+class: Paladin
+components: V
+created: 20150517055505404
+description: The next time you hit a creature with a melee weapon attack during this spell's duration, you weapon flares with a bright light, and the attack deals an extra 3d8 radiant damage to the target. Additionally, the target must succeed on a Constitution saving throw or be blinded until the spell ends. A creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.
+duration: Concentration, up to 1 minute
+level: 3
+name: Blinding Smite
+range: Self
+school: Evocation
+tags: Spell 3 [[Blinding Smite]] Evocation [[1 bonus action]] Self Paladin
+title: Paladin - Blinding Smite
+type: text/vnd.tiddlywiki
+

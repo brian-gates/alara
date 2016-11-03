@@ -1,0 +1,32 @@
+ac: 17
+ac-type: splint
+actions: Multiattack. The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.<br>Longsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.<br>Hit:7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.<br>Shortsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. <br>Hit:6 (1d6 + 3) piercing damage.<br>Heavy Crossbow. Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target.<br>Hit:5 (1d10) piercing damage.
+additional-settings: 
+alignment: any alignment
+cha: 10
+con: 14
+conditional-immunities: 
+cr: 3
+created: 20150516222855270
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 13
+hp: 58
+hp-formula: 9d8+18
+int: 10
+languages: any one language (usually Common)
+legendary-actions: 
+monster-type: Medium humanoid (any race)
+name: Veteran
+saving-throws: 
+senses: passive Perception 12
+skills: Athletics +5, Perception +2
+speed: 30 ft.
+str: 16
+tags: Monster Veteran
+title: Veteran
+type: text/vnd.tiddlywiki
+wis: 11
+xp: 700
+

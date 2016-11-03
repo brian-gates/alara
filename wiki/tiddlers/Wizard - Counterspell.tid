@@ -1,0 +1,14 @@
+cast-time: 1 reaction
+class: Wizard
+components: S
+created: 20150517055515737
+description: Reaction: When you see a creature within 60 feet of you casting a spell You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability.  The DC equals 10+ the spell's level. On a success, the creature's spell fails and has no effect. At Higher Level. When you cast this spell using a spell slot of 4th leve lor higher, the interrupted spell has no effect if its level is less than or equal to the leve lof the spell slot you used.
+duration: Instantaneous
+level: 3
+name: Counterspell
+range: 60 feet
+school: Abjuration
+tags: Spell 3 Counterspell Abjuration [[1 reaction]] [[60 feet]] Wizard
+title: Wizard - Counterspell
+type: text/vnd.tiddlywiki
+

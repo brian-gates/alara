@@ -1,0 +1,60 @@
+created: 20160625191121024
+modified: 20160626153950602
+tags: $:/tags/Macro
+title: PCView macro
+type: text/vnd.tiddlywiki
+
+\define pcview()
+<style>
+.character-overview .other-stats {
+  display: flex;
+  flex-direction: row;
+  font-size: .7em;
+}
+.character-overview table {
+  width: 100%;
+}
+
+.character-overview th {
+ width: 1px;
+}
+
+.character-overview td ,
+.character-overview th {
+  padding: 10px;
+}
+</style>
+
+<div class="character-overview">
+
+<$list filter="[tag[ProfileImage]tag<currentTiddler>]">
+<figure><$transclude/></figure>
+</$list>
+
+{{!!ethic}} {{!!moral}} {{!!race}} {{!!class}} {{!!background}}
+
+| !Description|{{!!description}} |
+| !Worships|{{!!worships}} |
+| !Bond|{{!!bond}} |
+| !Flaw|{{!!flaw}} |
+| !Ideal|{{!!ideal}} |
+| !Traits|{{!!traits}} |
+| !Passive Perception|{{!!passive_perception}} |
+
+!! Abilities
+
+<<abilities-and-skills>>
+<div class="other-stats">
+  <<armor-class>>
+  <<hitpoints>>
+  <<skilltemplate "Initiative">>
+  <<fieldtemplate "speed" "Speed">>
+</div>
+
+
+</div>
+\end
+! Example
+<$list filter=Yusgef>
+  <<pcview>>
+</$list>

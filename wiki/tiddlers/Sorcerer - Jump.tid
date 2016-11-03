@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Sorcerer
+components: V, S, M
+created: 20150531024543455
+description: (a grasshopper's hind leg) You touch a creature. The creature's jump distance is tripled until the spell ends.
+duration: 1 minute
+level: 1
+name: Jump
+range: Touch
+school: Transmutation
+tags: Spell 1 Jump Transmutation [[1 action]] Touch Sorcerer
+title: Sorcerer - Jump
+type: text/vnd.tiddlywiki
+

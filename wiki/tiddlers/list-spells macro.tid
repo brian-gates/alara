@@ -1,0 +1,36 @@
+created: 20150517155452477
+modified: 20150530061838980
+tags: $:/tags/Macro
+title: list-spells macro
+type: text/vnd.tiddlywiki
+
+\define list-spells(filter,class:"")
+<table class="$class$">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Cast time</th>
+      <th>Class</th>
+      <th>Components</th>
+      <th>Duration</th>
+      <th>Level</th>
+      <th>Range</th>
+      <th>School</th>
+    </tr>
+  </thead>
+  <tbody>
+    <$list filter="$filter$">
+      <tr>
+        <td><$link to={{!!title}}>{{!!name}}</$link></td>
+        <td>{{!!cast-time}}</td>
+        <td>{{!!class}}</td>
+        <td>{{!!components}}</td>
+        <td>{{!!duration}}</td>
+        <td>{{!!level}}</td>
+        <td>{{!!range}}</td>
+        <td>{{!!school}}</td>
+      </tr>
+    </$list>
+  </tbody>
+</table>
+\end

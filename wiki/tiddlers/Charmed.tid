@@ -1,0 +1,11 @@
+bullets: <ul><li>You can't attack your charmer or target them with harmful abilities or magical effects.</li><li>Your charmer has advantage on ability checks to interact socially with you.</li></ul>
+category: Condition
+created: 20150531182910822
+description: You are charmed by another creature
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/smitten.svg
+reference: PHB, pg. 290.
+subtitle: You are charmed
+tags: Charmed Condition Reference
+title: Charmed
+type: text/vnd.tiddlywiki
+

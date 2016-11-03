@@ -1,0 +1,15 @@
+cast-time: 10 minutes
+class: Cleric
+components: V, S, M
+created: 20150517055452729
+description: (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for scrying) You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The sensor remains in place for the duration, and it can't be attacked or otherwise interacted with. When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As your action, you can switch between seeing and hearing. A creature that can see the sensor (such as a creature benefitting from see invisibility or truesight) sees a luminous, intangible orb about the size of your fist.
+duration: Concentration, up to 10 minutes
+level: 3
+modified: 20160107065201257
+name: Clairvoyance
+range: 1 mile
+school: Divination
+tags: Spell 3 Clairvoyance Divination [[10 minutes]] [[1 mile]] Cleric [[Aoth's Favorite Spells]] [[Aoth's Prepared Spells]]
+title: Cleric - Clairvoyance
+type: text/vnd.tiddlywiki
+

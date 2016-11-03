@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Paladin
+components: V
+created: 20150517055505909
+description: Life-preserving energy radiates from you in an aura with a 30-foot radius. Until the spll ends, the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) has resistance to necrotic damage, and its hit point maximum can't be reduced. In addition, a nonhostile, living creature regains 1 hit point when it starts its turn in the arua with 0 hit points.
+duration: Concentration, up to 10 minutes
+level: 4
+name: Aura of Life
+range: Self (30-foot radius)
+school: Abjuration
+tags: Spell 4 [[Aura of Life]] Abjuration [[1 action]] [[Self (30-foot radius)]] Paladin
+title: Paladin - Aura of Life
+type: text/vnd.tiddlywiki
+

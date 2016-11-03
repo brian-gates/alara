@@ -1,0 +1,31 @@
+created: 20160226201639598
+modified: 20160226202029979
+tags: Class
+title: Fighter
+type: text/vnd.tiddlywiki
+
+!!! Hit Points
+
+Hit Dice: 1d10 per fighter level
+<br>Hit Points at 1st Level: 10 + your Constitution modifier Hit Points at Higher Levels: 1d10 (or 6) + your
+<br>Constitution modifier per fighter level after 1st
+
+!!! Proficiencies
+
+Armor: All armor, shields
+<br>Weapons: Simple weapons, martial weapons 
+<br>Tools: None
+<br>Saving Throws: Strength, Constitution
+<br>Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
+
+!!! Equipment
+
+You start with the following equipment, in addition to the equipment granted by your background:
+
+* (a) chain mail or (b) leather, longbow, and 20 arrows 
+* (a) a martial weapon and a shield or (b) two martial weapons
+* (a) a light crossbow and 20 bolts or (b) two handaxes 
+* (a) a dungeoneer’s pack or (b) an explorer’s pack
+
+!! Related
+<<list-links filter:"[tag[Fighter]]">>

@@ -1,0 +1,32 @@
+ac: 17
+ac-type: natural armor
+actions: Multiattack.The golem makes two slam attacks.<br>Slam. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. <br>Hit:19 (3d8 + 6) bludgeoning damage.<br>Slow (Recharge 5–6).The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.<br>
+additional-settings: Immutable Form.The golem is immune to any spell or effect that would alter its form.<br>Magic Resistance.The golem has advantage on saving throws against spells and other magical effects.<br>Magic Weapons.The golem’s weapon attacks are magical.
+alignment: unaligned
+cha: 1
+con: 20
+conditional-immunities: charmed, exhaustion, frightened,  paralyzed, petrified, poisoned
+cr: 10
+created: 20150516222855777
+damage-immunities: poison, psychic, bludgeoning, piercing,  and slashing from nonmagical weapons that aren’t  adamantine
+damage-resistances: 
+description: 
+dex: 9
+hp: 178
+hp-formula: 17d10+85
+int: 3
+languages: understands the languages of its creator but can’t  speak
+legendary-actions: 
+monster-type: Large construct
+name: Stone Golem
+saving-throws: 
+senses: darkvision 120 ft., passive Perception 10
+skills: 
+speed: 30 ft.
+str: 22
+tags: Monster [[Stone Golem]]
+title: Stone Golem
+type: text/vnd.tiddlywiki
+wis: 11
+xp: 5900
+

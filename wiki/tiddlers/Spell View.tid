@@ -1,0 +1,39 @@
+created: 20150514052529013
+modified: 20150516210959907
+tags: $:/tags/ViewTemplate
+title: Spell View
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[Spell]]">
+  <style>
+  .spell label {
+      font-weight: bold;
+  }
+  .spell .level-and-school {
+      font-style: italic;
+  }
+  </style>
+  <div class="spell">
+    <div class="level-and-school">
+      {{!!level-and-school}}
+    </div>
+    <div class="class">
+      <label>Class</label> {{!!class}}
+    </div>
+    <div class="casting-time">
+      <label>Cast Time</label> {{!!cast-time}}
+    </div>
+    <div class="range">
+      <label>Range</label> {{!!range}}
+    </div>
+    <div class="components">
+      <label>Components</label> {{!!components}}
+    </div>
+    <div class="duration">
+      <label>Duration</label> {{!!duration}}
+    </div>
+    <div class="description">
+        {{!!description}}
+    </div>
+  </div>
+</$list>

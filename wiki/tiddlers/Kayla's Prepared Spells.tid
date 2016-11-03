@@ -1,0 +1,61 @@
+(forest): 
+-: 
+ability: unprepared
+animal: 
+barkskin: prepared
+climb: prepared
+created: 20150515162652953
+cure: 
+druid: 
+enhance: 
+entangle: prepared
+faerie: 
+favorites: 
+fire: prepared
+flaming: 
+friendship: prepared
+growth: prepared
+healing: 
+hold: 
+modified: 20150531045404584
+person: prepared
+sphere: unprepared
+spider: 
+spike: 
+tags: Kayla
+title: Kayla's Prepared Spells
+type: text/vnd.tiddlywiki
+word: prepared
+wounds: prepared
+
+<$list filter="0 1 2" variable="level">
+  Level <<level>>
+  <table class="$class$">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Cast time</th>
+        <th>Class</th>
+        <th>Components</th>
+        <th>Duration</th>
+        <th>Level</th>
+        <th>Range</th>
+        <th>School</th>
+      </tr>
+    </thead>
+    <tbody>
+      <$list filter="[tag[Kayla's Prepared Spells]level<level>]" variable="spell">
+        <tr>
+          <td><$link to=<<spell>>><$view tiddler=<<spell>> field=name/></$link></td>
+          <td><$view tiddler=<<spell>> field=cast-time/></td>
+          <td><$view tiddler=<<spell>> field=class/></td>
+          <td><$view tiddler=<<spell>> field=components/></td>
+          <td><$view tiddler=<<spell>> field=duration/></td>
+          <td><$view tiddler=<<spell>> field=level/></td>
+          <td><$view tiddler=<<spell>> field=range/></td>
+          <td><$view tiddler=<<spell>> field=school/></td>
+        </tr>
+      </$list>
+    </tbody>
+  </table>
+</$list>

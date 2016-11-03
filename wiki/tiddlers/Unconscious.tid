@@ -1,0 +1,11 @@
+bullets: <ul><li>You are incapacitated, can't move or speak, and are unaware of your surroundings.</li><li>You drop whatever you're holding and fall prone.</li><li>Attack rolls against you have advantage.</li><li>Any attack that hits you is a critical hit if the attacker is within 5 feet of you.</li><li>You automatically fail Strength and Dexterity saving throws.</li></ul>
+category: Condition
+created: 20150531182912188
+description: You are unconscious
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/coma.svg
+reference: PHB, pg. 292.
+subtitle: You are unconscious
+tags: Unconscious Condition Reference
+title: Unconscious
+type: text/vnd.tiddlywiki
+

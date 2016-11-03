@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Sorcerer
+components: V, S
+created: 20150531024543403
+description: You create three glowing dars of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. THe darts all strike simultaneously and you can direct them to hit one creature or several.   At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot above 1st.
+duration: Instantaneous
+level: 1
+name: Magic Missile
+range: 120 feet
+school: Evocation
+tags: Spell 1 [[Magic Missile]] Evocation [[1 action]] [[120 feet]] Sorcerer
+title: Sorcerer - Magic Missile
+type: text/vnd.tiddlywiki
+

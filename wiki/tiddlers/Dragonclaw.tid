@@ -1,0 +1,32 @@
+ac: 14
+ac-type: leather armor
+actions: Multiattack. The dragonclaw attacks twice with its scimitar.<br>Scimitar. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. <br>Hit:6 ( 1d6 + 3) slashing damage.
+additional-settings: Dragon Fanatic.The dragonclaw has advantage on saving throws against being charmed or frightened. While the <br>dragonclaw can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonclaw ignores the effects of being charmed or frightened.<br>Fanatical Advantage. Once per turn, if the dragonclaw makes a weapon attack with advantage on the attack roll and hits, it deals an extra 7 (2d6) damage.<br>Pack Tactics.The dragonclaw has advantage on an attack roll against a creature if at least one of the Dragonclaw’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+alignment: neutral evil
+cha: 12
+con: 13
+conditional-immunities: 
+cr: 1
+created: 20150516222854535
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 16
+hp: 16
+hp-formula: 3d8+3
+int: 11
+languages: Common, Draconic
+legendary-actions: 
+monster-type: medium Humanois
+name: Dragonclaw
+saving-throws: Wis +2
+senses: passive Perception 10
+skills: Deception +5, Stealth +5
+speed: 30 ft.
+str: 9
+tags: Monster Dragonclaw
+title: Dragonclaw
+type: text/vnd.tiddlywiki
+wis: 10
+xp: 200
+

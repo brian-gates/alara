@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Sorcerer (TOEE)
+components: V
+created: 20150531024544697
+description: A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell’s duration. The wind has the following effects: <br> - It deafens you and other creatures in its area. <br> - It extinguishes unprotected flames in its area that are torch-sized or smaller. <br> - The area is difficult terrain for creatures other than you. <br> - The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind. <br> - It hedges out vapor, gas, and fog that can be dispersed by strong wind.
+duration: Concentration, up to 10 minutes
+level: 2
+name: Warding Wind
+range: Self
+school: Evocation
+tags: Spell 2 [[Warding Wind]] Evocation [[1 action]] Self [[Sorcerer (TOEE)]]
+title: Sorcerer (TOEE) - Warding Wind
+type: text/vnd.tiddlywiki
+

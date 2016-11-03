@@ -1,0 +1,14 @@
+cast-time: 1 bonus action
+class: Sorcerer
+components: V
+created: 20150531024544249
+description: Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
+duration: Instantaneous
+level: 2
+name: Misty Step
+range: Self
+school: Conjuration
+tags: Spell 2 [[Misty Step]] Conjuration [[1 bonus action]] Self Sorcerer
+title: Sorcerer - Misty Step
+type: text/vnd.tiddlywiki
+

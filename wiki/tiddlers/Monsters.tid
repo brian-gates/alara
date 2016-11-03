@@ -1,0 +1,37 @@
+created: 20150516220057620
+modified: 20161019212007640
+sort_by: type
+tags: [[Table of Contents]]
+title: Monsters
+type: text/vnd.tiddlywiki
+
+<div class='input'>
+  <label>Sort by</label>
+  <$select field='sort_by' default='name'>
+    <option value=name>Name</option>
+    <option value=type>Type</option>
+    <option value=cr>CR</option>
+    <option value=xp>XP</option>
+  </$select>
+</div>
+
+<table>
+  <thead>
+  <tr>
+  <th>Name</th>
+  <th>Type</th>
+  <th>CR</th>
+  <th>XP</th>
+  </tr>
+  </thead>
+  <tbody>
+  <$list filter='[tag[Monster]]+[sort{!!sort_by}]'>
+  <tr>
+    <td><$link to={{!!title}}>{{!!title}}</$link></td>
+    <td>{{!!monster-type}}</td>
+    <td>{{!!cr}}</td>
+    <td>{{!!xp}}</td>
+  </tr>
+  </$list>
+  </tbody>
+</table>

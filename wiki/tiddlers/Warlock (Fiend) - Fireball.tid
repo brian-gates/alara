@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Warlock
+components: V, S, M
+created: 20150517055511214
+description: (a tiny ball of bat guana and sulfur) A bright streak flashes from your pointing finger to a point you choose within range then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot radius must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried. At Higher Levels. When you cast this spell using a spell slot of 4th level of higher, the damage increases by 1d6 for each slot level above 3rd.
+duration: Instantaneous
+level: 3
+name: Fireball
+range: 150 feet
+school: Evocation
+tags: Spell 3 Fireball Evocation [[1 action]] [[150 feet]] [[Warlock (Fiend)]]
+title: Warlock (Fiend) - Fireball
+type: text/vnd.tiddlywiki
+

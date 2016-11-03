@@ -1,0 +1,12 @@
+bullets: <ul><li>Trigger: specified by the spell.</li><li>For further details, see the <i>Cast a spell</i> action.</li></ul>
+caption: max 1/round
+category: Reaction
+created: 20150531181305170
+description: Cast a spell with a casting time of 1 reaction
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/magic-swirl.svg
+reference: PHB, pg. 192.
+subtitle: Cast time of 1 reaction
+tags: [[Cast a spell]] Reaction Reference
+title: Cast a spell
+type: text/vnd.tiddlywiki
+

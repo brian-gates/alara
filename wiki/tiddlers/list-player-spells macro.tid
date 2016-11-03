@@ -1,0 +1,40 @@
+created: 20150530061744984
+modified: 20150530075831631
+tags: $:/tags/Macro
+title: list-player-spells macro
+type: text/vnd.tiddlywiki
+
+\define list-player-spells(filter,class:"")
+<table class="$class$">
+  <thead>
+    <tr>
+      <th>Prepared</th>
+      <th>Name</th>
+      <th>Cast time</th>
+      <th>Class</th>
+      <th>Components</th>
+      <th>Duration</th>
+      <th>Level</th>
+      <th>Range</th>
+      <th>School</th>
+    </tr>
+  </thead>
+  <tbody>
+    <$list filter="$filter$" variable="spell">
+      <tr>
+        <td>
+          <$checkbox tiddler=<<spell>> tag={{!!title}}></$checkbox>        
+        </td>
+        <td><$link to=<<spell>>><$view tiddler=<<spell>> field=name/></$link></td>
+        <td><$view tiddler=<<spell>> field=cast-time/></td>
+        <td><$view tiddler=<<spell>> field=class/></td>
+        <td><$view tiddler=<<spell>> field=components/></td>
+        <td><$view tiddler=<<spell>> field=duration/></td>
+        <td><$view tiddler=<<spell>> field=level/></td>
+        <td><$view tiddler=<<spell>> field=range/></td>
+        <td><$view tiddler=<<spell>> field=school/></td>
+      </tr>
+    </$list>
+  </tbody>
+</table>
+\end

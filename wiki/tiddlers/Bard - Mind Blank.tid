@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Bard
+components: V, S
+created: 20150517055450182
+description: Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination spells, and the charmed condition. The spell even foils wish spells and spells or effects of similar power used to affect the target's mind or to gain information about the target.
+duration: 24 hours
+level: 8
+name: Mind Blank
+range: Touch
+school: Abjuration
+tags: Spell 8 [[Mind Blank]] Abjuration [[1 action]] Touch Bard
+title: Bard - Mind Blank
+type: text/vnd.tiddlywiki
+

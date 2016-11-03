@@ -1,0 +1,30 @@
+created: 20150903204056250
+modified: 20150903204513668
+tags: Cleric [[Class Features]]
+title: Cleric Class Features
+type: text/vnd.tiddlywiki
+
+!! Hit Points
+
+''Hit Dice'': 1d8 per cleric level
+<br>''Hit Points at 1st Level'': 8 + your Constitution modifier 
+<br>''Hit Points at Higher Levels'': 1d8 (or 5) + your
+Constitution modifier per cleric level after 1st
+
+!! Proficiencies
+
+''Armor'': Light armor, medium armor, shields 
+<br>''Weapons'': All simple weapons
+<br>''Tools'': None
+<br>''Saving Throws'': Wisdom, Charisma
+<br>''Skills'': Choose two from History, Insight, Medicine, Persuasion, and Religion
+
+!! Equipment
+
+You start with the following equipment, in addition to the equipment granted by your background:
+
+ * (a) a mace or (b) a warhammer (if proficient)
+ * (a) scale mail, (b) leather armor, or (c) chain mail (if proficient)
+ * (a) a light crossbow and 20 bolts or (b) any simple weapon
+ * (a) a priest’s pack or (b) an explorer’s pack 
+ * A shield and a holy symbol

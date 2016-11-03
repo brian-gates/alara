@@ -1,0 +1,57 @@
+created: 20160625195251414
+modified: 20160626154135106
+tags: $:/tags/Macro
+title: hitpoints macro
+type: text/vnd.tiddlywiki
+
+\define hitpoints()
+<style>
+  .hitpoints-macro .hp {
+    width: 3em;
+    height: 2em;
+    font-size: 5em;
+    text-align: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: .5em;
+    padding-bottom: .1em;
+  }
+  .hitpoints-macro .hp max,
+  .hitpoints-macro .hp current {
+    flex: 1 1 auto;
+    display: flex;
+    align-items: center;
+  }
+
+  .hitpoints-macro .hp max {
+    font-size: .5em;
+    color: rgba(0,0,0, .5)
+  }
+
+  .hitpoints-macro .hp .icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+</style>
+<div class="hitpoints-macro">
+  <div class='hp'>
+    <current>{{!!hp}}</current>
+    <max>{{!!max-hp}}</max>
+    <div class="icon">
+      {{transparent-heart.svg}}
+    </div>
+  </div>
+</div>
+\end
+
+!Example 
+
+<$list filter=Yusgef>
+  <<hitpoints>>
+</$list>

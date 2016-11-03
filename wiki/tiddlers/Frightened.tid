@@ -1,0 +1,11 @@
+bullets: <ul><li>You have disadvantage on ability checks and attack rolls while the source of your fear is within line of sight.</li><li>You can't willingly move closer to the source of your fear.</li></ul>
+category: Condition
+created: 20150531182910765
+description: You are frightened
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/sharp-smile.svg
+reference: PHB, pg. 290.
+subtitle: You are frightened
+tags: Frightened Condition Reference
+title: Frightened
+type: text/vnd.tiddlywiki
+

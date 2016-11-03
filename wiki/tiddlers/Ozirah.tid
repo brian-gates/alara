@@ -1,0 +1,26 @@
+ac: 18
+background: Noble
+bond: Obsessed with finding the old man who stole my gold. 
+cha: 18
+class: Vengeance Paladin of Bahamut (6)
+con: 11
+created: 20160109004700040
+dex: 10
+ethic: Lawful
+flaw: Obsessed with gold and wealth. 
+ideal: Will always attempt to parley before entering combat.
+int: 10
+modified: 20160611043408207
+moral: Good
+passive_perception: 10
+race: Human
+spell_save_dc: 15
+str: 16
+tags: PC
+title: Ozirah
+traits: Will never admit to being wrong, even when shown definitive proof, insists his plan is always right.Takes great pains to groom himself and follow the latest fashions. 
+type: text/vnd.tiddlywiki
+wis: 10
+worships: Bahamut
+
+<$transclude tiddler="Ozirah's Spells" mode="block" />

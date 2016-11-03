@@ -1,0 +1,32 @@
+ac: 12
+ac-type: 
+actions: Dagger. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. <br>Hit:4 (1d4 + 2) piercing damage.<br>Sling. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. <br>Hit:4 (1d4 + 2) bludgeoning damage.<br>
+additional-settings: Sunlight Sensitivity. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.<br>Pack Tactics. The kobold has advantage on an attack roll against a creature if at least one of the kobold’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+alignment: lawful evil
+cha: 8
+con: 9
+conditional-immunities: 
+cr: 0.125
+created: 20150516222853983
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 15
+hp: 5
+hp-formula: 2d6-2
+int: 8
+languages: Common, Draconic
+legendary-actions: 
+monster-type: Small humanoid (kobold)
+name: Kobold
+saving-throws: 
+senses: darkvision 60 ft., passive Perception 8
+skills: 
+speed: 30 ft.
+str: 7
+tags: Monster Kobold
+title: Kobold
+type: text/vnd.tiddlywiki
+wis: 7
+xp: 25
+

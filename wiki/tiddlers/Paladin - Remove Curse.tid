@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Paladin
+components: V, S
+created: 20150517055505966
+description: At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's attunement to the object so it can be removed or discarded.
+duration: Instantaneous
+level: 3
+name: Remove Curse
+range: Touch
+school: Abjuration
+tags: Spell 3 [[Remove Curse]] Abjuration [[1 action]] Touch Paladin
+title: Paladin - Remove Curse
+type: text/vnd.tiddlywiki
+

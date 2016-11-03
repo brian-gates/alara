@@ -1,0 +1,11 @@
+created: 20150517213614495
+modified: 20160112054117593
+spells: 
+tags: 
+title: Spell List
+type: text/vnd.tiddlywiki
+
+<$list filter="0 1 2 3" variable="level">
+  Level <<level>>
+  <<list-spells "[list[!!spells]level<level>]">>
+</$list>

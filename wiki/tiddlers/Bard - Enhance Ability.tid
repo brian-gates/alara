@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Bard
+components: V, S, M
+created: 20150517055447996
+description: (fur or a feather from a beast) You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.<br>- Bear's Endurance. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.<br>- Bull's Strength. The target has advantage on Strength checks, and his or her carrying capacity doubles.<br>- Cat's Grace. The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated.<br>- Eagle's Splendor. The target has advantage on Charisma checks.<br>- Fox's Cunning. The target thas advantage on Intelligence checks.<br>- Owl's Wisdom. The target has advantage on Wisdom checks.<br> At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+duration: Concentration, up to 1 hour
+level: 2
+name: Enhance Ability
+range: Touch
+school: Transmutation
+tags: Spell 2 [[Enhance Ability]] Transmutation [[1 action]] Touch Bard
+title: Bard - Enhance Ability
+type: text/vnd.tiddlywiki
+

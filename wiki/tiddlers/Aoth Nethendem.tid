@@ -1,0 +1,84 @@
+ac: 18
+background: [[Sage]]
+bond: I seek to follow in the footsteps of [[Deneir]] and gaze upon the [[Metatext]] unlocking the secrets of the multiverse and achieving supreme enlightenment/godhood.
+class: [[Cleric]] ([[Knowledge Domain]])
+created: 20150910070416159
+description: Distinguished looking gentleman in fine clothing, the bulkiness of which hints at armor beneath.  Numerous scrolls and books are at his sides, along with a mace and shield.
+ethic: Neutral
+flaw: Unlocking an ancient mystery ([[Metatext]]) is worth the price of a civilization.
+hp: 33
+ideal: Knowledge. The path to power and self-improvement is through knowledge. (Neutral)
+modified: 20160324063204067
+moral: Neutral
+passive_perception: 19
+race: Human
+tags: PC
+title: Aoth Nethendem
+traits: There’s nothing I like more than a good mystery.  I'm used to helping out those who aren’t as smart as I am, and I patiently explain anything and everything to others.
+type: text/vnd.tiddlywiki
+worships: [[Deneir]]
+
+<div class="aoth-nethendem">
+
+Feat: [[Observant]]
+
+Glyphscribe, a [[Cleric]] of the god [[Deneir]], Lord of all Glyphs and Images, the Scribe of [[Oghma]].  I seek to follow in the footsteps of [[Deneir]] and gaze upon the [[Metatext]], unlocking the secrets of the multiverse and achieving supreme enlightenment/godhood.
+
+Originally from [[Great Rock]].
+
+Languages: Common, Dwarvish, Elvish, Draconic, Celestial, Gnomish
+
+Feature: Researcher ([[Sage]])
+
+<div class="attributes">
+
+!! Attributes
+
+(rolled: 11 11 13 14 15 16)
+
+
+|!|!Value|!Mod|!Proficient in saving throws|
+|!Str|12|+1||
+|!Dex|14|+2||
+|!Con|15|+2||
+|!Int|16|+3||
+|!Wis|18|+4|✓|
+|!Cha|12|+1|✓|
+
+</div>
+
+!!! Skills
+
+<style>
+.aoth-nethendem .skills table {
+  width: auto;
+}
+</style>
+
+<div class="skills">
+
+| !Arcana+|5 |
+| !History++|7 |
+| !Nature+|5 |
+| !Insight+|6 |
+| !Religion++|8 |
+
+</div>
+
+!! Spells
+
+<$transclude tiddler="Aoth's Spells" mode="block" />
+
+</div>
+
+!! Quests
+
+<$list filter="[tag[Quest]tag[Aoth Nethendem]]"/>
+
+!! Items
+
+[[Pearl of Power]]
+
+!! Journal Entries
+
+<$list filter="[tag[Journal]tag[Aoth Nethendem]]"/>

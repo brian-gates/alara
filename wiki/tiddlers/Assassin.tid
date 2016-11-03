@@ -1,0 +1,32 @@
+ac: 15
+ac-type: studded leather
+actions: Multiattack. The assassin makes two shortsword attacks.<br>Shortsword. Melee Weapon Attack:+7 to hit, reach 5 ft., one target. <br>Hit:6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.<br>Light Crossbow. Ranged Weapon Attack:+7 to hit, range 80/320 ft., one target. <br>Hit:7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.<br>
+additional-settings: Assassinate.During its first turn, the assassin has advantage on attack rolls against any creature that hasn’t taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.<br>Evasion.If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.<br>Sneak Attack (1/Turn).The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn’t incapacitated and the assassin doesn’t have disadvantage on the attack roll.<br>
+alignment: any non-good alignment
+cha: 10
+con: 14
+conditional-immunities: 
+cr: 8
+created: 20150516222854893
+damage-immunities: 
+damage-resistances: poison
+description: 
+dex: 16
+hp: 78
+hp-formula: 12d8+24
+int: 13
+languages: Thieves’ cant plus any two languages
+legendary-actions: 
+monster-type: Medium humanoid (any race)
+name: Assassin
+saving-throws: Dex +7, Int +5
+senses: passive Perception 14
+skills: Acrobatics +7, Deception +4, Perception +4, Stealth +11
+speed: 30 ft.
+str: 11
+tags: Monster Assassin
+title: Assassin
+type: text/vnd.tiddlywiki
+wis: 11
+xp: 3900
+

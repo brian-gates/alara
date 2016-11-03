@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Wizard
+components: V
+created: 20150517055514507
+description: You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends. At Higher Levels. When you cast this spell using a spell slot of 3rd or higher, you can taget one additiona creature for each slot level above 2nd.
+duration: 1 minute
+level: 2
+name: Blindness/Deafness
+range: 30 feet
+school: Necromancy
+tags: Spell 2 Blindness/Deafness Necromancy [[1 action]] [[30 feet]] Wizard
+title: Wizard - Blindness/Deafness
+type: text/vnd.tiddlywiki
+

@@ -1,0 +1,40 @@
+ac: 14
+cha: 16
+class: Bard
+con: 12
+created: 20151130062218746
+dex: 20
+ethic: Chaotic
+int: 14
+modified: 20160511064654895
+moral: Good
+passive_perception: 11
+race: Halfling
+spell_save_dc: 15
+spells: [[Bard - Minor Illusion]] [[Bard - Mage Hand]] [[Bard - Friends]] [[Bard - Charm Person]] [[Bard - Disguise Self]] [[Bard - Heroism]] [[Bard - Sleep]] [[Bard - Invisibility]] [[Bard - Tongues]] [[Bard - Healing Word]] [[Bard - Suggestion]]
+str: 6
+tags: PC
+title: Perrin
+type: text/vnd.tiddlywiki
+wis: 11
+
+Proficiency 3
+
+!!Equipment 
+
+ * [[Boots of Striding and Springing]]
+ * [[Potion of Healing]] x3
+
+!!Features
+
+ * [[Bardic Inspiration]] d8
+ * [[Song of Rest]] d6
+ * [[Font of Inspiration]]
+
+!!Spells
+
+DC 14 (8+prof+Cha)
+
+Attack 6 prof+cha
+
+<$transclude tiddler="Spell List" mode="block" />

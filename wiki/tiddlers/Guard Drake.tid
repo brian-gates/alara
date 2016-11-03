@@ -1,0 +1,32 @@
+ac: 14
+ac-type: natural armor
+actions: Multiattack.The drake attacks twice, once with its bite and once with its tail.<br>Bite. Melee Weapon Attack:+5 to hit, reach 5 ft., one target.<br>Hit: 7 ( 1d8 + 3) piercing damage.<br>Tail. Melee Weapon Attack:+5 to hit, reach 5 ft., one target. <br>Hit: 6 (1d6 + 3) bludgeoning damage.
+additional-settings: 
+alignment: unaligned
+cha: 7
+con: 16
+conditional-immunities: 
+cr: 2
+created: 20150516222854183
+damage-immunities: 
+damage-resistances: Lightning
+description: 
+dex: 11
+hp: 52
+hp-formula: 7d8+21
+int: 4
+languages: understands Draconic but can't speak
+legendary-actions: 
+monster-type: medium Dragon
+name: Guard Drake
+saving-throws: Perception +2
+senses: darkvision 60ft., passive Perception 12
+skills: 
+speed: 30 ft.
+str: 16
+tags: Monster [[Guard Drake]]
+title: Guard Drake
+type: text/vnd.tiddlywiki
+wis: 10
+xp: 450
+

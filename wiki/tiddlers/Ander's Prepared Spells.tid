@@ -1,0 +1,37 @@
+created: 20160113071212684
+modified: 20160113071544333
+tags: [[Ander Blackwood]]
+title: Ander's Prepared Spells
+type: text/vnd.tiddlywiki
+
+<$list filter="0 1" variable="level">
+  Level <<level>>
+  <table class="$class$">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Cast time</th>
+        <th>Class</th>
+        <th>Components</th>
+        <th>Duration</th>
+        <th>Level</th>
+        <th>Range</th>
+        <th>School</th>
+      </tr>
+    </thead>
+    <tbody>
+      <$list filter="[tag[Ander's Prepared Spells]level<level>]" variable="spell">
+        <tr>
+          <td><$link to=<<spell>>><$view tiddler=<<spell>> field=name/></$link></td>
+          <td><$view tiddler=<<spell>> field=cast-time/></td>
+          <td><$view tiddler=<<spell>> field=class/></td>
+          <td><$view tiddler=<<spell>> field=components/></td>
+          <td><$view tiddler=<<spell>> field=duration/></td>
+          <td><$view tiddler=<<spell>> field=level/></td>
+          <td><$view tiddler=<<spell>> field=range/></td>
+          <td><$view tiddler=<<spell>> field=school/></td>
+        </tr>
+      </$list>
+    </tbody>
+  </table>
+</$list>

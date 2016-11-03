@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Bard
+components: S
+created: 20150517055446677
+description: You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target's defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn't ended.
+duration: Concentration, up to 1 round
+level: 0
+name: True Strike
+range: 30 feet
+school: Divination
+tags: Spell 0 [[True Strike]] Divination [[1 action]] [[30 feet]] Bard
+title: Bard - True Strike
+type: text/vnd.tiddlywiki
+

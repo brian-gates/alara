@@ -1,0 +1,12 @@
+bullets: <ul><li>You can't stand up if you don't have enough movement left or if your speed is 0</li></ul>
+caption: Limited by movement speed
+category: Movement
+created: 20150531182911645
+description: Movement cost: half of your speed
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/strong.svg
+reference: PHB, pg. 190-191.
+subtitle: Cost: half movement speed
+tags: [[Stand up]] Movement Reference
+title: Stand up
+type: text/vnd.tiddlywiki
+

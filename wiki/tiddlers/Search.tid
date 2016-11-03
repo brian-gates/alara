@@ -1,0 +1,12 @@
+bullets: <ul><li>Depending on the nature of your search, the DM might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check.</li></ul>
+caption: 1/turn
+category: Action
+created: 20150531182911050
+description: Devote your attention to finding something
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/magnifying-glass.svg
+reference: PHB, pg. 193.
+subtitle: 
+tags: Search Action Reference
+title: Search
+type: text/vnd.tiddlywiki
+

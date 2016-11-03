@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Warlock
+components: V
+created: 20150517055512584
+description: Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.
+duration: 1 hour
+level: 8
+name: Glibness
+range: Self
+school: Transmutation
+tags: Spell 8 Glibness Transmutation [[1 action]] Self Warlock
+title: Warlock - Glibness
+type: text/vnd.tiddlywiki
+

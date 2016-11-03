@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Ranger
+components: V, S
+created: 20150517055508191
+description: You touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize on poison that you know is present, or you neutralize one at random. For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.
+duration: 1 hour
+level: 2
+name: Protection from Poison
+range: Touch
+school: Abjuration
+tags: Spell 2 [[Protection from Poison]] Abjuration [[1 action]] Touch Ranger
+title: Ranger - Protection from Poison
+type: text/vnd.tiddlywiki
+

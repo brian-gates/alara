@@ -1,0 +1,12 @@
+bullets: <ul><li>The target gains advantage on the next ability check it makes to perform the task you are helping with.</li><li>Alternatively, the target gains advantage on the next attack roll against against a creature within 5 feet of you.</li><li>The advantage lasts until the start of your next turn.</li></ul>
+caption: 1/turn
+category: Action
+created: 20150531182911168
+description: Grant an ally advantage on an ability check or attack
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/telepathy.svg
+reference: PHB, pg. 192.
+subtitle: Grant an ally advantage
+tags: Help Action Reference
+title: Help
+type: text/vnd.tiddlywiki
+

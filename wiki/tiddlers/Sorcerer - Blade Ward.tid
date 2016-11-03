@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Sorcerer
+components: V, S
+created: 20150531024542479
+description: You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
+duration: 1 round
+level: 0
+name: Blade Ward
+range: Self
+school: Abjuration
+tags: Spell 0 [[Blade Ward]] Abjuration [[1 action]] Self Sorcerer
+title: Sorcerer - Blade Ward
+type: text/vnd.tiddlywiki
+

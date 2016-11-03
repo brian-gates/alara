@@ -1,0 +1,12 @@
+bullets: <ul><li>You leap into the air a number of feet equal to <b>3 + your Strength modifier</b> if you move at least 10 feet on foot immediately before the jump.</li><li>When you make a standing high jump, you can jump only half that distance.</li><li>You can extend your arms half your height above yourself during the jump.</li><li>In some circumstances, your DM might allow you to make a Strength (Athletics) check to jump higher than you normally can.</li></ul>
+caption: Limited by movement speed
+category: Movement
+created: 20150531182911611
+description: Movement cost: 5ft per 5ft jumped
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/wingfoot.svg
+reference: PHB, pg. 182.
+subtitle: Cost: 5ft per 5ft
+tags: [[High jump]] Movement Reference
+title: High jump
+type: text/vnd.tiddlywiki
+

@@ -1,0 +1,12 @@
+bullets: <ul><li>A creature in a heavily obscured area effectively suffers from the <b>[[Blinded]] condition</b>.</li></ul>
+category: Environment
+created: 20150531182912106
+description: Darkness, opaque fog, dense foliage
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/lightning-tear.svg
+modified: 20160505040107915
+reference: PHB, pg. 183.
+subtitle: Effectively blind
+tags: [[Heavily obscured]] Environment Reference
+title: Heavily obscured
+type: text/vnd.tiddlywiki
+

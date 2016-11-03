@@ -1,0 +1,32 @@
+ac: 18
+ac-type: plate
+actions: Multiattack. The knight makes two melee attacks.<br>Greatsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.<br>Hit:10 (2d6 + 3) slashing damage.<br>Heavy Crossbow. Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. <br>Hit:5 (1d10) piercing damage.<br>Leadership (Recharges after a Short or Long Rest).For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.<br><br>Reactions<br>Parry. The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
+additional-settings: 
+alignment: any alignment
+cha: 15
+con: 14
+conditional-immunities: 
+cr: 3
+created: 20150516222854026
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 11
+hp: 52
+hp-formula: 8d8+16
+int: 11
+languages: any one language (usually Common)
+legendary-actions: 
+monster-type: Medium humanoid (any race)
+name: Knight
+saving-throws: Con +4, Wis +2
+senses: passive Perception 10
+skills: 
+speed: 30 ft.
+str: 16
+tags: Monster Knight
+title: Knight
+type: text/vnd.tiddlywiki
+wis: 11
+xp: 700
+

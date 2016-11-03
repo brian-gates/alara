@@ -1,0 +1,32 @@
+ac: 13
+ac-type: leather armor
+actions: Multiattack. The scout makes two melee attacks or two ranged attacks.<br>Shortsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.<br> Hit:5 (1d6 + 2) piercing damage.<br>Longbow. Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. <br>Hit: 6 (1d8 + 2) piercing damage.<br>
+additional-settings: Keen Hearing and Sight.The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+alignment: any alignment
+cha: 11
+con: 12
+conditional-immunities: 
+cr: 0.5
+created: 20150516222855958
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 14
+hp: 16
+hp-formula: 3d8+3
+int: 11
+languages: any one language (usually Common
+legendary-actions: 
+monster-type: Medium humanoid (any race)
+name: Scout
+saving-throws: 
+senses: passive Perception 15
+skills: Nature +4, Perception +5, Stealth +6, Survival +5
+speed: 30 ft.
+str: 11
+tags: Monster Scout
+title: Scout
+type: text/vnd.tiddlywiki
+wis: 13
+xp: 100
+

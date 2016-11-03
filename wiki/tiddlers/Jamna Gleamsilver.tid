@@ -1,0 +1,33 @@
+ac: 15
+ac-type: leather armor
+actions: Multiattack.Jamna  attacks twice with  her shortswords.<br>Shortsword.  Melee  Weapon Attack:+5 to  hit,  reach  5 ft.,  one target.  <br>Hit:6  (1d6 +  3)  piercing damage,  or 9  (1d6 +  3  plus  1d6) piercing damage  if the target is  Medium  or larger.
+additional-settings: Cunning Action.Jamna can take a  bonus  action to take the Dash,  Disengage,  or  Hide action.<br>Gnome Cunning.Jamna  has advantage on  Intelligence, Wisdom, and  Charisma  saving throws against  magic.<br>Spellcasting.Jamna  is a 4th-level  spellcaster that uses Intelligence as  her spellcasting ability  (spell  save  DC  12, +4 to hit with  spell  attacks). Jamna  has the following spells  prepared from the wizard  spell  list:<br>Cantrips  (at will): mage hand,  minor illusion,  prestidigitation,  ray of frost<br>1st level  (3  slots):  charm person,  color spray,  disguise self,<br>longstrider
+alignment: neutral
+cha: 12
+con: 14
+conditional-immunities: 
+cr: 1
+created: 20150516222854057
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 17
+hp: 22
+hp-formula: 4d6+8
+int: 15
+languages: Common,  Gnomish,  Goblin,  Sylvan
+legendary-actions: 
+modified: 20151006131320854
+monster-type: Small Humanoid
+name: Jamna Gleamsilver
+saving-throws: Dex +5, Int +4
+senses: darkvision  60 ft.,  passive  Perception  14
+skills: Acrobatics +5,  Deception +3,  Insight+2,  Perception +4,  Persuasion +3,  Stealth  +7
+speed: 25 ft.
+str: 8
+tags: Monster [[Jamna Gleamsilver]]
+title: Jamna Gleamsilver
+type: text/vnd.tiddlywiki
+wis: 10
+xp: 200
+

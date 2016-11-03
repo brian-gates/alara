@@ -1,0 +1,32 @@
+ac: 13
+ac-type: 16 with mage armor
+actions: Quarterstaff.  Melee  Weapon Attack:  +4to  hit,  reach  5 ft.,  one target.  Hit:  4 ( 1d8)  bludgeoning damage.<br><br>Reactions <br>Illusory Self (Recharges when  Rath  Finishes a Short or Long Rest).When  a  creature  Rath  can  see  makes  an  attack roll against him,  he can  interpose an  illusory duplicate  between the attacker and  him. The attack automatically  misses  Rath, then the  illusion  dissipates.
+additional-settings: Special Equipment. Rath  has  a  staff of fire, and  scrolls of dimension  door, featherfall, and  fireball.<br>Spellcasting. Rath  is  an  11th-level  spellcaster who  uses Intelligence as  his  spellcasting ability  (spell  save  DC  15, +7 to hit with  spell  attacks).  Rath  has the following spells  prepared <br>from the wizard  spell  list:<br>Cantrips  (at will) : fire  bolt,  minor illusion, prestidigitation, shocking grasp<br>1st level  (4 slots): chromatic orb,  color spray,  mage armor,  magic missile<br>2nd  level  (3  slots):  detect thoughts,  mirror image,  phantasmal force<br>3rd  level  (3  slots): counterspell, fireball,  major image<br>4th  level  (3  slots): confusion,  greater invisibility<br>5th  level  (2 slots):  mislead,  seeming<br>6th  level  (1  slot): globe  of invulnerability
+alignment: lawful evil
+cha: 10
+con: 14
+conditional-immunities: 
+cr: 6
+created: 20150516222856080
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 16
+hp: 71
+hp-formula: 11d8+22
+int: 18
+languages: Common,  Draconic,  Infernal,  Primordial, Thayan
+legendary-actions: 
+monster-type: Medium  humanoid  (human)
+name: Rath Modar
+saving-throws: Int +7, Wis +5
+senses: passive Perception 12
+skills: Arcana +7,  Deception +3,  Insight +5,  Stealth +6
+speed: 30 ft.
+str: 11
+tags: Monster [[Rath Modar]]
+title: Rath Modar
+type: text/vnd.tiddlywiki
+wis: 14
+xp: 2300
+

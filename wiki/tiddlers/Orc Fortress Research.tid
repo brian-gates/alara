@@ -1,0 +1,73 @@
+created: 20150208001017340
+modified: 20150208180520856
+tags: Spoiler
+title: Orc Fortress Research
+type: text/vnd.tiddlywiki
+
+```
+orc +5 width advantage vs:
+  bandit 15hp & 12ac = 0.910 hit * 6.5 avg dmg = 5.9dpr = .53 kpr
+  knight 52hp & 18ac = 0.639 hit * 6.5 damage  = 4.1dpr = .07 kpr
+
+orc +5 vs:
+  bandit 15hp & 12ac = 0.650 hit * 6.5 dmg = 4.2dpr = .28 kpr
+  knight 52hp & 18ac = 0.400 hit * 6.5 dmg = 2.6dpr = .05 kpr
+
+vs orc's 15 hp & 13 ac:
+  bandit +3 = .5  hit * 5.5 dmg = 2.75dpr  = .18 kpr
+  guard  +3 = .5  hit * 4.5 dmg = 2.25dpr  = .15 kpr
+  knight +2 = .45 hit * 5.5 dmg = 2.475dpr = .16 kpr
+
+
+Number in parenthesis is number of units equal to 9 orcs or 2250xp
+
+~2400xp budget for player army e.g. 1 knight, 1 priest, 6 bandits/guards
+
+3 700xp (2)
+  knight
+  veteran
+2 450xp (3)
+  priest
+  druid
+  berserker (chaotic)
+  bandit captain (non-lawful)
+1 200xp (6)
+  spy - riddle/challenge to find them
+1/2 100xp (9)
+  thug
+  scout
+  orc
+1/4 50xp (14)
+  acolyte
+1/8 25xp (25)
+  guard
+  bandit
+
+  recruit guards/bandits one day charisma checks in town (2d20)
+
+  bandit/guard -> fighter/scout -> 1wk training or quest for Elkas Lurellas (scouts) or Donovan Baeldan (fighters)
+
+  bandit/guard -> priest -> 1wk training or quest for Welton Ichor to recover a special herb from within a nearby forest which has been overrun by animals
+    1x SWARM OF INSECTS 1/2cr 100XP + 10x AWAKENED SHRUB 0cr 10XP
+    1x AWAKENED TREE 3cr 450xp
+    7x Pixies 50xp (875 XP) (upset about forest being cut down, must speak with Hugo Huron and convince him to stop)
+
+  knights -> quest for Donovan Baeldan
+    skill challenge to convince him that his forces will be used for good
+    Missing people investigate abandoned mansion
+      
+      ANIMATED ARMOR Challenge 1 (200 XP)
+      Flying Sword Challenge 1/4 (SO XP)
+      
+      RUG OF SMOTHERING Challenge 2 (45O XP)
+      
+      Ogre zombie cr2
+      
+      Zombies cr1/4
+      CULT FANATIC Challenge 2 (450 XP)
+
+  bandit/guard -> fighter/scout -> knight/veteran
+  bandit/guard -> acolyte -> priest * 
+```
+
+http://hardcodex.ru/monsters/?select=c62a77,c4f4ec,cf9df6,cd26ee,c2acb3,c0fead,c10a6e,cd2a77,

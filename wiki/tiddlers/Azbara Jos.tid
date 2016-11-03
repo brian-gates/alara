@@ -1,0 +1,32 @@
+ac: 13
+ac-type: 16 with Mage Armor
+actions: Dagger. Melee or Ranged Weapon Attack:+5 to hit, reach 5 ft. or ranged 20 ft./60 ft., one target. <br>Hit: 5 (1d4 + 3) piercing damage.
+additional-settings: Special Equipment.<br>Azbara has two scrolls of mage armor.<br>Potent Cantrips.<br>When Azbara casts an evocation cantrip and misses, or the target succeeds on its saving throw, the target still takes half the cantrip’s damage but suffers no other effect.<br>Sculpt Spells.<br>When Azbara casts an evocation spell that affects other creatures that he can see, he can choose a number of them equal to 1 + the spell’s level to succeed on their saving throws against the spell. Those creatures take no damage if they would normally take half damage from the spell.<br>Spellcasting.<br>Azbara is a 6th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Azbara has the following spells prepared from the wizard spell list:<br>Cantrips (at will): mage hand, restidigitation, ray of frost,shocking grasp<br>1st level (4 slots): fog cloud, magic missile, shield, thunderwave<br>2nd level (3 slots): invisibility, misty step, scorching ray<br>3rd level (3 slots): counterspell, dispel magic, fireball
+alignment: lawful evil
+cha: 11
+con: 14
+conditional-immunities: 
+cr: 4
+created: 20150516222854864
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 16
+hp: 39
+hp-formula: 6d8+12
+int: 16
+languages: Common, Draconic, Infernal, Primordial, Thayan
+legendary-actions: 
+monster-type: Medium Humanoid
+name: Azbara Jos
+saving-throws: Int +5, Wis +3
+senses: passive Perception 11
+skills: Arcana +5, Deception +2, Insight +3, Stealth +5
+speed: 0´30 ft.
+str: 9
+tags: Monster [[Azbara Jos]]
+title: Azbara Jos
+type: text/vnd.tiddlywiki
+wis: 13
+xp: 1000
+

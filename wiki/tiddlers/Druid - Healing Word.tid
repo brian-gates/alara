@@ -1,0 +1,15 @@
+cast-time: 1 bonus action
+class: Druid
+components: V
+created: 20150517055459138
+description: A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on unddead or constructs. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
+duration: Instantaneous
+level: 1
+modified: 20150530081049387
+name: Healing Word
+range: 60 feet
+school: Evocation
+tags: Spell 1 [[Healing Word]] Evocation [[1 bonus action]] [[60 feet]] Druid [[Kayla's Favorite Spells]] [[Kayla's Prepared Spells]]
+title: Druid - Healing Word
+type: text/vnd.tiddlywiki
+

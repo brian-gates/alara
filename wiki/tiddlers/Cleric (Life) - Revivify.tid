@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Cleric
+components: V, S, M
+created: 20150517055455095
+description: (diamonds worth 300 gp, which the spell consumes) You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.
+duration: Instantaneous
+level: 3
+name: Revivify
+range: Touch
+school: Conjuration
+tags: Spell 3 Revivify Conjuration [[1 action]] Touch [[Cleric (Life)]]
+title: Cleric (Life) - Revivify
+type: text/vnd.tiddlywiki
+

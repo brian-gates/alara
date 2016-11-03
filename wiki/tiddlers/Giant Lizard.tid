@@ -1,0 +1,33 @@
+ac: 12
+ac-type: natural armor
+actions: Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. <br>Hit: 6 (1d8 + 2) piercing damage.
+additional-settings: 
+alignment: unaligned
+cha: 5
+con: 13
+conditional-immunities: 
+cr: 0.25
+created: 20150516222854307
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 12
+hp: 19
+hp-formula: 3d10+3
+int: 2
+languages: 
+legendary-actions: 
+modified: 20150516223418395
+monster-type: Large beast
+name: Giant Lizard
+saving-throws: 
+senses: darkvision 30 ft., passive Perception 10
+skills: 
+speed: 30 ft., climb 30 ft.
+str: 15
+tags: Monster [[Giant Lizard]]
+title: Giant Lizard
+type: text/vnd.tiddlywiki
+wis: 10
+xp: 50
+

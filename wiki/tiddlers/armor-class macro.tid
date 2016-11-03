@@ -1,0 +1,37 @@
+created: 20160625191832803
+modified: 20160626154102787
+tags: $:/tags/Macro
+title: armor-class macro
+type: text/vnd.tiddlywiki
+
+\define armor-class(size:5)
+<style>
+  .armor-class-macro .ac {
+  	width: 2em;
+    height: 2em;
+    font-size: $size$em;
+    line-height: 2em;
+    text-align: center;
+    position: relative;
+    display: flex;
+  }
+  .armor-class-macro .ac img,
+  .armor-class-macro .ac value {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+  }
+</style>
+<div class="armor-class-macro">
+  <div class="ac">
+    <value>{{!!ac}}</value>
+    <img src="http://i.imgur.com/HC88CWO.png" />
+  </div>
+</div>
+\end
+
+!Example 
+
+<$list filter=Yusgef>
+  <<armor-class>>
+</$list>

@@ -1,0 +1,32 @@
+ac: 11
+ac-type: 
+actions: Multiattack.The yuan-ti makes two melee attacks.<br>Scimitar. Melee Weapon Attack:+3 to hit, reach 5 ft., one target. <br>Hit:4 (1d6 + 1) slashing damage.<br>Shortbow. Ranged Weapon Attack:+3 to hit, range 80/320 ft., one target. <br>Hit:4 (1d6 + 1) piercing damage plus 7 (2d6) poison damage.
+additional-settings: Innate Spellcasting.The yuan-ti’s spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components:<br>At will: animal friendship (snakes only)<br>3/day each: poison spray, suggestion<br>Magic Resistance.The yuan-ti has advantage on saving throws against spells and other magical effects.
+alignment: neutral evil
+cha: 14
+con: 11
+conditional-immunities: poisoned
+cr: 1
+created: 20150516222855078
+damage-immunities: poison
+damage-resistances: 
+description: 
+dex: 12
+hp: 40
+hp-formula: 9d8
+int: 13
+languages: Abyssal, Common, Draconic
+legendary-actions: 
+monster-type: Medium humanoid (yuan-ti)
+name: Yuan-ti Pureblood
+saving-throws: 
+senses: darkvision 60 ft., passive Perception 13
+skills: Deception +6, Perception +3, Stealth +3
+speed: 30 ft.
+str: 11
+tags: Monster [[Yuan-ti Pureblood]]
+title: Yuan-ti Pureblood
+type: text/vnd.tiddlywiki
+wis: 12
+xp: 200
+

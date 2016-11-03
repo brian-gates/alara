@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Cleric
+components: V, S
+created: 20150517055450782
+description: You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
+duration: Instantaneous
+level: 0
+name: Spare the Dying
+range: Touch
+school: Necromancy
+tags: Spell 0 [[Spare the Dying]] Necromancy [[1 action]] Touch Cleric
+title: Cleric - Spare the Dying
+type: text/vnd.tiddlywiki
+

@@ -1,0 +1,12 @@
+bullets: <ul><li>May involve a Strength (Athletics) check if the climb is difficult</li></ul>
+caption: Limited by movement speed
+category: Movement
+created: 20150531182911761
+description: Movement cost: 10ft per 5ft climbed
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/crags.svg
+reference: PHB, pg. 182.
+subtitle: Cost: 10ft per 5ft
+tags: Climb Movement Reference
+title: Climb
+type: text/vnd.tiddlywiki
+

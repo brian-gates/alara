@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Warlock
+components: V, S
+created: 20150517055509151
+description: You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
+duration: 1 round
+level: 0
+name: Blade Ward
+range: Self
+school: Abjuration
+tags: Spell 0 [[Blade Ward]] Abjuration [[1 action]] Self Warlock
+title: Warlock - Blade Ward
+type: text/vnd.tiddlywiki
+

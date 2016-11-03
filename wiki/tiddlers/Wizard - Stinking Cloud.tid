@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Wizard
+components: V, S, M
+created: 20150517055516459
+description: (a rotten egg or several skunk cabbage leaves) You create a 20-foot-radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is heavily obscured. The cloud lingers in the air for the duration. Each creature that is completely within the cloud at the start of its turn must make a Constitution saving throw against poison. On a failed save, the creature spends its action that turn retching and reeling. Creatures taht don't need to breathe or are immune to poison automatically succeed on this saving throw. A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds. A strong wind (at least 20 miles per hour) disperses it after 1 round.
+duration: Concentration, up to 1 minute
+level: 3
+name: Stinking Cloud
+range: 90 feet
+school: Conjuration
+tags: Spell 3 [[Stinking Cloud]] Conjuration [[1 action]] [[90 feet]] Wizard
+title: Wizard - Stinking Cloud
+type: text/vnd.tiddlywiki
+

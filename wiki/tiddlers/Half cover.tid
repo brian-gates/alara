@@ -1,0 +1,11 @@
+bullets: <ul><li>The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.</li><li>A target with half cover has a <b>+2 bonus to AC and Dexterity saving throws</b>.</li><li> If a target is behind multiple sources of cover, only the most protective degree of cover applies</li></ul>
+category: Environment
+created: 20150531182911899
+description: A target has half cover if an obstacle blocks at least half of its body
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/broken-shield.svg
+reference: PHB, pg. 196.
+subtitle: Low wall, furniture
+tags: [[Half cover]] Environment Reference
+title: Half cover
+type: text/vnd.tiddlywiki
+

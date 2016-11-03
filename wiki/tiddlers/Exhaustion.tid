@@ -1,0 +1,11 @@
+bullets: <ul><li><table><tr><th>Level</th><th></th><th></th><th style='text-align:left'>Effect</th></tr><tr><td>1</td><td></td><td></td><td>Disadvantage on ability checks</td></tr><tr><td>2</td><td></td><td></td><td>Speed halved</td></tr><tr><td>3</td><td></td><td></td><td>Disadvantage on attack rolls and saving throws</td></tr><tr><td>4</td><td></td><td></td><td>Hit point maximum halved</td></tr><tr><td>5</td><td></td><td></td><td>Speed reduced to 0</td></tr><tr><td>6</td><td></td><td></td><td>Death</td></tr></table></li><li>You suffer the effect of your current level of exhaustion as well as all lower levels.</li><li>Finishing a long rest reduces your exhaustion level by 1, provided that you have also had some food and drink.</li></ul>
+category: Condition
+created: 20150531182911424
+description: Exhaustion is measured in six levels
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/fall-down.svg
+reference: PHB, pg. 291.
+subtitle: You are exhausted
+tags: Exhaustion Condition Reference
+title: Exhaustion
+type: text/vnd.tiddlywiki
+

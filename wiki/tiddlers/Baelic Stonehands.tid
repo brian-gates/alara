@@ -10,7 +10,7 @@ interaction: Blustering
 low_ability: con
 low_attribute: Charisma
 mannerism: Enunciates overly clearly
-modified: 20150120053102942
+modified: 20151208080002932
 moral: Evil
 occupation_history: Miner
 race: Human
@@ -19,3 +19,7 @@ talent: Plays instrument
 title: Baelic Stonehands
 type: text/vnd.tiddlywiki
 
+Relationships: 
+
+ * Duke of [[House Stonehands]]
+ * Son of [[Torin Stonehands]] (Deceased) & [[Saundra Stonehands]] (Deceased)

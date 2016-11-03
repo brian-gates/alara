@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Bard
+components: V
+created: 20150517055450042
+description: You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you chose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.
+duration: Instantaneous
+level: 9
+name: Power Word Kill
+range: 60 feet
+school: Enchantment
+tags: Spell 9 [[Power Word Kill]] Enchantment [[1 action]] [[60 feet]] Bard
+title: Bard - Power Word Kill
+type: text/vnd.tiddlywiki
+

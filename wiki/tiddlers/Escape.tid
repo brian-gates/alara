@@ -1,0 +1,12 @@
+bullets: <ul><li>To escape a grapple, you must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by the grappler's Strength (Athletics) check.</li><li>Escaping other conditions that restrain you (such as manacles) may require a Dexterity or Strength check, as specified by the condition.</li></ul>
+caption: 1/turn
+category: Action
+created: 20150531182911198
+description: Escape a grapple
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/manacles.svg
+reference: PHB, pg. 195.
+subtitle: Escape a grapple
+tags: Escape Action Reference
+title: Escape
+type: text/vnd.tiddlywiki
+

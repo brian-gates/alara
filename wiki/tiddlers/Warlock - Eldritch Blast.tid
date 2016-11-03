@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Warlock
+components: V, S
+created: 20150517055509093
+description: A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage. The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. you can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
+duration: Instantaneous
+level: 0
+name: Eldritch Blast
+range: 120 feet
+school: Evocation
+tags: Spell 0 [[Eldritch Blast]] Evocation [[1 action]] [[120 feet]] Warlock
+title: Warlock - Eldritch Blast
+type: text/vnd.tiddlywiki
+

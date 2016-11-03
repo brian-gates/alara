@@ -1,0 +1,11 @@
+bullets: <ul><li>Within a specified range, a creature with darkvision can <b>see in darkness as if the darkness were dim light</b>, so areas of darkness are only lightly obscured as far as that creature is concerned.</li><li>However, the creature can’t discern color in darkness, only shades of gray.</li><li>Many creatures in the worlds of D&D, especially those that dwell underground, have darkvision.</li></ul>
+category: Environment
+created: 20150531182911962
+description: A creature with blindsight can perceive its surroundings without relying on sight, within a certain radius
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/semi-closed-eye.svg
+reference: PHB, pgs. 183-184.
+subtitle: Limited vision in darkness
+tags: Darkvision Environment Reference
+title: Darkvision
+type: text/vnd.tiddlywiki
+

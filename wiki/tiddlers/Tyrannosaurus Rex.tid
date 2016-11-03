@@ -1,0 +1,33 @@
+ac: 13
+ac-type: 
+actions: Bite-Melee Weapon Attack: +10 to hit, reach 10ft,one target. Hit: 33 (4d12 + 7) piercing damage. If the target is a Medium or small creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the tyrannosaurus can't bite another target. Tail-Melee Weapon Attack: +10 to hit, reach 10ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage.   Multiattack- two attacks: one with bite and one its tail. 
+additional-settings: 
+alignment: unaligned
+cha: 9
+con: 19
+conditional-immunities: 
+cr: 8
+created: 20161019210226768
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 10
+hp: 136
+hp-formula: 13d12+52
+int: 2
+languages: 
+legendary-actions: 
+modified: 20161019211550713
+monster-type: huge beast
+name: Tyranno
+saving-throws: 
+senses: passive Perception 14
+skills: Perception +4 
+speed: 50 ft.
+str: 25
+tags: Monster t-rex
+title: Tyrannosaurus Rex
+type: text/vnd.tiddlywiki
+wis: 12
+xp: 3900
+

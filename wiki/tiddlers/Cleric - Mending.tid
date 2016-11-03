@@ -1,0 +1,15 @@
+cast-time: 1 minute
+class: Cleric
+components: V, S, M
+created: 20150517055449642
+description: (two lodestones) This spell repairs a single break or tear in an object you touch, such as broken chain link, two halves of a broken key, a torn cloack, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage. This spell can physically repair a magic item or construct, but the spell can't restore magic to such an object.
+duration: Instantaneous
+level: 0
+modified: 20150924164013568
+name: Mending
+range: Touch
+school: Transmutation
+tags: Spell 0 Mending Transmutation [[1 minute]] Touch Cleric [[Aoth's Favorite Spells]] [[Aoth's Prepared Spells]]
+title: Cleric - Mending
+type: text/vnd.tiddlywiki
+

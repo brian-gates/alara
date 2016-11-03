@@ -1,0 +1,48 @@
+created: 20160626153333008
+modified: 20160626153823722
+tags: $:/tags/Macro
+title: fieldtemplate macro
+type: text/vnd.tiddlywiki
+
+\define fieldtemplate(value, label)
+<style>
+  .fieldtemplate-macro .fieldtemplate {
+    width: 2em;
+    height: 2em;
+    font-size: 5em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border: .1em solid black;
+    border-radius: 2em;
+    position: relative;
+  }
+  .fieldtemplate-macro .fieldtemplate value {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1 1 auto;
+  }
+  .fieldtemplate-macro .fieldtemplate label {
+    font-size: .25em;
+    flex: 0 0 auto;
+    position: absolute; 
+    bottom: .6em;
+    text-align: center;
+    width: 100%;
+    color: rgba(0,0,0, .5);
+  }
+</style>
+<div class="fieldtemplate-macro">
+  <div class="fieldtemplate">
+    <value>{{!!$value$}}</value>
+    <label>$label$</label>
+  </div>
+</div>
+\end
+
+!Example 
+
+<$list filter=Yusgef>
+  <<fieldtemplate "speed" "Speed">>
+</$list>

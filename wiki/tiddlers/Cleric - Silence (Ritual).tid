@@ -1,0 +1,15 @@
+cast-time: 1 action
+class: Cleric
+components: V, S
+created: 20150517055451433
+description: For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
+duration: Concentration, up to 10 minutes
+level: 2
+modified: 20151119071727928
+name: Silence (Ritual)
+range: 120 feet
+school: Illusion
+tags: Spell 2 [[Silence (Ritual)]] Illusion [[1 action]] [[120 feet]] Cleric [[Aoth's Favorite Spells]]
+title: Cleric - Silence (Ritual)
+type: text/vnd.tiddlywiki
+

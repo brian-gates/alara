@@ -1,0 +1,11 @@
+bullets: <ul><li>You have disadvantage on attack rolls and ability checks.</li></ul>
+category: Condition
+created: 20150531182910579
+description: You are poisoned
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/deathcab.svg
+reference: PHB, pg. 292.
+subtitle: You are poisoned
+tags: Poisoned Condition Reference
+title: Poisoned
+type: text/vnd.tiddlywiki
+

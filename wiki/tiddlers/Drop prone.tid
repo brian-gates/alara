@@ -1,0 +1,12 @@
+bullets: <ul><li>You can drop prone without using any of your speed</li><li>To move while prone, you must crawl or use magic such as teleportation</li><li>Dropping prone adds the <i>Prone</i> condition (melee attacks against you have advantage, ranged attacks against you have disadvantage, your own attacks have disadvantage)</li></ul>
+caption: Limited by movement speed
+category: Movement
+created: 20150531182911699
+description: Movement cost: 0ft (free)
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/falling.svg
+reference: PHB, pgs. 190-191,292.
+subtitle: Cost: 0ft
+tags: [[Drop prone]] Movement Reference
+title: Drop prone
+type: text/vnd.tiddlywiki
+

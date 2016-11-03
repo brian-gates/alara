@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Bard
+components: V, S, M
+created: 20150517055449577
+description: (a leather strap, bound around the arm or a similar appendage) You touch a willing creature. For the duration, the target's movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target's speed nor cause the target to be paralyzed or restrained. The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on teh target's movement or attacks.
+duration: 1 hour
+level: 4
+name: Freedom of Movement
+range: Touch
+school: Abjuration
+tags: Spell 4 [[Freedom of Movement]] Abjuration [[1 action]] Touch Bard
+title: Bard - Freedom of Movement
+type: text/vnd.tiddlywiki
+

@@ -1,0 +1,32 @@
+ac: 13
+ac-type: natural armor
+actions: Multiattack.The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.<br>Bite. Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. <br>Hit:11 (2d6 + 4) piercing damage.<br>Claws. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. <br>Hit: 13 (2d8 + 4) slashing damage.<br>Stinger. Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. <br>Hit:11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+additional-settings: 
+alignment: unaligned
+cha: 6
+con: 16
+conditional-immunities: 
+cr: 6
+created: 20150516222855151
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 10
+hp: 110
+hp-formula: 13d10+39
+int: 5
+languages: 
+legendary-actions: 
+monster-type: Large dragon
+name: Wyvern
+saving-throws: 
+senses: darkvision 60 ft., passive Perception 14
+skills: Perception +4
+speed: 20 ft., fly 80 ft.
+str: 19
+tags: Monster Wyvern
+title: Wyvern
+type: text/vnd.tiddlywiki
+wis: 12
+xp: 2300
+

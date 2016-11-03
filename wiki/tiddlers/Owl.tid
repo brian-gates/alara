@@ -1,0 +1,33 @@
+ac: 11
+ac-type: natural armor
+actions: Flyby-- owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.  Keen Hearing and Sight--The owl has advantage on Wisdom (Perception) checks that rely on hearing sight. Talons--Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 slashing damage. 
+additional-settings: 
+alignment: unaligned
+cha: 7
+con: 8
+conditional-immunities: 
+cr: 0
+created: 20161019212415709
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 13
+hp: 1
+hp-formula: 1d4-1
+int: 2
+languages: 
+legendary-actions: 
+modified: 20161019212758323
+monster-type: Tiny beast
+name: Owl
+saving-throws: 
+senses: darkvision 120 ft., passive Perception 13
+skills:  Perception +3, Stealth +3
+speed: 5 ft., fly 60ft. 
+str: 3
+tags: Monster owl
+title: Owl
+type: text/vnd.tiddlywiki
+wis: 12
+xp: 10
+

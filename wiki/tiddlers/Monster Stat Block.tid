@@ -1,0 +1,98 @@
+created: 20150516210852404
+modified: 20160401053326509
+tags: $:/tags/ViewTemplate
+title: Monster Stat Block
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[Monster]]">
+<style>
+.monster {
+	width:310px; 
+	font-family:Arial,
+	Helvetica,sans-serif;
+	font-size:11px;
+}
+.monster .gradient {
+    background: linear-gradient(10deg, #A73335, white);
+    height:5px;
+    margin:7px 0px;
+}
+.monster .name {
+    font-size:225%;
+    font-family:Georgia, serif;
+    font-variant:small-caps;
+    font-weight:bold;
+    color:#A73335;
+}
+.monster .description {
+    font-style:italic;    
+}
+.monster .bold {
+    font-weight:bold;
+}
+.monster .red {
+    color:#A73335;
+}
+.monster table {
+    width:100%;
+    border:0px;
+    border-collapse:collapse;
+    color:#A73335;
+}
+.monster th, .monster td {
+    width:50px;
+    text-align:center;
+}
+.monster .actions {
+    font-size:175%;
+    font-variant:small-caps;
+    margin:17px 0px 0px 0px;
+}
+.monster .hr {
+    background: #A73335;
+    height:2px;
+}
+.monster .attack {
+    margin:5px 0px;
+}
+.monster .attackname {
+    font-weight:bold;
+    font-style:italic;
+}
+</style>
+<div class="monster">
+<div class="description">{{!!monster-type}}, {{!!alignment}}</div>
+
+<div class="gradient"></div>
+
+<div class="red">
+    <div ><span class="bold red">Armor Class</span><span> {{!!ac}} ({{!!ac-type}})</span></div>
+    <div><span class="bold red">Hit Points</span><span> {{!!hp}} ({{!!hp-formula}})</span></div>
+    <div><span class="bold red">Speed</span><span> {{!!speed}}</span></div>
+</div>
+
+<div class="gradient"></div>
+
+<table>
+    <tr><th>STR    </th><th>DEX   </th><th>CON    </th><th>INT   </th><th>WIS   </th><th>CHA   </th></tr>
+    <tr><td>{{!!str}}</td><td>{{!!dex}}</td><td>{{!!con}}</td><td>{{!!int}}</td><td>{{!!wis}}</td><td>{{!!cha}}</td></tr>
+</table>
+    
+<div class="gradient"></div>
+    
+<div><span class="bold">Skills</span><span> {{!!skills}}</span></div>
+<div><span class="bold">Senses</span><span> {{!!senses}}</span></div>
+<div><span class="bold">Languages</span><span> {{!!languages}}</span></div>
+<div><span class="bold">Challenge</span><span> {{!!cr}} ({{!!xp}} XP)</span></div> 
+    
+<div class="gradient"></div>
+
+<div class="actions red">Actions</div>
+    
+<div class="hr"></div>
+ 
+<div class="attack">{{!!actions}}</div>   
+
+<div class="attack">{{!!additional-settings}}</div>    
+</div>
+</$list>

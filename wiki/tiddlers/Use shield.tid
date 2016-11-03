@@ -1,0 +1,12 @@
+bullets: <ul><li>A shield always takes an action to equip or unequip.</li><li>Armor takes several minutes to equip or unequip.</li></ul>
+caption: 1/turn
+category: Action
+created: 20150531182911111
+description: Equip or unequip a shield
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/round-shield.svg
+reference: PHB, pgs. 144-146.
+subtitle: Equip or unequip a shield
+tags: [[Use shield]] Action Reference
+title: Use shield
+type: text/vnd.tiddlywiki
+

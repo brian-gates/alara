@@ -1,0 +1,11 @@
+bullets: <ul><li>A target with total cover <b>can’t be targeted directly</b> by an attack or a spell, although some spells can reach such a target by including it in an area of effect.</li><li>If a target is behind multiple sources of cover, only the most protective degree of cover applies</li></ul>
+category: Environment
+created: 20150531182911842
+description: A target has total cover if it is completely concealed by an obstacle
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/shield.svg
+reference: PHB, pg. 196.
+subtitle: Completely concealed
+tags: [[Full cover]] Environment Reference
+title: Full cover
+type: text/vnd.tiddlywiki
+

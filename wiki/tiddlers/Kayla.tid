@@ -1,0 +1,25 @@
+ac: 12
+background: Hermit
+bond: Should my discovery come to light, it could bring ruin to the world.
+class: [[Druid]] - Circle of the Forest
+created: 20150530071112428
+description: Plain, flower-child-looking, weathered, middle-aged woman who listens more than speaks.  The wrinkles around her eyes are warm.
+ethic: Neutral
+flaw: I am too enamored of ale, wine, and other intoxicants.
+ideal: Balance.  Opposite or contrary forces are actually complementary, interconnected, and interdependent in the natural world, and they give rise to each other as they interrelate to one another.
+modified: 20150825143731385
+moral: Neutral
+passive_perception: 22
+race: Human
+tags: PC
+title: Kayla
+traits: I’ve been isolated for so long that I rarely speak, preferring gestures and the occasional grunt.  The leader of my community had something wise to say on every topic, and I am eager to share that wisdom.
+type: text/vnd.tiddlywiki
+
+<div class="kayla">
+
+!! Kayla's Spells
+
+<$transclude tiddler="Kayla's Spells" mode="block" />
+
+</div>

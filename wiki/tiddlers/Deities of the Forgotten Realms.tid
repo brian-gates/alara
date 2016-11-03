@@ -1,0 +1,30 @@
+created: 20151105212143788
+modified: 20160226201102632
+tags: [[Table of Contents]] Gods [[Forgotten Realms]] Deities
+title: Deities of the Forgotten Realms
+type: text/vnd.tiddlywiki
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Title</th>
+      <th>Ethic</th>
+      <th>Moral</th>
+      <th>Symbol</th>
+      <th>Domains</th>
+    </tr>
+  </thead>
+  <tbody>
+    <$list filter="[tag[Deity]tag[Forgotten Realms]]+[sort[title]]" variable="deity">
+      <tr>
+        <td><$link to=<<deity>>><$view tiddler=<<deity>> field=title/></$link></td>
+        <td><$view tiddler=<<deity>> field=alias/></td>
+        <td><$view tiddler=<<deity>> field=ethic/></td>
+        <td><$view tiddler=<<deity>> field=moral/></td>
+        <td><$view tiddler=<<deity>> field=symbol/></td>
+        <td><$view tiddler=<<deity>> field=domains/></td>
+      </tr>
+    </$list>
+  </tbody>
+</table>

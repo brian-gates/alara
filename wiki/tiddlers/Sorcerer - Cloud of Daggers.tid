@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Sorcerer
+components: V, S, M
+created: 20150531024543980
+description: (a sliver of glass) You fill the air with spinning daggers in a cube 5 feet on each side, centered on a point you choose within range. A creature takes 4d4 slashing damage when it enters the spell's area for the first time on a turn or starts its turn there. At Higher Levels. when you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d4 for each slot level above 2nd.
+duration: Concentration, up to 1 minute
+level: 2
+name: Cloud of Daggers
+range: 60 feet
+school: Conjuration
+tags: Spell 2 [[Cloud of Daggers]] Conjuration [[1 action]] [[60 feet]] Sorcerer
+title: Sorcerer - Cloud of Daggers
+type: text/vnd.tiddlywiki
+

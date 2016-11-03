@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Ranger
+components: V, S
+created: 20150517055508281
+description: You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
+duration: Instantaneous
+level: 2
+name: Lesser Restoration
+range: Touch
+school: Abjuration
+tags: Spell 2 [[Lesser Restoration]] Abjuration [[1 action]] Touch Ranger
+title: Ranger - Lesser Restoration
+type: text/vnd.tiddlywiki
+

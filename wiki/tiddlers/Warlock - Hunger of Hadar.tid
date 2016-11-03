@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Warlock
+components: V, S, M
+created: 20150517055510860
+description: (a pickled octopus tentacle) You open a gateway to the dark between the stars, a region infested with unknown horrors. A 20-foot-radius sphere of blackness and bitter cold appears, centered on a point with range and lasting for the duration. This void is filled with a cacophony of soft whispers and slurping noises that can be heard up to 30 feet away. No light, magical or otherwise, can illuminate the area, and creatures uflly within the area are blinded. The void creates a warp in the fabric of space, and the area is difficult terrain. Any creature that starts its turn in the area takes 2d6 cold damage. Any creature that ends its turn in the area must succeed on a Dexterity saving throw or take 2d6 acid damage as milky, otherwordly tentacles rub against it.
+duration: Concentration, up to 1 minute
+level: 3
+name: Hunger of Hadar
+range: 150 feet
+school: Conjuration
+tags: Spell 3 [[Hunger of Hadar]] Conjuration [[1 action]] [[150 feet]] Warlock
+title: Warlock - Hunger of Hadar
+type: text/vnd.tiddlywiki
+

@@ -1,0 +1,14 @@
+created: 20160620195834045
+modified: 20160621041757617
+module-type: macro
+tags: $:/tags/Macro
+title: abilitymod macro
+type: application/javascript
+
+exports.name = 'abilitymod';
+
+exports.params = [{name: 'abilityScore'}];
+
+exports.run = function(abilityScore) {
+  return Math.floor((parseInt(abilityScore) - 10) / 2);
+}

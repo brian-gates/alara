@@ -1,0 +1,32 @@
+ac: 20
+ac-type: plate, shield
+actions: Multiattack.The helmed horror makes two longsword attacks.<br>Longsword. Melee Weapon Attack:+6 to hit, reach 5 ft., one target.<br>Hit:8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.<br>
+additional-settings: Magic Resistance.The helmed horror has advantage on saving throws against spells and other magical effects.<br>Spell Immunity. The helmed horror is immune to three spells chosen by its creator. Typical immunities include fireball, heat metal, and lightning bolt.<br>
+alignment: neutral
+cha: 10
+con: 16
+conditional-immunities: blinded, charmed, deafened, frightened,  paralyzed, petrified, poisoned, stunned
+cr: 4
+created: 20150516222854154
+damage-immunities: force, necrotic, poison
+damage-resistances: bludgeoning, piercing, and slashing from  nonmagical weapons that aren’t adamantine
+description: 
+dex: 13
+hp: 60
+hp-formula: 8d8+24
+int: 10
+languages: understands the languages of its creator but can’t speak
+legendary-actions: 
+monster-type: Medium construct
+name: Helmed Horror
+saving-throws: 
+senses: blindsight 60 ft. (blind beyond this radius), passive Perception 14
+skills: Perception +4
+speed: 30 ft., fly 30ft.
+str: 18
+tags: Monster [[Helmed Horror]]
+title: Helmed Horror
+type: text/vnd.tiddlywiki
+wis: 10
+xp: 1100
+

@@ -1,0 +1,32 @@
+ac: 19
+ac-type: splint, shield
+actions: Multiattack. Othelstan attacks twice with his flail or spear, or makes two ranged attacks with his spears.<br>Flail. Melee Weapon Attack: +7to hit, reach 5 ft., one target.<br>Hit:8 ( 1d8 + 4) bludgeoning damage.<br>Spear. Melee or Ranged Weapon Attack:+7 to hit, reach 5 ft. or ranged 20 ft./60 ft., one target. <br>Hit: 7 ( 1d6 + 4) piercing damage.
+additional-settings: Action Surge (Recharges when Othelstan Finishes a Short or Long Rest). On his turn, Othelstan can take one additional action.<br>Tiamat’s Blessing of Retribution.When Othelstan takes damage that reduces him to 0 hit points, he immediately <br>regains 20 hit points. If he has 20 hit points or fewer at the end of his next turn, he dies.
+alignment: lawful evil
+cha: 12
+con: 16
+conditional-immunities: 
+cr: 5
+created: 20150516222854710
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 10
+hp: 93
+hp-formula: 11d10+33
+int: 13
+languages: Common, Draconic, Giant
+legendary-actions: 
+monster-type: Medium Humanoid
+name: Captain Othelstan
+saving-throws: Str +7. Con +6
+senses: passive Perception 15
+skills: Athletics +7, Intimidation +4, Perception +5, Religion +4
+speed: 30 ft.
+str: 19
+tags: Monster [[Captain Othelstan]]
+title: Captain Othelstan
+type: text/vnd.tiddlywiki
+wis: 14
+xp: 1800
+

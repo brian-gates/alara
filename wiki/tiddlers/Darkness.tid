@@ -1,0 +1,11 @@
+bullets: <ul><li>Creates a <b>heavily obscured</b> area.</li><li>Characters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a subterranean vault, or in an area of magical darkness.</li></ul>
+category: Environment
+created: 20150531182912017
+description: Darkness creates a heavily obscured area
+icon: https://s3-us-west-1.amazonaws.com/alara-icons/flat-svg/worried-eyes.svg
+reference: PHB, pg. 183.
+subtitle: Heavily obscured
+tags: Darkness Environment Reference
+title: Darkness
+type: text/vnd.tiddlywiki
+

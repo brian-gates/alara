@@ -1,0 +1,45 @@
+ac: 19
+background: Gladiator
+bond: The only way to grow is to seek challenge.
+cha: 15
+class: Eldritch Knight (6)
+con: 19
+created: 20160620180809247
+dex: 11
+equipment: [[Cloak of Protection]] [[Javelin of Lightning]] [[Ring of Enlarge/Reduce]] [[Plate Armor]] [[Shield]] [[Hand Axe]]
+ethic: Chaotic
+expertise: 
+flaw: Involved in scandal and it haunts me wherever I go.  I'm a sucker for a pretty face.
+hp: 69
+ideal: Friendship, Sportsmanship
+int: 11
+max-hp: 69
+modified: 20160629170834316
+moral: Good
+passive_perception: 11
+proficiencies: Athletics Insight Performance Intimidation Acrobatics [[Strength Saving Throw]] [[Constitution Saving Throw]]
+proficiency_bonus: 3
+race: Goliath
+saving_throw_proficiency_con: ✓
+saving_throw_proficiency_str: ✓
+speed: 30
+spell_save_dc: 12
+spells: [[Wizard - Lightning Lure]] [[Wizard - Chill Touch]] [[Wizard - Enlarge/Reduce]] [[Wizard (TOEE) - Absorb Elements]] [[Wizard - Longstrider]] 
+str: 20
+tags: PC
+title: Yusgef
+traits: I love a good insult, even one directed at me.
+type: text/vnd.tiddlywiki
+wis: 12
+worships: Kord
+
+!! Spells
+
+<<list-links [list[!!spells]]>>
+
+!! Equipment
+
+<<list-links [list[!!equipment]]>>
+
+[[Potion of Healing]] x2
+

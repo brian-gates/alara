@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Warlock
+components: V, S, M
+created: 20150517055510127
+description: (tiny tarts and a feather that waved in the air) A creature of your choise that can see within range perceives everything as hilariously funne and falls into fits of laugher if this spell affects it. The target must succeed on a Wisdom saving throw of fall prone, becoming incapacitated and unable to stabd up for the duration. A creature with an Intelligence score of 4 or less isn't affected.<br>At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it's triggered by damage. On a success, the spell ends.
+duration: Concentration, up to 1min
+level: 1
+name: Tasha's Hideous Laugher
+range: 30 feet
+school: Enchantment
+tags: Spell 1 [[Tasha's Hideous Laugher]] Enchantment [[1 action]] [[30 feet]] [[Warlock (Great Old One)]]
+title: Warlock (Great Old One) - Tasha's Hideous Laugher
+type: text/vnd.tiddlywiki
+

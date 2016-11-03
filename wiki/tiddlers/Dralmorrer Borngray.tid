@@ -1,0 +1,32 @@
+ac: 16
+ac-type: studded leather, Shield
+actions: Multiattack. Dralmorrer attacks twice, either with his longsword or dagger.<br>Longsword. Melee Weapon Attack:+6 to hit, reach 5 ft., one target. <br>Hit:8 ( 1d8 + 4) slashing damage.<br>Dagger. Melee or Ranged Weapon Attack:+6 to hit, reach 5 ft. or ranged 20 ft./60 ft., one target. <br>Hit:6 (1d4 + 4) piercing damage.
+additional-settings: Fey Ancestry. Dralmorrer has advantage on saving throws against being charmed, and magic can’t put him to sleep.<br>Spellcasting. Dralmorrer is a 7th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 <br>to hit with spell attacks). Dralmorrer has the following spells <br>prepared from the wizard spell list:<br>Cantrips (at will): fire bolt, prestidigitation, shocking grasp<br>1st level (4 slots): longstrider, magic missile, shield, thunderwave<br>2nd level (2 slots): magic weapon, misty step<br>War Magic.When Dralmorrer uses his action to cast a cantrip, he can also take a bonus action to make one weapon attack.<br>Weapon Bond. Provided his longsword is on the same plane, Dralmorrer can take a bonus action to teleport it to his hand.
+alignment: neutral evil
+cha: 8
+con: 14
+conditional-immunities: 
+cr: 3
+created: 20150516222854508
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 14
+hp: 52
+hp-formula: 7d10+14
+int: 16
+languages: Common, Bullywug, Draconic, Elvish, Goblin, Sylvan
+legendary-actions: 
+monster-type: Medium Humanoid
+name: Dralmorrer Borngray
+saving-throws: Str. +6, Con +4
+senses: darkvision 60ft., passive Perception +12
+skills: Arcana +5, Deception +1, Insight +2, Perception +2, Religion +5
+speed: 30 ft.
+str: 18
+tags: Monster [[Dralmorrer Borngray]]
+title: Dralmorrer Borngray
+type: text/vnd.tiddlywiki
+wis: 10
+xp: 700
+

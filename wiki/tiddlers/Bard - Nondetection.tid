@@ -1,0 +1,14 @@
+cast-time: 1 action
+class: Bard
+components: V, S, M
+created: 20150517055447158
+description: (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes) For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any divination magic or perceived through magical scrying sensors.
+duration: 8 hours
+level: 3
+name: Nondetection
+range: Touch
+school: Abjuration
+tags: Spell 3 Nondetection Abjuration [[1 action]] Touch Bard
+title: Bard - Nondetection
+type: text/vnd.tiddlywiki
+
