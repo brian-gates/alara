@@ -1,0 +1,16 @@
+created: 20161109184729902
+description: Rebel force on Barad Island that stands for freedom / anarchy / chaos / liberty.
+modified: 20161114203345166
+tags: Faction [[Barad Island]]
+title: The Grey
+type: text/vnd.tiddlywiki
+
+Rebel force on [[Barad Island]]. Stands for freedom / anarchy / chaos / liberty. Barad government kills anyone who wears grey.
+
+! People
+
+<ul>
+<$list filter="[tag[Person]tag<currentTiddler>sort[title]]">
+<li><$link to=<<currentTiddler>>><<currentTiddler>></$link> -  {{!!description}}</li>
+</$list>
+</ul>

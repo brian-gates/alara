@@ -1,0 +1,30 @@
+ac: 18
+background: Sage - Discredited Acedemic
+bond: I sold my soul for knowledge.  I hope to do great deeds and win it back.
+cha: 10
+class: Mystic - Order of the Awakened
+con: 12
+created: 20161109195159833
+description: Dark red eyes, ashe gray skin, fiery red hair, 225 lbs, 6', male, 35 years old
+dex: 12
+ethic: Chaotic
+expertise: Perception
+flaw: Unlocking an ancient mystery is worth the price of a civilization.
+ideal: Nothing should fetter the infinite possibility inherent in all existence.
+int: 18
+modified: 20161111200319567
+moral: Neutral
+passive_perception: 16
+proficiencies: [[Constitution Saving Throw]] [[Intelligence Saving Throw]] Arcana History Nature Insight Survival
+proficiency_bonus: 3
+race: Fire Genesi
+speed: 30
+spell_save_dc: 15
+str: 8
+tags: PC
+title: Dormammu
+traits: Speaks slowly when talking to idiots.
+type: text/vnd.tiddlywiki
+wis: 11
+
+[[Character Sheet|https://drive.google.com/open?id=0BzJ5gjrBDFMxWldiRGVvVTVVTzA]]

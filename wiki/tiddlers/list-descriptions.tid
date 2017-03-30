@@ -1,0 +1,15 @@
+created: 20161119190408275
+modified: 20161119192100649
+tags: $:/tags/Macro
+title: list-descriptions
+type: text/vnd.tiddlywiki
+
+\define list-descriptions(filter,class:"")
+
+<ul>
+<$list filter="$filter$">
+<li><$link to=<<currentTiddler>>><<currentTiddler>></$link> -  {{!!description}}</li>
+</$list>
+</ul>
+
+\end

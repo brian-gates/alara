@@ -1,0 +1,27 @@
+created: 20161116212308050
+modified: 20161119194708817
+tags: $:/tags/ViewTemplate
+title: Scene View
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[Scene]]">
+
+! Locations
+
+<ul>
+<$list filter="[list[!!locations]]">
+<li><$link to=<<currentTiddler>>><<currentTiddler>></$link> -  {{!!description}}</li>
+</$list>
+</ul>
+
+
+! Cast
+
+<ul>
+<$list filter="[list[!!cast]]">
+<li><$link to=<<currentTiddler>>><<currentTiddler>></$link> -  {{!!description}}</li>
+</$list>
+</ul>
+
+
+</$list>

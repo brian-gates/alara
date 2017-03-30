@@ -1,0 +1,12 @@
+created: 20161114182733078
+modified: 20161114194224611
+tags: $:/tags/ViewTemplate
+title: Location Template
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]tag[Location]]">
+
+
+{{!!description}}
+
+</$list>

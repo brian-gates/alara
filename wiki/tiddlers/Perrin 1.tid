@@ -6,12 +6,12 @@ created: 20151130062218746
 dex: 20
 ethic: Chaotic
 int: 14
-modified: 20160511064654895
+modified: 20161124071147844
 moral: Good
 passive_perception: 11
 race: Halfling
 spell_save_dc: 15
-spells: [[Bard - Minor Illusion]] [[Bard - Mage Hand]] [[Bard - Friends]] [[Bard - Charm Person]] [[Bard - Disguise Self]] [[Bard - Heroism]] [[Bard - Sleep]] [[Bard - Invisibility]] [[Bard - Tongues]] [[Bard - Healing Word]] [[Bard - Suggestion]]
+spells: [[Bard - Minor Illusion]] [[Bard - Mage Hand]] [[Bard - Friends]] [[Bard - Charm Person]] [[Bard - Disguise Self]] [[Bard - Heroism]] [[Bard - Sleep]] [[Bard - Invisibility]] [[Bard - Tongues]] [[Bard - Healing Word]] [[Bard - Suggestion]] [[Wizard - Fly]] [[Darkvision - Wizard]] [[Bard - Magic Mouth (Ritual)]] [[Bard - Nondetection]]
 str: 6
 tags: PC
 title: Perrin

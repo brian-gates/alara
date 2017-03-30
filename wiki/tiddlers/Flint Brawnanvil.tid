@@ -1,14 +1,14 @@
 ac: 18
-action_surge: 1
+action_surge: 0
 background: [[Soldier]] (Brewer)
 bond: Someone saved my life on the battlefield. To this day, I will never leave a friend behind.
 cha: 5
 class: [[Battlemaster]] [[Fighter]] 5
 con: 18
 created: 20160226185748603
-current_hit_dice: 4
-current_hp: 52
-current_superiority_dice: 4
+current_hit_dice: 0
+current_hp: 44
+current_superiority_dice: 3
 damage: 4
 description: Stocky even for a dwarf.  Large braided beard and hair with prominent gray streaks obscure a mutilated face.  Rarely seen without full-face helm.
 dex: 11
@@ -19,7 +19,7 @@ ideal: Greater Good. Our lot is to lay down our lives in defense of others.
 int: 10
 martial_dice: 3
 max_hp: 25
-modified: 20161029053813629
+modified: 20170325060357100
 moral: Good
 passive_perception: 10
 proficiencies: Athletics Perception Intimidation History [[Strength Saving Throw]] [[Constitution Saving Throw]]
@@ -27,7 +27,7 @@ proficiency_bonus: 3
 race: Mountain Dwarf
 saving_throw_proficiency_con: ✓
 saving_throw_proficiency_str: ✓
-second_wind: 1
+second_wind: 0
 speed: 25
 str: 20
 tags: PC
@@ -45,8 +45,8 @@ HP: 42 (rolled 1,5,10,6)
 <br>AC: 18
 
 | HP |<$edit-text type="number" field="current_hp"/> / 52 |
-| Hit dice |<$edit-text type="number" field="current_hit_dice"/> / 4 |
-| Superiority dice |<$edit-text type="number" field="current_superiority_dice"/> / 4 |
+| Hit dice |<$edit-text type="number" field="current_hit_dice"/> / 5 |
+| Superiority dice |<$edit-text type="number" field="current_superiority_dice"/> / 5 |
 | Second wind |<$edit-text type="number" field="second_wind"/> / 1 |
 | Action Surge |<$edit-text type="number" field="action_surge"/> / 1 |
 
@@ -59,13 +59,19 @@ Proficiency bonus: 3
  * [[Chain mail]] 16 ac
  * [[Short sword]]
  * [[Warhammer]] d20+8 d8+5
+ * Berserker Axe +1 (Attunement: +1 hp per level)
  * [[Shield]] +2 ac
  * 2x [[Handaxe]] d20+8 d6+5 slash, range 20/60
+ * 2x [[Javelin]] d20+8 d6+5 pierce, range 30/120
  * [[Dungeoneer’s Pack]]
  * [[Half Plate]] needs resizing
  * 40g
  * 500g
  * 100g gems x2
+ * [[Potion of Greater Healing]] 4d4+4
+ * 500g (ormarr gerd)
+ * +300g (stone box, hallway m)
+ * +475g Master Leodor
 
 !! Mountain Dwarf
 
@@ -78,7 +84,7 @@ Proficiency bonus: 3
  
 !! Battlemaster Fighter
 
-DC 15 (8+prof+str|dex)
+DC 16 (8+prof+str|dex)
 <br>5d8 superiority die
 
 !!! Proficiencies

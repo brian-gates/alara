@@ -1,0 +1,7 @@
+created: 20161119191349126
+modified: 20161119192020138
+tags: 
+title: List Descriptions Example
+type: text/vnd.tiddlywiki
+
+<<list-descriptions "[tag[PC]sort[title]]">>

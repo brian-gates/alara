@@ -1,0 +1,33 @@
+ac: 18
+ac-type: plate
+actions: <p>Smash: +8 to hit, reach 10ft, one target. Hit: 16 (2d8+7) crushing damage. If the target is a Medium or small creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained.</p><p>Multiattack - two smash attacks.</p>
+additional-settings: 
+alignment: 
+cha: 1
+con: 19
+conditional-immunities: blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
+cr: 7
+created: 20161114211241398
+damage-immunities: poison, psychic
+damage-resistances: 
+description: 
+dex: 8
+hp: 190
+hp-formula: 
+int: 1
+languages: -
+legendary-actions: 
+modified: 20161115181530856
+monster-type: Gargantuan construct
+name: Giant Warforged
+saving-throws: 
+senses: blindsight 60', Passive perception 6
+skills: 
+speed: 30 ft.
+str: 25
+tags: Monster
+title: Giant Warforged
+type: text/vnd.tiddlywiki
+wis: 1
+xp: 3900
+

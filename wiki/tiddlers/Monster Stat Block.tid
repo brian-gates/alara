@@ -1,5 +1,5 @@
 created: 20150516210852404
-modified: 20160401053326509
+modified: 20161116211926933
 tags: $:/tags/ViewTemplate
 title: Monster Stat Block
 type: text/vnd.tiddlywiki
@@ -80,12 +80,16 @@ type: text/vnd.tiddlywiki
     
 <div class="gradient"></div>
     
+<div><span class="bold">Condition Immunities</span><span> {{!!conditional-immunities}}</span></div>
+<div><span class="bold">Damage Immunities</span><span> {{!!damage-immunities}}</span></div>
 <div><span class="bold">Skills</span><span> {{!!skills}}</span></div>
 <div><span class="bold">Senses</span><span> {{!!senses}}</span></div>
 <div><span class="bold">Languages</span><span> {{!!languages}}</span></div>
 <div><span class="bold">Challenge</span><span> {{!!cr}} ({{!!xp}} XP)</span></div> 
-    
+
 <div class="gradient"></div>
+
+<div>{{!!additional-settings}}</div>    
 
 <div class="actions red">Actions</div>
     
@@ -93,6 +97,5 @@ type: text/vnd.tiddlywiki
  
 <div class="attack">{{!!actions}}</div>   
 
-<div class="attack">{{!!additional-settings}}</div>    
 </div>
 </$list>

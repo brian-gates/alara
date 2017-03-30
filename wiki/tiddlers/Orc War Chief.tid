@@ -1,0 +1,33 @@
+ac: 16
+ac-type: chain mail
+actions: <p>Multiattack: Two attacks with greataxe or spear</p><p>Greataxe. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.  Hit: 14 (1d12+4+d8) slashing damage.</p><p>Spear. +6 to hit, 5' or 20/50'.  Hit: 12(d6+d8+4) piercing or 13 (2d8+4) piercing if used with two hands.</p><p>Battle Cry (1/day) each creature of choice within 30' that can hear gains advantage on attack rolls until the start of the war chief's next turn. War chief can make one attack as a bonus action.</p>
+additional-settings: <p>Aggressive.As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.</p> <p>Gruumsh's Fury. The orc deals extra 4 (1d8) damage when it hits with a weapon attack (included in the attacks)</p>
+alignment: chaotic evil
+cha: 16
+con: 18
+conditional-immunities: 
+cr: 4
+created: 20161116211120283
+damage-immunities: 
+damage-resistances: 
+description: 
+dex: 12
+hp: 93
+hp-formula: 11d8+44
+int: 11
+languages: Common, Orc
+legendary-actions: 
+modified: 20161116211756582
+monster-type: Medium humanoid (orc)
+name: Orc War Chief
+saving-throws: Str +6, Con +6, Wis +2
+senses: darkvision 60 ft., passive Perception 10
+skills: Intimidation +5
+speed: 30 ft.
+str: 18
+tags: Monster Orc
+title: Orc War Chief
+type: text/vnd.tiddlywiki
+wis: 11
+xp: 1100
+

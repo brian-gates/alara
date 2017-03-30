@@ -1,40 +1,43 @@
 created: 20150102013914115
-modified: 20150110233013967
-tags: Place
+modified: 20161121184645266
+tags: Place Location
 title: Barad Island
 type: text/vnd.tiddlywiki
 
-[img[Barad Island.jpg]]
-Barad Island was long ago owned by the kingdom and served as a major trade hub and entertainment location, but crime escelated over the years to the point where it cost the kingdom more than it was worth to police it.  The kingdom turned to alternative routes and Barad descended into a chaotic, lawless land of drunken debauchery.  The island is dominated by a massive arena where thousands gather to witness savage bloodsports.  Gambling, drinking, prostitution, and brawling are commonplace.  This place is not for the weak.
+<<<
+
+The story of Barad Island is interesting, if volatile. Under the control of Aeris Vale, it was once a thriving and peaceful oceanic trade hub. But it's declining trade, increasing crime, and logistical challenges led to the Vale cutting ties. The island descended into chaos. 
+
+If you believe the "official" history books, the established aristocracy expertly quelled some minor rebellions and quickly reestablished order, but there are whispers of civil unrest between two factions known as The Raven Clan and The Grey. An well-known fact is that a massive robot was used by those now in control; an unprecedented and powerful technology to be sure. 
+
+I will keep my eyes on Barad Island. I doubt this will be the last we hear of them.
+
+<<< - Journal notes of Aoth Nethendem
+
+! Symbol of Barad
+
+[img[http://aniwaya.soulsrpg.com/public/images/marks/warrior.png]]
 
 !People
-* [[Lurg]] - Massive brawler that likes to frequent the inns
-* [[Kor]] - Orc warehouse worker, supports [[The Gray]].
-* [[Ladris]] - Person to see regarding bounty to take out Kor
-* [[Kaidris]] - Healer that wants to participate in the [[Arena]]
-* [[Jaoquin]] - A supporter of [[The Gray]]. Owns [[Sirens Call]].
-* [[Joseph Malachi]] - Rich [[Raven Clan]] member
 
-!Events
-* [[Thieves]]
-* [[Drugs]]
-* [[Tax Collectors]]
-* [[Raven Clan Courier]]
-* [[Raven Clan Guards]]
-* [[Dock Collectors]]
-
-!Factions
-* [[Raven Clan]] - Seek control through law
-* [[The Gray]] - Seek freedom
+<ul>
+<$list filter="[tag[Person]tag[Barad Island]sort[title]]">
+<li><$link to=<<currentTiddler>>><<currentTiddler>></$link> -  {{!!description}}</li>
+</$list>
+</ul>
 
 !Locations
-* [[Salty Pig]] - [[Raven Clan]] inn
-* [[Lambs Leg]] Smaller in towards the center of the island
-* [[Sirens Call]] Club owned by [[Jaoquin]]
-* [[Savory Steak]] Small in.  Eastern docks.
-* [[Malachi Mansion]] owned by [[Joseph Malachi]] of [[Raven Clan]]
-* [[Arena]]
 
-!Quests
-[[Kor's Bounty]]
-[[Join the Arena]]
+<ul>
+<$list filter="[tag[Location]tag[Barad Island]sort[title]]">
+<li><$link to=<<currentTiddler>>><<currentTiddler>></$link>  - {{!!description}}</li>
+</$list>
+</ul>
+
+! Factions
+
+<ul>
+<$list filter="[tag[Faction]tag<currentTiddler>sort[title]]">
+<li><$link to=<<currentTiddler>>><<currentTiddler>></$link>  - {{!!description}}</li>
+</$list>
+</ul>

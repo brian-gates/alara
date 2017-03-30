@@ -1,5 +1,5 @@
 created: 20160116225239395
-modified: 20160611043341462
+modified: 20170103200607321
 tags: $:/tags/ViewTemplate
 title: PCGroupView
 type: text/vnd.tiddlywiki
@@ -25,25 +25,47 @@ type: text/vnd.tiddlywiki
   .pc-group-overview table, .pc-group-overview td {
     border: 0;
   }
+  
+   
+  .pc-group-overview .profile-image {
+    float: right;
+  }
+  
+  .pc-group-overview .profile-image img {
+    max-width: 200px;
+    max-height: 200px;
+    display: block;
+  }
 </style>
 
 <h2>Members</h2>
 
 <div class="pc-group-overview">
-  <$list filter="[list[!!members]]" variable="pc">
-    <h3><$link to=<<pc>>><$view tiddler=<<pc>> field=title/></$link></h3>
+  <$list filter="[list[!!members]]" variable="pc"><div class='pc'>
+    <$list filter="[tag[ProfileImage]tag<pc>]">
+      <figure class='profile-image'><$transclude/></figure>
+    </$list>
+    <h2><$link to=<<pc>>><$view tiddler=<<pc>> field=title/></$link></h2>
     <$view tiddler=<<pc>> field="ethic"/>
     <$view tiddler=<<pc>> field="moral"/>
     <$view tiddler=<<pc>> field="race"/>
     <$view tiddler=<<pc>> field="class"/>
-    <table>
-      <tr><td>Description</td><td><$view tiddler=<<pc>> field="description"/></td></tr>
-      <tr><td>Bond</td><td><$view tiddler=<<pc>> field="bond"/></td></tr>
-      <tr><td>Flaw</td><td><$view tiddler=<<pc>> field="flaw"/></td></tr>
-      <tr><td>Ideal</td><td><$view tiddler=<<pc>> field="ideal"/></td></tr>
-      <tr><td>Traits</td><td><$view tiddler=<<pc>> field="traits"/></td></tr>
-    </table>
-  </$list>
+    <dl>
+      <dt>Description</dt>
+      <dd><$view tiddler=<<pc>> field="description"/></dd>
+      <dt>Bond</dt>
+      <dd><$view tiddler=<<pc>> field="bond"/></dd>
+      <dt>Flaw</dt>
+      <dd><$view tiddler=<<pc>> field="flaw"/></dd>
+      <dt>Ideal</dt>
+      <dd><$view tiddler=<<pc>> field="ideal"/></dd>
+      <dt>Traits</dt>
+      <dd><$view tiddler=<<pc>> field="traits"/></dd>
+      <dt>Quests</dt>
+      <dd><<list-descriptions "[tag<pc>tag[Quest]tag[Active]]" >></dd>
+    </dl>
+
+  </div></$list>
 </div>
 
 <h2>Stats</h2>

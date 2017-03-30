@@ -1,0 +1,13 @@
+created: 20161114201121402
+modified: 20161115165115618
+tags: Script Spoiler
+title: Return to Barad
+type: text/vnd.tiddlywiki
+
+! Scenes
+
+<ul>
+<$list filter="[tag[Return to Barad]tag[Scene]]">
+<li><$link to=<<currentTiddler>>><<currentTiddler>></$link> -  {{!!description}}</li>
+</$list>
+</ul>

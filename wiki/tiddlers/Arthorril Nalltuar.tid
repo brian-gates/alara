@@ -2,7 +2,7 @@ ac: 15
 background: Charlatan
 bond: I owe everything to my mentor - a horrible person who's probably rotting in jail somewhere.
 cha: 20
-class: Warlock (5)/Rogue (1)
+class: Warlock (6)/Rogue (1)
 con: 13
 created: 20151208081814191
 description: Very attractive male of fit build. Beautiful long flowing hair. Brown eyes and light brown hair. Symbol of Pelor burned into his shoulder.
@@ -10,17 +10,18 @@ dex: 16
 ethic: Chaotic
 expertise: Arcana Deception
 flaw: You are afraid of the dark, and must always have a light source at hand.
-hp: 36
+hp: 42
 ideal: Retribution. The rich need to be shown what life and death are like in the gutters. (Evil)
 int: 16
-max-hp: 36
-modified: 20160703220310742
+max-hp: 42
+modified: 20170306003618791
 moral: Evil
 passive_perception: 14
 proficiencies: [[Dexterity Saving Throw]] [[Intelligence Saving Throw]] [[Charisma Saving Throw]] Acrobatics Intimidation Investigation Perception Religion [[Sleight of Hand]] Stealth
 proficiency_bonus: 3
 race: Half-Elf
 speed: 30
+spell_save_dc: 16
 str: 10
 tags: PC
 title: Arthorril Nalltuar
@@ -31,6 +32,10 @@ worships: Misotheistic - Hates the gods
 
 [[The Tragedy of Arthor Nalltuar|https://docs.google.com/document/d/12Dto8RiAvFNmcR7M14oGl7fuqmUgtGikGCPbAOnmwO0/edit]]
 
+[[Character Sheet|https://www.dropbox.com/s/lnwfc0r7eestqzy/Arthorril.txt?dl=0]]
+
 Relationships:
 
 Secret son of [[Saundra Stonehands]] (Deceased) & [[Ardiren Qualenetti]] (Deceased)
+
+Mysteriously acquired the Seraphim Prison that traps the angel [[Gaedriel]] within. Utilizes her as his warlock benefactor.
