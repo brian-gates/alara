@@ -1,13 +1,16 @@
 {
   "name": "alara",
-  "version": "0.0.0",
-  "description": "Alara World Setting Wiki",
+  "engines": {
+    "node": "4.6.0"
+  },
+  "version": "1.0.0",
+  "description": "Alara World Wiki",
   "main": "",
   "scripts": {
     "start": "tiddlywiki wiki/ --server $PORT",
     "postinstall": "npm install -g tiddlywiki"
   },
-  "author": "",
+  "author": "Brian Gates",
   "license": "ISC",
   "dependencies": {
     "tiddlywiki": "^5.1.7"
