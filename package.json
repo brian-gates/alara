@@ -3,12 +3,15 @@
   "engines": {
     "node": "4.6.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brian-gates/alara"
+  },
   "version": "1.0.0",
   "description": "Alara World Wiki",
   "main": "",
   "scripts": {
-    "start": "tiddlywiki wiki/ --server $PORT",
-    "postinstall": "npm install -g tiddlywiki"
+    "start": "./bin/start"
   },
   "author": "Brian Gates",
   "license": "ISC",
